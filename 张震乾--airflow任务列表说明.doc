@@ -1,0 +1,574 @@
+Message-ID: <441662961.2634604.1587050741828.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634603_359547845.1587050741828"
+
+------=_Part_2634603_359547845.1587050741828
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=BC=A0=E9=9C=87=E4=B9=BE--airflow=E4=BB=BB=E5=8A=A1=E5=88=97=
+=E8=A1=A8=E8=AF=B4=E6=98=8E</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=BC=A0=E9=9C=87=E4=B9=BE--airflow=E4=BB=BB=E5=8A=A1=E5=88=97=E8=
+=A1=A8=E8=AF=B4=E6=98=8E</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table class=3D"relative-table confluenceTable" style=3D"width: 51.1111%;">
+<colgroup>
+<col style=3D"width: 37.5907%;">
+<col style=3D"width: 18.8679%;">
+<col style=3D"width: 43.5414%;">
+</colgroup>
+<tbody>
+<tr>
+<th colspan=3D"1" class=3D"confluenceTh"><span>=E4=BB=BB=E5=8A=A1=E5=90=8D=
+=E7=A7=B0</span></th>
+<th colspan=3D"1" class=3D"confluenceTh"><span>=E6=89=A7=E8=A1=8C=E8=AE=A1=
+=E5=88=92</span></th>
+<th colspan=3D"1" class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><a title=3D"" href=3D"http://ai=
+rflow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dairflow-log-cleanup" cl=
+ass=3D"external-link" rel=3D"nofollow">airflow-log-cleanup</a></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" style=
+=3D"text-align: center;" href=3D"http://airflow.datalake.o-pay.in/admin/dag=
+run/?flt2_dag_id_equals=3Dairflow-log-cleanup" rel=3D"nofollow">@weekly</a>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=AE=9A=E6=9C=9F=E6=B8=85=E7=90=
+=86airflow=E6=97=A5=E5=BF=97</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Ddaily_data_volume" class=
+=3D"external-link" rel=3D"nofollow">daily_data_volume</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Ddaily_=
+data_volume" style=3D"text-align: center;" rel=3D"nofollow">30 08 * * *</a>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=AF=8F=E6=97=A5=E6=95=B0=E6=8D=
+=AE=E9=87=8F=E6=8A=A5=E5=91=8A</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Ddm_oride_passenge_ocash_api_cube_d" t=
+itle=3D"" class=3D"external-link" rel=3D"nofollow">dm_oride_passenge_ocash_=
+api_cube_d</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Ddm_ori=
+de_passenge_ocash_api_cube_d" style=3D"text-align: center;" rel=3D"nofollow=
+">30 01 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E7=BB=99ocash api=E6=AF=8F=E6=97=
+=A5=E5=AF=BC=E6=95=B0=E6=8D=AE</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dkafka-connectors-monitor" =
+class=3D"external-link" rel=3D"nofollow">kafka-connectors-monitor</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Dkafka-connectors-monitor" styl=
+e=3D"text-align: center;" class=3D"external-link" rel=3D"nofollow">*/10 * *=
+ * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">kafka=E9=87=87=E9=9B=86=E7=8A=B6=
+=E6=80=81=E7=9B=91=E6=B5=8B</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Dobus_source_log" title=3D"" class=3D"=
+external-link" rel=3D"nofollow">obus_source_log</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Dobus_s=
+ource_log" style=3D"text-align: center;" rel=3D"nofollow">10 * * * *</a></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">obus=E5=9F=8B=E7=82=B9=E6=95=B0=E6=
+=8D=AE=E9=87=87=E9=9B=86</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dofood_source_sqoop" class=
+=3D"external-link" rel=3D"nofollow">ofood_source_sqoop</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a style=3D"text-align: center;" c=
+lass=3D"external-link" href=3D"http://airflow.datalake.o-pay.in/admin/dagru=
+n/?flt2_dag_id_equals=3Dofood_source_sqoop" rel=3D"nofollow">30 02 * * *</a=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd">ofood=E5=85=A8=E9=87=8F=E9=87=87=
+=E9=9B=86</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Dofood_source_sqoop_monitor" title=3D"=
+" class=3D"external-link" rel=3D"nofollow">ofood_source_sqoop_monitor</a></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Dofood_=
+source_sqoop_monitor" style=3D"text-align: center;" rel=3D"nofollow">30 02 =
+* * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>ofood=E5=85=A8=E9=87=8F=E9=
+=87=87=E9=9B=86=E7=9B=91=E6=8E=A7</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dokash_hourly" class=3D"ext=
+ernal-link" rel=3D"nofollow">okash_hourly</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" style=
+=3D"text-align: center;" href=3D"http://airflow.datalake.o-pay.in/admin/dag=
+run/?flt2_dag_id_equals=3Dokash_hourly" rel=3D"nofollow">10 * * * *</a></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd">okash=E5=9F=8B=E7=82=B9=E9=87=87=
+=E9=9B=86</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dopay_source_sqoop_df" clas=
+s=3D"external-link" rel=3D"nofollow">opay_source_sqoop_df</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" style=
+=3D"text-align: center;" href=3D"http://airflow.datalake.o-pay.in/admin/dag=
+run/?flt2_dag_id_equals=3Dopay_source_sqoop_df" rel=3D"nofollow">00 03 * * =
+*</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">opay=E5=85=A8=E9=87=8F=E9=87=87=E9=
+=9B=86</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dopay_source_sqoop_df_monit=
+or" class=3D"external-link" rel=3D"nofollow">opay_source_sqoop_df_monitor</=
+a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Dopay_source_sqoop_df_monitor" =
+style=3D"text-align: center;" class=3D"external-link" rel=3D"nofollow">00 0=
+3 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>opay=E5=85=A8=E9=87=8F=E9=87=
+=87=E9=9B=86<span>=E7=9B=91=E6=8E=A7</span></span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Dopay_source_sqoop_di" clas=
+s=3D"external-link" rel=3D"nofollow">opay_source_sqoop_di</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Dopay_source_sqoop_di" style=3D=
+"text-align: center;" class=3D"external-link" rel=3D"nofollow">20 01 * * *<=
+/a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>opay=E5=85=A8=E9=87=8F=E5=A2=
+=9E=E9=87=8F=E9=87=87=E9=9B=86</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Dopay_source_sqoop_di_monitor" title=
+=3D"" class=3D"external-link" rel=3D"nofollow">opay_source_sqoop_di_monitor=
+</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a style=3D"text-align: center;" c=
+lass=3D"external-link" href=3D"http://airflow.datalake.o-pay.in/admin/dagru=
+n/?flt2_dag_id_equals=3Dopay_source_sqoop_di_monitor" rel=3D"nofollow">20 0=
+1 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>opay=E5=85=A8=E9=87=8F=E5=A2=
+=9E=E9=87=8F=E9=87=87=E9=9B=86<span>=E7=9B=91=E6=8E=A7</span></span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Doride_binlog_init" class=
+=3D"external-link" rel=3D"nofollow">oride_binlog_init</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_binlog_init" style=3D"te=
+xt-align: center;" class=3D"external-link" rel=3D"nofollow">None</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">oride binlog=E9=87=87=E9=9B=86=E6=
+=B7=BB=E5=8A=A0=E6=96=B0=E8=A1=A8=E5=88=9D=E5=A7=8B=E5=8C=96</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Doride_cheating_detection" title=3D"" =
+class=3D"external-link" rel=3D"nofollow">oride_cheating_detection</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" style=
+=3D"text-align: center;" href=3D"http://airflow.datalake.o-pay.in/admin/dag=
+run/?flt2_dag_id_equals=3Doride_cheating_detection" rel=3D"nofollow">30 * *=
+ * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=9C=B0=E6=8E=A8=E6=95=B0=E6=8D=
+=AE=E7=BB=9F=E8=AE=A1</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Doride_day_activity" class=
+=3D"external-link" rel=3D"nofollow">oride_day_activity</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_day_activity" class=3D"e=
+xternal-link" style=3D"text-align: center;" rel=3D"nofollow">0 0,10,11,12,1=
+4,15,16 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">oride=E6=B4=BB=E5=8A=A8=E7=BB=9F=
+=E8=AE=A1=EF=BC=88=E5=B7=B2=E4=B8=8B=E7=BA=BF=EF=BC=89</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Doride_db_history_to_ods" c=
+lass=3D"external-link" rel=3D"nofollow">oride_db_history_to_ods</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_=
+db_history_to_ods" style=3D"text-align: center;" rel=3D"nofollow">None</a><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">oride=E5=8E=86=E5=8F=B2=E6=95=B0=
+=E6=8D=AE=E4=BB=8Edb=E5=9B=9E=E6=BA=AF=E5=88=B0ods</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"http://airflow.datalake=
+.o-pay.in/admin/airflow/tree?dag_id=3Doride_global_daily_report" title=3D""=
+ class=3D"external-link" rel=3D"nofollow">oride_global_daily_report</a></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><a style=3D"text-align: center;" h=
+ref=3D"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3D=
+oride_global_daily_report" class=3D"external-link" rel=3D"nofollow">30 01 *=
+ * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=85=A8=E5=B1=80=E3=80=81=E8=AE=
+=A2=E5=8D=95=E6=BC=8F=E6=96=97=E3=80=81=E5=8F=8D=E4=BD=9C=E5=BC=8A=E9=82=AE=
+=E4=BB=B6=E6=8A=A5=E8=A1=A8</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Doride_night_report" class=
+=3D"external-link" rel=3D"nofollow">oride_night_report</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a class=3D"external-link" href=3D=
+"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_=
+night_report" style=3D"text-align: center;" rel=3D"nofollow">0 22 * * *</a>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=99=9A10=E7=82=B9=E9=82=AE=E4=
+=BB=B6=E6=8A=A5=E8=A1=A8</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a title=3D"" href=3D"http://airfl=
+ow.datalake.o-pay.in/admin/airflow/tree?dag_id=3Doride_ods_log_skyeye" clas=
+s=3D"external-link" rel=3D"nofollow">oride_ods_log_skyeye</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a style=3D"text-align: center;" t=
+itle=3D"" class=3D"external-link" href=3D"http://airflow.datalake.o-pay.in/=
+admin/dagrun/?flt2_dag_id_equals=3Doride_ods_log_skyeye" rel=3D"nofollow">0=
+0 07 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=A4=A9=E7=9C=BC=E6=95=B0=E6=8D=
+=AE=E9=87=87=E9=9B=86</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/airflow/tree?dag_id=3Doride_operation_support" title=3D"" class=3D"extern=
+al-link" rel=3D"nofollow">oride_operation_support</a></td>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"http://airflo=
+w.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_operation_supp=
+ort" style=3D"text-align: center;" rel=3D"nofollow">30 02 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=BF=90=E8=90=A5=E6=94=AF=E6=8C=
+=81=E6=95=B0=E6=8D=AE=EF=BC=88superset=E6=8A=A5=E8=A1=A8=EF=BC=89</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_otrike_association" class=3D"exter=
+nal-link" rel=3D"nofollow">oride_otrike_association</a></td>
+<td class=3D"confluenceTd"><a style=3D"text-align: center;" class=3D"extern=
+al-link" href=3D"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id=
+_equals=3Doride_otrike_association" rel=3D"nofollow">30 02 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">otrike=E5=8D=8F=E4=BC=9A=E6=95=B0=
+=E6=8D=AE=E6=8A=A5=E8=A1=A8</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_repair_ods_table_data" class=3D"ex=
+ternal-link" rel=3D"nofollow">oride_repair_ods_table_data</a></td>
+<td class=3D"confluenceTd"><a class=3D"external-link" style=3D"text-align: =
+center;" href=3D"http://airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id=
+_equals=3Doride_repair_ods_table_data" rel=3D"nofollow">None</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">binlog=E6=95=B0=E6=8D=AE=E5=9B=9E=
+=E6=BA=AFods=E8=A1=A8</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/airflow/tree?dag_id=3Doride_source_binlog" title=3D"" class=3D"external-l=
+ink" rel=3D"nofollow">oride_source_binlog</a></td>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/dagrun/?flt2_dag_id_equals=3Doride_source_binlog" class=3D"external-link"=
+ style=3D"text-align: center;" rel=3D"nofollow">05 * * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">oride binlog=E9=87=87=E9=9B=86</td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/airflow/tree?dag_id=3Doride_source_log" title=3D"" class=3D"external-link=
+" rel=3D"nofollow">oride_source_log</a></td>
+<td class=3D"confluenceTd"><a style=3D"text-align: center;" href=3D"http://=
+airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_source_l=
+og" class=3D"external-link" rel=3D"nofollow">10 * * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">oride=E5=9F=8B=E7=82=B9=E6=95=B0=
+=E6=8D=AE=E9=87=87=E9=9B=86</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/airflow/tree?dag_id=3Doride_source_sqoop_df" title=3D"" class=3D"external=
+-link" rel=3D"nofollow">oride_source_sqoop_df</a></td>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"http://airflo=
+w.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_source_sqoop_d=
+f" style=3D"text-align: center;" rel=3D"nofollow">00 01 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">oride=E5=85=A8=E9=87=8F=E6=95=B0=
+=E6=8D=AE=E9=87=87=E9=9B=86</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_source_sqoop_df_monitor" class=3D"=
+external-link" rel=3D"nofollow">oride_source_sqoop_df_monitor</a></td>
+<td class=3D"confluenceTd"><a style=3D"text-align: center;" href=3D"http://=
+airflow.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_source_s=
+qoop_df_monitor" class=3D"external-link" rel=3D"nofollow">00 01 * * *</a></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>oride=E5=85=A8=E9=87=8F=E6=
+=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E7=9B=91=E6=8E=A7</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_source_sqoop_di" class=3D"external=
+-link" rel=3D"nofollow">oride_source_sqoop_di</a></td>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/dagrun/?flt2_dag_id_equals=3Doride_source_sqoop_di" style=3D"text-align: =
+center;" class=3D"external-link" rel=3D"nofollow">20 01 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>oride=E5=A2=9E=E9=87=8F=E6=
+=95=B0=E6=8D=AE=E9=87=87=E9=9B=86</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_source_sqoop_di_monitor" class=3D"=
+external-link" rel=3D"nofollow">oride_source_sqoop_di_monitor</a></td>
+<td class=3D"confluenceTd"><a class=3D"external-link" href=3D"http://airflo=
+w.datalake.o-pay.in/admin/dagrun/?flt2_dag_id_equals=3Doride_source_sqoop_d=
+i_monitor" style=3D"text-align: center;" rel=3D"nofollow">20 01 * * *</a></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>oride=E5=A2=9E=E9=87=8F=E6=
+=95=B0=E6=8D=AE=E9=87=87=E9=9B=86<span>=E7=9B=91=E6=8E=A7</span></span></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a title=3D"" href=3D"http://airflow.datalake.o-=
+pay.in/admin/airflow/tree?dag_id=3Doride_street_association" class=3D"exter=
+nal-link" rel=3D"nofollow">oride_street_association</a></td>
+<td class=3D"confluenceTd"><a href=3D"http://airflow.datalake.o-pay.in/admi=
+n/dagrun/?flt2_dag_id_equals=3Doride_street_association" style=3D"text-alig=
+n: center;" class=3D"external-link" rel=3D"nofollow">30 02 * * *</a></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=BF=AB=E8=BD=A6=E5=8D=8F=E4=BC=
+=9A=E6=95=B0=E6=8D=AE=E6=8A=A5=E8=A1=A8</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2634603_359547845.1587050741828--

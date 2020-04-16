@@ -1,0 +1,895 @@
+Message-ID: <1255254925.2634546.1587050222392.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634545_901909834.1587050222392"
+
+------=_Part_2634545_901909834.1587050222392
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>binlog =E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>binlog =E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=B0=
+=E9=9B=86=E7=BE=A4=EF=BC=89</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-1.=E7=BB=84=E4=BB=B6=E6=9E=B6=E6=9E=84=E6=83=
+=85=E5=86=B5">1.=E7=BB=84=E4=BB=B6=E6=9E=B6=E6=9E=84=E6=83=85=E5=86=B5</h1>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E7=BB=84=E4=BB=B6=E7=89=88=E6=9C=AC">=E7=BB=
+=84=E4=BB=B6=E7=89=88=E6=9C=AC</h2>
+<p>&nbsp; &nbsp;Confluent&nbsp; 5.2.2&nbsp; &nbsp; &nbsp;<a href=3D"https:/=
+/docs.confluent.io/5.2.2/" class=3D"external-link" rel=3D"nofollow">=E5=AE=
+=98=E6=96=B9=E6=96=87=E6=A1=A3=E5=9C=B0=E5=9D=80</a></p>
+<p>&nbsp; &nbsp;Debezium&nbsp;0.10.0&nbsp; &nbsp;<a href=3D"https://debeziu=
+m.io/documentation/reference/0.10/connectors/mysql.html" class=3D"external-=
+link" rel=3D"nofollow">=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E5=9C=B0=E5=9D=
+=80</a></p>
+<p>&nbsp; &nbsp;Kafka&nbsp; 2.11-2.3.1&nbsp; &nbsp;&nbsp;<a href=3D"https:/=
+/kafka.apache.org/documentation" class=3D"external-link" rel=3D"nofollow">=
+=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E5=9C=B0=E5=9D=80</a></p>
+<p><br></p>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E7=BB=84=E4=BB=B6=E9=83=A8=E7=BD=B2=E5=9C=
+=B0=E5=9D=80">=E7=BB=84=E4=BB=B6=E9=83=A8=E7=BD=B2=E5=9C=B0=E5=9D=80</h2>
+<h3 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-BinlogConfluent=E5=9C=B0=E5=9D=80">Binlog&nb=
+sp;&nbsp;Confluent&nbsp; =E5=9C=B0=E5=9D=80</h3>
+<p>=E6=8C=82=E8=BD=BD=E5=9C=B0=E5=9D=80=EF=BC=9A/mnt/disk1/confluent-5.2.2<=
+/p>
+<p>=E7=AB=AF=E5=8F=A3=EF=BC=9A8083</p>
+<p>=E5=86=85=E7=BD=91=EF=BC=9A10.52.5.218&nbsp; &nbsp; =E5=85=AC=E7=BD=91=
+=EF=BC=9A8.208.15.92&nbsp;</p>
+<p>=E5=86=85=E7=BD=91=EF=BC=9A10.52.5.226&nbsp; &nbsp; =E5=85=AC=E7=BD=91=
+=EF=BC=9A8.208.9.252</p>
+<h3 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-BinlogKafkabroker=E5=9C=B0=E5=9D=80">Binlog =
+Kafka broker =E5=9C=B0=E5=9D=80</h3>
+<p>=E6=8C=82=E8=BD=BD=E5=9C=B0=E5=9D=80=EF=BC=9A/data/kafka_2.11-2.3.1</p>
+<p>kafka =E6=95=B0=E6=8D=AE=E6=8C=82=E8=BD=BD=E5=9C=B0=E5=9D=80=EF=BC=9A/da=
+ta/kafka-logs</p>
+<p>=E7=AB=AF=E5=8F=A3 =EF=BC=9A 9092</p>
+<p>=E5=86=85=E7=BD=91=EF=BC=9A10.52.5.208&nbsp; &nbsp; =E5=85=AC=E7=BD=91=
+=EF=BC=9A8.208.16.97&nbsp;&nbsp;</p>
+<p>=E5=86=85=E7=BD=91=EF=BC=9A10.52.5.209&nbsp; &nbsp; =E5=85=AC=E7=BD=91=
+=EF=BC=9A8.208.11.29&nbsp;</p>
+<p>=E5=86=85=E7=BD=91=EF=BC=9A10.52.5.210&nbsp; &nbsp; =E5=85=AC=E7=BD=91=
+=EF=BC=9A 8.208.8.105&nbsp; &nbsp;</p>
+<p><br></p>
+<p><br></p>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-2.=E7=BB=84=E4=BB=B6=E5=AE=89=E8=A3=85">2.=
+=E7=BB=84=E4=BB=B6=E5=AE=89=E8=A3=85</h1>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-Confluent=E5=AE=89=E8=A3=85">&nbsp;&nbsp;Con=
+fluent&nbsp; =E5=AE=89=E8=A3=85</h2>
+<p>1. =E4=B8=8B=E8=BD=BD=E5=AF=B9=E5=BA=94=E7=89=88=E6=9C=AC=EF=BC=8C=E7=9B=
+=B4=E6=8E=A5=E8=A7=A3=E5=8E=8B=E5=88=B0=E5=AE=89=E8=A3=85=E7=9B=AE=E5=BD=95=
+=E3=80=82</p>
+<p>2.&nbsp; =E5=9C=A8&nbsp; /=E5=AE=89=E8=A3=85=E7=9B=AE=E5=BD=95/confluent=
+-5.2.2/etc/schema-registry =E4=B8=8B=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E4=
+=B8=BA confluent =E9=9B=86=E7=BE=A4=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=EF=
+=BC=8Cconnect-avro-distributed.properties =E4=B8=BA=E9=9B=86=E7=BE=A4=E6=A8=
+=A1=E5=BC=8F=E5=90=AF=E5=8A=A8=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=EF=BC=8C=
+connect-avro-standalone.properties =E4=B8=BA=E5=8D=95=E7=82=B9=E6=A8=A1=E5=
+=BC=8F=E5=90=AF=E5=8A=A8=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=EF=BC=8C=E7=9B=
+=AE=E5=89=8D=E4=BD=BF=E7=94=A8=E9=9B=86=E7=BE=A4=E6=A8=A1=E5=BC=8F=E8=BF=90=
+=E8=A1=8C=E3=80=82</p>
+<p>3. =E8=AF=A6=E7=BB=86=E9=85=8D=E7=BD=AE=E5=8F=AF=E5=8F=82=E8=80=83=E5=AE=
+=98=E6=96=B9=E6=96=87=E6=A1=A3=E8=BF=9B=E8=A1=8C=E6=9B=B4=E7=BB=86=E8=87=B4=
+=E7=9A=84=E9=85=8D=E7=BD=AE=EF=BC=8C=E7=9B=AE=E5=89=8D=E5=88=97=E4=B8=BE=E9=
+=87=8D=E8=A6=81=E7=9A=84=E4=BF=AE=E6=94=B9=E9=85=8D=E7=BD=AE=E9=A1=B9=EF=BC=
+=9A</p>
+<p>&nbsp;bootstrap.servers&nbsp; &nbsp; &nbsp; &nbsp;=E9=85=8D=E7=BD=AEkafk=
+a=E9=9B=86=E7=BE=A4 broker=E5=9C=B0=E5=9D=80</p>
+<p>&nbsp;key.converter&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=E4=
+=BF=AE=E6=94=B9=E4=B8=BAjson=E8=BD=AC=E6=8D=A2=E7=B1=BB=E5=9E=8B</p>
+<p>&nbsp;value.converter&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;=E4=BF=AE=
+=E6=94=B9=E4=B8=BAjson=E8=BD=AC=E6=8D=A2=E7=B1=BB=E5=9E=8B</p>
+<p>&nbsp;plugin.path&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ <span style=3D"color: rgb(255,0,0);">=E5=BB=BA=E8=AE=AE=E6=94=B9=E4=B8=BA=
+=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84</span></p>
+<p>4.=E9=9C=80=E8=A6=81=E5=A2=9E=E5=8A=A0=E6=8F=92=E4=BB=B6=EF=BC=8C=E4=BE=
+=8B=E5=A6=82 Debezium =EF=BC=8C=E9=9C=80=E8=A6=81=E5=B0=86=E6=8F=92=E4=BB=
+=B6=E5=8C=85=E6=94=BE=E5=9C=A8&nbsp;&nbsp;plugin.path =E4=B8=8B=EF=BC=8Ccon=
+fluent=E5=90=AF=E5=8A=A8=E6=97=B6=E6=97=A5=E5=BF=97=E4=BC=9A=E6=98=BE=E7=A4=
+=BA=E6=8F=92=E4=BB=B6=E5=8A=A0=E8=BD=BD=E6=83=85=E5=86=B5=E3=80=82</p>
+<p>=E7=9B=AE=E5=89=8D=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E6=83=85=E5=86=B5=
+=EF=BC=9A</p>
+<p><br></p>
+<p># Sample configuration for a distributed Kafka Connect worker that uses =
+Avro serialization and<br># integrates the the Schema Registry. This sample=
+ configuration assumes a local installation of<br># Confluent Platform with=
+ all services running on their default ports.</p>
+<p># Bootstrap Kafka servers. If multiple servers are specified, they shoul=
+d be comma-separated.<br>bootstrap.servers=3D10.52.5.208:9092,10.52.5.209:9=
+092,10.52.5.210:9092</p>
+<p># The group ID is a unique identifier for the set of workers that form a=
+ single Kafka Connect<br># cluster<br><a href=3D"http://group.id" class=3D"=
+external-link" rel=3D"nofollow">group.id</a>=3Dconnect-cluster-binlog</p>
+<p># The converters specify the format of data in Kafka and how to translat=
+e it into Connect data.<br># Every Connect user will need to configure thes=
+e based on the format they want their data in<br># when loaded from or stor=
+ed into Kafka<br>#key.converter=3Dio.confluent.connect.avro.AvroConverter<b=
+r>#key.converter.schema.registry.url=3D<a href=3D"http://localhost:8081" cl=
+ass=3D"external-link" rel=3D"nofollow">http://localhost:8081</a><br>#value.=
+converter=3Dio.confluent.connect.avro.AvroConverter<br>#value.converter.sch=
+ema.registry.url=3D<a href=3D"http://localhost:8081" class=3D"external-link=
+" rel=3D"nofollow">http://localhost:8081</a></p>
+<p>key.converter=3Dorg.apache.kafka.connect.json.JsonConverter<br>value.con=
+verter=3Dorg.apache.kafka.connect.json.JsonConverter<br>value.converter.sch=
+emas.enable=3Dfalse</p>
+<p># Internal Storage Topics.<br>#<br># Kafka Connect distributed workers s=
+tore the connector and task configurations, connector offsets,<br># and con=
+nector statuses in three internal topics. These topics MUST be compacted.<b=
+r># When the Kafka Connect distributed worker starts, it will check for the=
+se topics and attempt to create them<br># as compacted topics if they don't=
+ yet exist, using the topic name, replication factor, and number of partiti=
+ons<br> as specified in these properties, and other topic-specific settings=
+ inherited from your brokers'<br>=E2=96=BD auto-creation settings. If you n=
+eed more control over these other topic-specific settings, you may want to<=
+br># manually create these topics before starting Kafka Connect distributed=
+ workers.<br>#<br># The following properties set the names of these three i=
+nternal topics for storing configs, offsets, and status.<br>config.storage.=
+topic=3Dconnect-configs<br>offset.storage.topic=3Dconnect-offsets<br>status=
+.storage.topic=3Dconnect-statuses</p>
+<p># The following properties set the replication factor for the three inte=
+rnal topics, defaulting to 3 for each<br># and therefore requiring a minimu=
+m of 3 brokers in the cluster. Since we want the examples to run with<br># =
+only a single broker, we set the replication factor here to just 1. That's =
+okay for the examples, but<br># ALWAYS use a replication factor of AT LEAST=
+ 3 for production environments to reduce the risk of <br># losing connector=
+ offsets, configurations, and status.<br>config.storage.replication.factor=
+=3D3<br>offset.storage.replication.factor=3D3<br>status.storage.replication=
+.factor=3D3</p>
+<p># The config storage topic must have a single partition, and this cannot=
+ be changed via properties. <br># Offsets for all connectors and tasks are =
+written quite frequently and therefore the offset topic<br># should be high=
+ly partitioned; by default it is created with 25 partitions, but adjust acc=
+ordingly<br># with the number of connector tasks deployed to a distributed =
+worker cluster. Kafka Connect records<br># the status less frequently, and =
+so by default the topic is created with 5 partitions.<br>#offset.storage.pa=
+rtitions=3D25<br>#status.storage.partitions=3D5</p>
+<p># The offsets, status, and configurations are written to the topics usin=
+g converters specified through<br># the following required properties. Most=
+ users will always want to use the JSON converter without schemas. <br># Of=
+fset and config data is never visible outside of Connect in this format.<br=
+>internal.key.converter=3Dorg.apache.kafka.connect.json.JsonConverter<br>in=
+ternal.value.converter=3Dorg.apache.kafka.connect.json.JsonConverter<br>int=
+ernal.key.converter.schemas.enable=3Dfalse<br>internal.value.converter.sche=
+mas.enable=3Dfalse</p>
+<p># Confluent Control Center Integration -- uncomment these lines to enabl=
+e Kafka client interceptors<br># that will report audit data that can be di=
+splayed and analyzed in Confluent Control Center<br># producer.interceptor.=
+classes=3Dio.confluent.monitoring.clients.interceptor.MonitoringProducerInt=
+erceptor<br># consumer.interceptor.classes=3Dio.confluent.monitoring.client=
+s.interceptor.MonitoringConsumerInterceptor</p>
+<p># These are provided to inform the user about the presence of the REST h=
+ost and port configs<br># Hostname &amp; Port for the REST API to listen on=
+. If this is set, it will bind to the interface used to listen to requests.=
+<br>#<a href=3D"http://rest.host.name" class=3D"external-link" rel=3D"nofol=
+low">rest.host.name</a>=3D0.0.0.0<br>#rest.port=3D8083</p>
+<p># The Hostname &amp; Port that will be given out to other workers to con=
+nect to i.e. URLs that are routable from other servers.<br>#<a href=3D"http=
+://rest.advertised.host.name" class=3D"external-link" rel=3D"nofollow">rest=
+.advertised.host.name</a>=3D0.0.0.0<br>#rest.advertised.port=3D8083</p>
+<p># Set to a list of filesystem paths separated by commas (,) to enable cl=
+ass loading isolation for plugins<br># (connectors, converters, transformat=
+ions). The list should consist of top level directories that include<br># a=
+ny combination of:<br># a) directories immediately containing jars with plu=
+gins and their dependencies<br># b) uber-jars with plugins and their depend=
+encies<br># c) directories immediately containing the package directory str=
+ucture of classes of plugins and their dependencies<br># Examples:<br># plu=
+gin.path=3D/usr/local/share/java,/usr/local/share/kafka/plugins,/opt/connec=
+tors,<br># Replace the relative path below with an absolute path if you are=
+ planning to start Kafka Connect from within a<br># directory other than th=
+e home directory of Confluent Platform.<br>plugin.path=3D/mnt/disk1/conflue=
+nt-5.2.2/share/java</p>
+<p><br></p>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-ConfluentOSS=E9=85=8D=E7=BD=AE">Confluent OS=
+S =E9=85=8D=E7=BD=AE</h2>
+<p>=E9=A1=B9=E7=9B=AE=E5=9C=B0=E5=9D=80=EF=BC=9A<a href=3D"https://github.c=
+om/aliyun/kafka-connect-oss" class=3D"external-link" rel=3D"nofollow">https=
+://github.com/aliyun/kafka-connect-oss</a></p>
+<p>=E6=8C=89=E7=85=A7=E6=96=87=E6=A1=A3=E6=93=8D=E4=BD=9C=E5=8D=B3=E5=8F=AF=
+=EF=BC=8C=E9=A1=B9=E7=9B=AE=E9=9C=80=E8=A6=81=E6=9C=AC=E5=9C=B0=E7=BC=96=E8=
+=AF=91=E6=89=93=E5=8C=85=E3=80=82</p>
+<p><span style=3D"color: rgb(255,0,0);">=E6=B3=A8=E6=84=8F=E4=BA=8B=E9=A1=
+=B9=EF=BC=9A</span></p>
+<p>1.confluent =E9=83=A8=E7=BD=B2=E6=9C=BA=E5=99=A8=E9=9C=80=E8=A6=81=E5=9C=
+=A8gateway =E9=9B=86=E7=BE=A4=E5=86=85=E9=83=A8=EF=BC=8C=E5=90=A6=E5=88=99=
+=E6=B5=8B=E8=AF=95 oss sink =E6=97=B6=E4=BC=9A=E6=8A=A5=E5=87=BA=E6=97=A0=
+=E6=B3=95=E8=AF=86=E5=88=ABoss=E5=8D=8F=E8=AE=AE=E6=88=96=E6=97=A0=E6=B3=95=
+=E6=89=BE=E5=88=B0oss =E6=8F=92=E4=BB=B6=E3=80=82</p>
+<p>2.=E5=AE=98=E6=96=B9=E7=BD=91=E7=AB=99=E4=B8=8A=E6=8F=90=E4=BE=9B=E7=9A=
+=84&nbsp;<span style=3D"color: rgb(36,41,46);">$KAFKA_HOME =E5=8F=98=E9=87=
+=8F=EF=BC=8C=E5=9C=A8confluent =E4=B8=AD=E5=B9=B6=E4=B8=8D=E5=A5=BD=E7=90=
+=86=E8=A7=A3=EF=BC=8C=E7=9B=B4=E6=8E=A5=E7=BB=99=E5=87=BA=E6=98=A0=E5=B0=84=
+=E7=9B=AE=E5=BD=95=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(36,41,46=
+);">$KAFKA_HOME/config&nbsp; ---=E2=86=92&nbsp;&nbsp; &nbsp;/mnt/disk1/conf=
+luent-5.2.2/etc/kafka</span></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(36,41,46=
+);">$KAFKA_HOME/bin/kafka-run-class.sh</span><span style=3D"color: rgb(36,4=
+1,46);">.&nbsp; ---=E2=86=92&nbsp;&nbsp;&nbsp;/mnt/disk1/confluent-5.2.2/bi=
+n/kafka-run-class</span></span></p>
+<p><span style=3D"color: rgb(36,41,46);">3.=E5=85=B6=E4=BB=96=E6=93=8D=E4=
+=BD=9C=E6=8C=89=E7=85=A7=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E6=93=8D=E4=BD=
+=9C=E5=8D=B3=E5=8F=AF=E3=80=82</span></p>
+<p><span style=3D"color: rgb(36,41,46);"><br></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><br></span></p>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-3.Binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=
+=E5=BC=80=E5=8F=91"><span style=3D"color: rgb(36,41,46);">3.Binlog =E6=95=
+=B0=E6=8D=AE=E9=87=87=E9=9B=86=E5=BC=80=E5=8F=91</span></h1>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E7=BB=84=E4=BB=B6=E9=87=8D=E8=A6=81=E6=A8=
+=A1=E5=9D=97=E4=BB=8B=E7=BB=8D=EF=BC=9A"><span style=3D"color: rgb(255,0,0)=
+;">=E7=BB=84=E4=BB=B6=E9=87=8D=E8=A6=81=E6=A8=A1=E5=9D=97=E4=BB=8B=E7=BB=8D=
+=EF=BC=9A</span></h2>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(255,0,0)=
+;">Debezium =EF=BC=9A&nbsp;</span></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(255,0,0)=
+;"><a class=3D"external-link" href=3D"https://debezium.io/documentation/ref=
+erence/0.10/configuration/topic-routing.html" rel=3D"nofollow">Topic Routin=
+g</a>&nbsp;=EF=BC=9A=E5=8F=AF=E4=BB=A5=E6=A0=B9=E6=8D=AE=E6=AD=A3=E5=88=99=
+=E5=8C=B9=E9=85=8D=E8=A1=A8=E8=BE=BE=E5=BC=8F=E8=BF=9B=E8=A1=8Ctopic =E6=95=
+=B0=E6=8D=AE=E5=90=88=E5=B9=B6=E6=93=8D=E4=BD=9C=E3=80=82</span></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(255,0,0)=
+;"><a class=3D"external-link" href=3D"https://debezium.io/documentation/ref=
+erence/0.10/configuration/event-flattening.html" rel=3D"nofollow">New Recor=
+d State Extraction</a>&nbsp;=EF=BC=9A=E6=8A=BD=E5=8F=96binlog =E9=87=87=E9=
+=9B=86=E5=85=83=E6=95=B0=E6=8D=AE =E5=81=9Aflatmap =E6=93=8D=E4=BD=9C=EF=BC=
+=8C=E6=95=B4=E4=BD=93=E6=95=B0=E6=8D=AE=E6=94=BE=E5=9C=A8=E4=B8=80=E4=B8=AA=
+json=E5=AF=B9=E8=B1=A1=E4=B8=AD=E3=80=82<br></span></span></p>
+<p><span style=3D"color: rgb(36,41,46);"><span style=3D"color: rgb(255,0,0)=
+;">Kakfa=EF=BC=9A</span></span></p>
+<p><span style=3D"color: rgb(255,0,0);"><a href=3D"https://kafka.apache.org=
+/documentation/#connect" class=3D"external-link" rel=3D"nofollow">Kafka tra=
+nsform</a> =EF=BC=9Akafka connect =E6=8F=90=E4=BE=9B=E7=9A=84=E6=95=B0=E6=
+=8D=AE=E8=BD=AC=E6=8D=A2=E3=80=82</span></p>
+<p>=E5=85=B6=E4=BB=96=EF=BC=9A</p>
+<p><a href=3D"https://github.com/confluentinc/kafka-connect-insert-uuid" cl=
+ass=3D"external-link" rel=3D"nofollow">kafka-connect-insert-uuid</a>&nbsp;=
+=EF=BC=9A=E6=95=B0=E6=8D=AE=E5=A2=9E=E5=8A=A0 uuid=E6=A0=87=E8=AF=86=E3=80=
+=82</p>
+<p><br></p>
+<p><br></p>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E4=BB=BB=E5=8A=A1=E9=85=8D=E7=BD=AE=E8=AF=
+=B4=E6=98=8E">=E4=BB=BB=E5=8A=A1=E9=85=8D=E7=BD=AE=E8=AF=B4=E6=98=8E</h2>
+<p><br></p>
+<p>source=E7=A4=BA=E4=BE=8B=EF=BC=9A</p>
+<pre>{<br>    <span style=3D"color: rgb(152,118,170);">"name" </span><span =
+style=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,13=
+5,89);">"opay-account-user-record-mysql-binlog-source"</span><span style=3D=
+"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50)=
+;"> </span><span style=3D"color: rgb(152,118,170);">"config"</span><span st=
+yle=3D"color: rgb(204,120,50);">:<br></span><span style=3D"color: rgb(204,1=
+20,50);"> </span>{<br>        <span style=3D"color: rgb(152,118,170);">"con=
+nector.class"</span><span style=3D"color: rgb(204,120,50);">: </span><span =
+style=3D"color: rgb(106,135,89);">"io.debezium.connector.mysql.MySqlConnect=
+or"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span style=
+=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170)=
+;">"database.hostname"</span><span style=3D"color: rgb(204,120,50);">: </sp=
+an><span style=3D"color: rgb(106,135,89);">"opay-account-slave-dw.c7vkdm90b=
+2v9.eu-west-1.rds.amazonaws.com"</span><span style=3D"color: rgb(204,120,50=
+);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span style=
+=3D"color: rgb(152,118,170);">"database.port"</span><span style=3D"color: r=
+gb(204,120,50);">: </span><span style=3D"color: rgb(106,135,89);">"3306"</s=
+pan><span style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"colo=
+r: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"data=
+base.user"</span><span style=3D"color: rgb(204,120,50);">: </span><span sty=
+le=3D"color: rgb(106,135,89);">"dw_read_only"</span><span style=3D"color: r=
+gb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </spa=
+n><span style=3D"color: rgb(152,118,170);">"database.password"</span><span =
+style=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,13=
+5,89);">"y^n#^qk3"</span><span style=3D"color: rgb(204,120,50);">,<br></spa=
+n><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb=
+(152,118,170);">"database.server.id"</span><span style=3D"color: rgb(204,12=
+0,50);">: </span><span style=3D"color: rgb(106,135,89);">"20191217600022"</=
+span><span style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"col=
+or: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"dat=
+abase.server.name"</span><span style=3D"color: rgb(204,120,50);">: </span><=
+span style=3D"color: rgb(106,135,89);">"opay_account_user_record"</span><sp=
+an style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(=
+204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"database.wh=
+itelist"</span><span style=3D"color: rgb(204,120,50);">: </span><span style=
+=3D"color: rgb(106,135,89);">"opay_account"</span><span style=3D"color: rgb=
+(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span>=
+<span style=3D"color: rgb(152,118,170);">"table.whitelist"</span><span styl=
+e=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,135,89=
+);">"opay_account.account_user_record_(.*)"</span><span style=3D"color: rgb=
+(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span>=
+<span style=3D"color: rgb(152,118,170);">"transforms"</span><span style=3D"=
+color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"R=
+eroute,unwrap,insertuuid"</span><span style=3D"color: rgb(204,120,50);">,<b=
+r></span><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"col=
+or: rgb(152,118,170);">"transforms.unwrap.type"</span><span style=3D"color:=
+ rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"io.debe=
+zium.transforms.ExtractNewRecordState"</span><span style=3D"color: rgb(204,=
+120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span=
+ style=3D"color: rgb(152,118,170);">"transforms.unwrap.operation.header"</s=
+pan><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"color: r=
+gb(106,135,89);">"true"</span><span style=3D"color: rgb(204,120,50);">,<br>=
+</span><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color=
+: rgb(152,118,170);">"transforms.unwrap.drop.tombstones"</span><span style=
+=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);=
+">"false"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span s=
+tyle=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,=
+170);">"transforms.unwrap.delete.handling.mode"</span><span style=3D"color:=
+ rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"rewrite=
+"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"=
+color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"=
+transforms.unwrap.operation.header"</span><span style=3D"color: rgb(204,120=
+,50);">:</span><span style=3D"color: rgb(204,120,50);">true</span><span sty=
+le=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,12=
+0,50);"> </span><span style=3D"color: rgb(152,118,170);">"transforms.unwrap=
+.add.source.fields"</span><span style=3D"color: rgb(204,120,50);">:</span><=
+span style=3D"color: rgb(106,135,89);">"table,version,connector,name,ts_ms,=
+db,server_id,file,pos,row"</span><span style=3D"color: rgb(204,120,50);">,<=
+br></span><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"co=
+lor: rgb(152,118,170);">"transforms.Reroute.type"</span><span style=3D"colo=
+r: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"io.de=
+bezium.transforms.ByLogicalTableRouter"</span><span style=3D"color: rgb(204=
+,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><spa=
+n style=3D"color: rgb(152,118,170);">"transforms.Reroute.topic.regex"</span=
+><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(=
+106,135,89);">"(.*)account_user_record_(.*)"</span><span style=3D"color: rg=
+b(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span=
+><span style=3D"color: rgb(152,118,170);">"transforms.Reroute.topic.replace=
+ment"</span><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"=
+color: rgb(106,135,89);">"$1account_user_record"</span><span style=3D"color=
+: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </=
+span><span style=3D"color: rgb(152,118,170);">"transforms.insertuuid.type"<=
+/span><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"color:=
+ rgb(106,135,89);">"com.github.cjmatta.kafka.connect.smt.InsertUuid$Value"<=
+/span><span style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"co=
+lor: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"tr=
+ansforms.insertuuid.uuid.field.name"</span><span style=3D"color: rgb(204,12=
+0,50);">:</span><span style=3D"color: rgb(106,135,89);">"uuid"</span><span =
+style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204=
+,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"database.histo=
+ry.kafka.bootstrap.servers"</span><span style=3D"color: rgb(204,120,50);">:=
+ </span><span style=3D"color: rgb(106,135,89);">"10.52.5.208:9092,10.52.5.2=
+09:9092,10.52.5.210:9092"</span><span style=3D"color: rgb(204,120,50);">,<b=
+r></span><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"col=
+or: rgb(152,118,170);">"database.history.kafka.topic"</span><span style=3D"=
+color: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,135,89);">"=
+dbhistory.opay_account_user_record"</span><span style=3D"color: rgb(204,120=
+,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span st=
+yle=3D"color: rgb(152,118,170);">"include.schema.changes"</span><span style=
+=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,135,89)=
+;">"true"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span s=
+tyle=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,=
+170);">"snapshot.locking.mode"</span><span style=3D"color: rgb(204,120,50);=
+">: </span><span style=3D"color: rgb(106,135,89);">"none"</span><span style=
+=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,=
+50);"> </span><span style=3D"color: rgb(152,118,170);">"decimal.handling.mo=
+de"</span><span style=3D"color: rgb(204,120,50);">: </span><span style=3D"c=
+olor: rgb(106,135,89);">"string"</span><span style=3D"color: rgb(204,120,50=
+);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span style=
+=3D"color: rgb(152,118,170);">"include.query"</span><span style=3D"color: r=
+gb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"false"</s=
+pan><span style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"colo=
+r: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"tomb=
+stones.on.delete"</span><span style=3D"color: rgb(204,120,50);">:</span><sp=
+an style=3D"color: rgb(106,135,89);">"false"</span><span style=3D"color: rg=
+b(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span=
+><span style=3D"color: rgb(152,118,170);">"snapshot.mode"</span><span style=
+=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);=
+">"schema_only"</span><span style=3D"color: rgb(204,120,50);">,<br></span><=
+span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(15=
+2,118,170);">"database.serverTimezone"</span><span style=3D"color: rgb(204,=
+120,50);">:</span><span style=3D"color: rgb(106,135,89);">"UTC"</span><span=
+ style=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(20=
+4,120,50);"> </span><span style=3D"color: rgb(152,118,170);">"database.hist=
+ory.skip.unparseable.ddl"</span><span style=3D"color: rgb(204,120,50);">:</=
+span><span style=3D"color: rgb(106,135,89);">"true"</span><span style=3D"co=
+lor: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);">=
+ </span><span style=3D"color: rgb(152,118,170);">"event.deserialization.fai=
+lure.handling.mode"</span><span style=3D"color: rgb(204,120,50);">:</span><=
+span style=3D"color: rgb(106,135,89);">"warn"<br></span><span style=3D"colo=
+r: rgb(106,135,89);"> </span>}<br>}</pre>
+<p><br></p>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E9=87=8D=E8=A6=81=E9=85=8D=E7=BD=AE=E8=AF=
+=B4=E6=98=8E"><span style=3D"color: rgb(255,0,0);">=E9=87=8D=E8=A6=81=E9=85=
+=8D=E7=BD=AE=E8=AF=B4=E6=98=8E</span></h2>
+<p><span style=3D"color: rgb(255,0,0);">1.transforms&nbsp; =E8=A1=A8=E7=A4=
+=BA=E6=95=B0=E6=8D=AE=E7=BB=8F=E8=BF=87=E8=BD=AC=E6=8D=A2=E6=93=8D=E4=BD=9C=
+=EF=BC=8C=E6=AF=8F=E4=B8=80=E4=B8=AA=E8=BD=AC=E6=8D=A2=E9=83=BD=E6=9C=89=E5=
+=AF=B9=E5=BA=94=E7=9A=84class=E4=BB=A5=E5=8F=8A=E5=85=B6=E4=BB=96=E9=85=8D=
+=E7=BD=AE=E9=80=89=E9=A1=B9=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);">2. transforms =E7=9A=84=E9=A1=BA=E5=
+=BA=8F=E4=B8=8D=E5=8F=AF=E4=BB=A5=E4=BB=BB=E6=84=8F=E8=B0=83=E6=8D=A2=EF=BC=
+=8C=E5=90=A6=E5=88=99=E4=BC=9A=E6=8A=A5=E9=94=99=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);">3.snapshot.mode =E9=85=8D=E7=BD=AE=
+=E9=A1=B9=E5=9C=A8=E6=9B=B4=E6=94=B9=E8=BF=9E=E6=8E=A5=E4=BF=A1=E6=81=AF=E6=
+=97=B6=E4=BC=9A=E5=87=BA=E7=8E=B0=E6=8A=A5=E9=94=99=E7=9A=84=E6=83=85=E5=86=
+=B5=EF=BC=8C=E5=8F=AF=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=99=85=E6=83=85=E5=86=B5=
+=E6=94=B9=E4=B8=BA when_needed=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);"><span>4.</span>event.deserializatio=
+n.failure.handling.mode =E9=85=8D=E7=BD=AE=E6=9C=80=E5=A5=BD=E8=AE=BE=E7=BD=
+=AE=E4=B8=BAwarn=EF=BC=8C=E5=90=A6=E5=88=99=E9=81=87=E5=88=B0=E4=B8=8D=E5=
+=8F=AF=E8=A7=A3=E6=9E=90=E6=95=B0=E6=8D=AE=E4=BC=9A=E9=80=A0=E6=88=90=E4=BB=
+=BB=E5=8A=A1=E5=BC=82=E5=B8=B8=E9=80=80=E5=87=BA=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);">5.=E6=89=80=E6=9C=89=E9=85=8D=E7=BD=
+=AE=E9=80=89=E9=A1=B9=E4=BB=A5=E5=8F=8A=E5=8F=AF=E9=85=8D=E7=BD=AE=E5=8F=82=
+=E6=95=B0=E9=83=BD=E5=9C=A8=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E4=B8=8A=E7=
+=BB=99=E5=87=BA=EF=BC=8C=E8=AF=A6=E7=BB=86=E7=9C=8B=E4=B8=8A=E6=96=87=E9=93=
+=BE=E6=8E=A5=E3=80=82</span></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>sink =E7=A4=BA=E4=BE=8B=EF=BC=9A</p>
+<pre>{<br>     <span style=3D"color: rgb(152,118,170);">"name"</span><span =
+style=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135=
+,89);">"oride-db-binlog-oss-sink"</span><span style=3D"color: rgb(204,120,5=
+0);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span styl=
+e=3D"color: rgb(152,118,170);">"config"</span><span style=3D"color: rgb(204=
+,120,50);">: </span>{<br>        <span style=3D"color: rgb(152,118,170);">"=
+oss.parquet.protobuf.schema.class"</span><span style=3D"color: rgb(204,120,=
+50);">:</span><span style=3D"color: rgb(106,135,89);">"test,com.aliyun.oss.=
+connect.kafka.format.parquet.Parquet$Demo"</span><span style=3D"color: rgb(=
+204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><=
+span style=3D"color: rgb(152,118,170);">"connector.class"</span><span style=
+=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);=
+">"com.aliyun.oss.connect.kafka.OSSSinkConnector"</span><span style=3D"colo=
+r: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> <=
+/span><span style=3D"color: rgb(152,118,170);">"format.class"</span><span s=
+tyle=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,=
+89);">"com.aliyun.oss.connect.kafka.format.json.JsonFormat"</span><span sty=
+le=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,12=
+0,50);"> </span><span style=3D"color: rgb(152,118,170);">"flush.size"</span=
+><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(=
+106,135,89);">"100000"</span><span style=3D"color: rgb(204,120,50);">,<br><=
+/span><span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color:=
+ rgb(152,118,170);">"tasks.max"</span><span style=3D"color: rgb(204,120,50)=
+;">:</span><span style=3D"color: rgb(106,135,89);">"3"</span><span style=3D=
+"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50)=
+;"> </span><span style=3D"color: rgb(152,118,170);">"topics.regex"</span><s=
+pan style=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb(10=
+6,135,89);">"oride_db.oride_data.(.*)"</span><span style=3D"color: rgb(204,=
+120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span=
+ style=3D"color: rgb(152,118,170);">"topics.dir"</span><span style=3D"color=
+: rgb(204,120,50);">: </span><span style=3D"color: rgb(106,135,89);">"oride=
+_binlog"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span st=
+yle=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,1=
+70);">"storage.class"</span><span style=3D"color: rgb(204,120,50);">:</span=
+><span style=3D"color: rgb(106,135,89);">"com.aliyun.oss.connect.kafka.stor=
+age.OSSStorage"</span><span style=3D"color: rgb(204,120,50);">,<br></span><=
+span style=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(15=
+2,118,170);">"partitioner.class"</span><span style=3D"color: rgb(204,120,50=
+);">:</span><span style=3D"color: rgb(106,135,89);">"io.confluent.connect.s=
+torage.partitioner.TimeBasedPartitioner"</span><span style=3D"color: rgb(20=
+4,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><sp=
+an style=3D"color: rgb(152,118,170);">"oss.bucket"</span><span style=3D"col=
+or: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"opay=
+-datalake"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span =
+style=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118=
+,170);">"partition.duration.ms"</span><span style=3D"color: rgb(204,120,50)=
+;">:</span><span style=3D"color: rgb(106,135,89);">"10000"</span><span styl=
+e=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120=
+,50);"> </span><span style=3D"color: rgb(152,118,170);">"path.format"</span=
+><span style=3D"color: rgb(204,120,50);">: </span><span style=3D"color: rgb=
+(106,135,89);">"'dt=3D'YYYY-MM-dd'/hour=3D'HH"</span><span style=3D"color: =
+rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </sp=
+an><span style=3D"color: rgb(152,118,170);">"locale"</span><span style=3D"c=
+olor: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);">"en=
+-US"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span style=
+=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,170)=
+;">"timezone"</span><span style=3D"color: rgb(204,120,50);">:</span><span s=
+tyle=3D"color: rgb(106,135,89);">"UTC"</span><span style=3D"color: rgb(204,=
+120,50);">,<br></span><span style=3D"color: rgb(204,120,50);"> </span><span=
+ style=3D"color: rgb(152,118,170);">"rotate.interval.ms"</span><span style=
+=3D"color: rgb(204,120,50);">:</span><span style=3D"color: rgb(106,135,89);=
+">"30000"</span><span style=3D"color: rgb(204,120,50);">,<br></span><span s=
+tyle=3D"color: rgb(204,120,50);"> </span><span style=3D"color: rgb(152,118,=
+170);">"timestamp.field" </span><span style=3D"color: rgb(204,120,50);">: <=
+/span><span style=3D"color: rgb(106,135,89);">"__ts_ms"</span><span style=
+=3D"color: rgb(204,120,50);">,<br></span><span style=3D"color: rgb(204,120,=
+50);"> </span><span style=3D"color: rgb(152,118,170);">"timestamp.extractor=
+"</span><span style=3D"color: rgb(204,120,50);">:</span><span style=3D"colo=
+r: rgb(106,135,89);">"RecordField"<br></span><span style=3D"color: rgb(106,=
+135,89);"> </span>}<br>}</pre>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-=E9=87=8D=E8=A6=81=E9=85=8D=E7=BD=AE=E8=AF=
+=B4=E6=98=8E.1"><span style=3D"color: rgb(255,0,0);">=E9=87=8D=E8=A6=81=E9=
+=85=8D=E7=BD=AE=E8=AF=B4=E6=98=8E</span></h2>
+<p><span style=3D"color: rgb(255,0,0);">1.oss.parquet.protobuf.schema.class=
+ =E6=AD=A4=E9=85=8D=E7=BD=AE=E4=B8=BAparquet=E6=A0=BC=E5=BC=8F=E9=85=8D=E7=
+=BD=AE=E9=80=89=E9=A1=B9=EF=BC=8C=E5=8F=AF=E5=BF=BD=E7=95=A5=E3=80=82</span=
+></p>
+<p><span style=3D"color: rgb(255,0,0);">2.timestamp.extractor =E8=A1=A8=E7=
+=A4=BA=E5=88=86=E5=8C=BA=E6=97=B6=E9=97=B4=E6=88=B3=E6=8A=BD=E5=8F=96=E6=A8=
+=A1=E5=BC=8F=EF=BC=8C=E9=80=89=E6=8B=A9=E4=BD=BF=E7=94=A8=E8=AE=B0=E5=BD=95=
+=E5=86=85=E9=83=A8=E6=97=B6=E9=97=B4=E6=88=B3=E5=AD=97=E6=AE=B5=E3=80=82</s=
+pan></p>
+<p><span style=3D"color: rgb(255,0,0);">3.timestamp.field =E8=A1=A8=E7=A4=
+=BA=E8=A6=81=E4=BD=BF=E7=94=A8=E7=9A=84=E8=AE=B0=E5=BD=95=E5=86=85=E9=83=A8=
+=E6=97=B6=E9=97=B4=E6=88=B3 field =E5=90=8D=E7=A7=B0=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);">=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=
+=B0=E9=85=8D=E5=90=88=E4=BD=BF=E7=94=A8=E3=80=82</span></p>
+<p><span style=3D"color: rgb(255,0,0);">4.=E6=AD=A4=E9=85=8D=E7=BD=AE=E7=9B=
+=AE=E7=9A=84=E4=B8=BA=E6=A0=B9=E6=8D=AEbinlog=E7=94=9F=E6=88=90=E6=97=B6=E9=
+=97=B4=E6=97=B6=E9=97=B4=E5=88=86=E5=8C=BA=E8=90=BD=E5=9C=B0=EF=BC=8C=E5=AF=
+=B9=E4=BA=8E=E6=95=B0=E6=8D=AE=E5=BC=82=E5=B8=B8=E9=80=80=E5=87=BA=E7=9A=84=
+=E6=83=85=E5=86=B5=E5=8F=AF=E5=81=9A=E5=88=B0=E6=95=B0=E6=8D=AE=E5=9B=9E=E5=
+=A1=AB=E3=80=82</span></p>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-"><span style=3D"color: rgb(255,0,0);"><br><=
+/span></h1>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-4.Confluentrestfulapi">4.Confluent restful a=
+pi</h1>
+<p>GET /connectors&nbsp;=E2=80=93 =E8=BF=94=E5=9B=9E=E6=89=80=E6=9C=89=E6=
+=AD=A3=E5=9C=A8=E8=BF=90=E8=A1=8C=E7=9A=84connector=E5=90=8D<br>POST /conne=
+ctors&nbsp;=E2=80=93 =E6=96=B0=E5=BB=BA=E4=B8=80=E4=B8=AAconnector; =E8=AF=
+=B7=E6=B1=82=E4=BD=93=E5=BF=85=E9=A1=BB=E6=98=AFjson=E6=A0=BC=E5=BC=8F=E5=
+=B9=B6=E4=B8=94=E9=9C=80=E8=A6=81=E5=8C=85=E5=90=ABname=E5=AD=97=E6=AE=B5=
+=E5=92=8Cconfig=E5=AD=97=E6=AE=B5=EF=BC=8Cname=E6=98=AFconnector=E7=9A=84=
+=E5=90=8D=E5=AD=97=EF=BC=8Cconfig=E6=98=AFjson=E6=A0=BC=E5=BC=8F=EF=BC=8C=
+=E5=BF=85=E9=A1=BB=E5=8C=85=E5=90=AB=E4=BD=A0=E7=9A=84connector=E7=9A=84=E9=
+=85=8D=E7=BD=AE=E4=BF=A1=E6=81=AF=E3=80=82<br>GET /connectors/{name}&nbsp;=
+=E2=80=93 =E8=8E=B7=E5=8F=96=E6=8C=87=E5=AE=9Aconnetor=E7=9A=84=E4=BF=A1=E6=
+=81=AF<br>GET /connectors/{name}/config&nbsp;=E2=80=93 =E8=8E=B7=E5=8F=96=
+=E6=8C=87=E5=AE=9Aconnector=E7=9A=84=E9=85=8D=E7=BD=AE=E4=BF=A1=E6=81=AF<br=
+>PUT /connectors/{name}/config&nbsp;=E2=80=93 =E6=9B=B4=E6=96=B0=E6=8C=87=
+=E5=AE=9Aconnector=E7=9A=84=E9=85=8D=E7=BD=AE=E4=BF=A1=E6=81=AF<br>GET /con=
+nectors/{name}/status&nbsp;=E2=80=93 =E8=8E=B7=E5=8F=96=E6=8C=87=E5=AE=9Aco=
+nnector=E7=9A=84=E7=8A=B6=E6=80=81=EF=BC=8C=E5=8C=85=E6=8B=AC=E5=AE=83=E6=
+=98=AF=E5=90=A6=E5=9C=A8=E8=BF=90=E8=A1=8C=E3=80=81=E5=81=9C=E6=AD=A2=E3=80=
+=81=E6=88=96=E8=80=85=E5=A4=B1=E8=B4=A5=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=8F=91=
+=E7=94=9F=E9=94=99=E8=AF=AF=EF=BC=8C=E8=BF=98=E4=BC=9A=E5=88=97=E5=87=BA=E9=
+=94=99=E8=AF=AF=E7=9A=84=E5=85=B7=E4=BD=93=E4=BF=A1=E6=81=AF=E3=80=82<br>GE=
+T /connectors/{name}/tasks&nbsp;=E2=80=93 =E8=8E=B7=E5=8F=96=E6=8C=87=E5=AE=
+=9Aconnector=E6=AD=A3=E5=9C=A8=E8=BF=90=E8=A1=8C=E7=9A=84task=E3=80=82<br>G=
+ET /connectors/{name}/tasks/{taskid}/status&nbsp;=E2=80=93 =E8=8E=B7=E5=8F=
+=96=E6=8C=87=E5=AE=9Aconnector=E7=9A=84task=E7=9A=84=E7=8A=B6=E6=80=81=E4=
+=BF=A1=E6=81=AF<br>PUT /connectors/{name}/pause&nbsp;=E2=80=93 =E6=9A=82=E5=
+=81=9Cconnector=E5=92=8C=E5=AE=83=E7=9A=84task=EF=BC=8C=E5=81=9C=E6=AD=A2=
+=E6=95=B0=E6=8D=AE=E5=A4=84=E7=90=86=E7=9F=A5=E9=81=93=E5=AE=83=E8=A2=AB=E6=
+=81=A2=E5=A4=8D=E3=80=82<br>PUT /connectors/{name}/resume&nbsp;=E2=80=93 =
+=E6=81=A2=E5=A4=8D=E4=B8=80=E4=B8=AA=E8=A2=AB=E6=9A=82=E5=81=9C=E7=9A=84con=
+nector<br>POST /connectors/{name}/restart&nbsp;=E2=80=93 =E9=87=8D=E5=90=AF=
+=E4=B8=80=E4=B8=AAconnector=EF=BC=8C=E5=B0=A4=E5=85=B6=E6=98=AF=E5=9C=A8=E4=
+=B8=80=E4=B8=AAconnector=E8=BF=90=E8=A1=8C=E5=A4=B1=E8=B4=A5=E7=9A=84=E6=83=
+=85=E5=86=B5=E4=B8=8B=E6=AF=94=E8=BE=83=E5=B8=B8=E7=94=A8<br>POST /connecto=
+rs/{name}/tasks/{taskId}/restart&nbsp;=E2=80=93 =E9=87=8D=E5=90=AF=E4=B8=80=
+=E4=B8=AAtask=EF=BC=8C=E4=B8=80=E8=88=AC=E6=98=AF=E5=9B=A0=E4=B8=BA=E5=AE=
+=83=E8=BF=90=E8=A1=8C=E5=A4=B1=E8=B4=A5=E6=89=8D=E8=BF=99=E6=A0=B7=E5=81=9A=
+=E3=80=82<br>DELETE /connectors/{name}&nbsp;=E2=80=93 =E5=88=A0=E9=99=A4=E4=
+=B8=80=E4=B8=AAconnector=EF=BC=8C=E5=81=9C=E6=AD=A2=E5=AE=83=E7=9A=84=E6=89=
+=80=E6=9C=89task=E5=B9=B6=E5=88=A0=E9=99=A4=E9=85=8D=E7=BD=AE=E3=80=82&nbsp=
+;</p>
+<p><br></p>
+<h1 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=
+=B0=E9=9B=86=E7=BE=A4=EF=BC=89-5.Confluent=E4=BB=BB=E5=8A=A1=E5=B8=B8=E7=94=
+=A8=E6=93=8D=E4=BD=9C">5.Confluent =E4=BB=BB=E5=8A=A1=E5=B8=B8=E7=94=A8=E6=
+=93=8D=E4=BD=9C</h1>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">curl -X DELETE&nbsp;<span style=3D"color: rgb(0,=
+0,0);">localhost</span>:8083/connectors/[connector=E5=90=8D=E7=A7=B0</span>=
+<span style=3D"color: rgb(0,0,0);">]</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">curl -X POST -H "Content-Type:application/json" =
+--data @[=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6]&nbsp;&nbsp;localhost:8083/co=
+nnectors</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br></span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br></span></p>
+<h1 class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto p=
+ap-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em" id=3D"b=
+inlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=EF=BC=88aliyun=E6=96=B0=E9=9B=86=
+=E7=BE=A4=EF=BC=89-6.Confluent=E6=B3=A8=E5=86=8C=E7=B3=BB=E7=BB=9F=E6=9C=8D=
+=E5=8A=A1"><span style=3D"color: rgb(0,0,0);">6.Confluent =E6=B3=A8=E5=86=
+=8C=E7=B3=BB=E7=BB=9F=E6=9C=8D=E5=8A=A1</span></h1>
+<p><span style=3D"color: rgb(0,0,0);">=E6=96=B0=E5=BB=BA=E8=BF=87=E7=A8=8B=
+=E5=8F=AF=E5=8F=82=E8=80=83=E6=AD=A4=E6=96=87=E7=AB=A0&nbsp;</span><a href=
+=3D"https://www.jianshu.com/p/79059b06a121" style=3D"letter-spacing: 0.0px;=
+" class=3D"external-link" rel=3D"nofollow">https://www.jianshu.com/p/79059b=
+06a121</a>=E3=80=82</p>
+<p>=E4=B8=BB=E8=A6=81=E8=BF=87=E7=A8=8B=EF=BC=9A</p>
+<p>1.=E8=BF=9B=E5=85=A5 /usr/lib/systemd/system/&nbsp;</p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">2.=E6=96=B0=E5=BB=BA&nbsp;confluent-kafka-connec=
+t.service</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E5=A6=82=E4=
+=B8=8B=EF=BC=9A</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><br></p>
+<p>[Unit]<br>Description=3DApache Kafka Connect - distributed<br>Documentat=
+ion=3D<a href=3D"http://docs.confluent.io/" class=3D"external-link" rel=3D"=
+nofollow">http://docs.confluent.io/</a><br>After=3Dnetwork.target</p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><br></p>
+<p>[Service]<br>Type=3Dsimple<br>Environment=3D"KAFKA_HEAP_OPTS=3D-Xms1G -X=
+mx16G"<br>ExecStart=3D/mnt/disk1/confluent-5.2.2/bin/connect-distributed /m=
+nt/disk1/confluent-5.2.2/etc/schema-registry/connect-avro-distributed.prope=
+rties<br>TimeoutStopSec=3D30<br>Restart=3Dalways</p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><br></p>
+<p>[Install]<br>WantedBy=3Dmulti-user.target</p>
+<p><br></p>
+<p>3.</p>
+<p>=E9=87=8D=E8=BD=BD=E7=B3=BB=E7=BB=9F=E6=9C=8D=E5=8A=A1=EF=BC=9Asystemctl=
+ daemon-reload <br> =E8=AE=BE=E7=BD=AE=E5=BC=80=E6=9C=BA=E5=90=AF=E5=8A=A8=
+=EF=BC=9Asystemctl enable&nbsp;<span style=3D"color: rgb(0,0,0);">confluent=
+-kafka-connect.service</span><br> =E5=90=AF=E5=8A=A8=E6=9C=8D=E5=8A=A1=EF=
+=BC=9Asystemctl start&nbsp;<span style=3D"color: rgb(0,0,0);">confluent-kaf=
+ka-connect.service</span><br> =E5=81=9C=E6=AD=A2=E6=9C=8D=E5=8A=A1=EF=BC=9A=
+systemctl stop&nbsp;<span style=3D"color: rgb(0,0,0);">confluent-kafka-conn=
+ect.service</span><br> =E9=87=8D=E5=90=AF=E6=9C=8D=E5=8A=A1=EF=BC=9Asystemc=
+tl reload&nbsp;<span style=3D"color: rgb(0,0,0);">confluent-kafka-connect.s=
+ervice</span></p>
+<p><br></p>
+<p>=E6=97=A5=E5=B8=B8confluent=E6=9C=8D=E5=8A=A1=E5=8F=AF=E7=9B=B4=E6=8E=A5=
+=E7=94=A8=E8=BF=87=E5=91=BD=E4=BB=A4=E7=BB=B4=E6=8A=A4=E3=80=82</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br></span></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2634545_901909834.1587050222392--

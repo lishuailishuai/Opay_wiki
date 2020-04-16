@@ -1,0 +1,273 @@
+Message-ID: <1964620771.2634560.1587050323913.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634559_792489228.1587050323913"
+
+------=_Part_2634559_792489228.1587050323913
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>topic =E9=87=87=E9=9B=86=E8=AF=B4=E6=98=8E</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>topic =E9=87=87=E9=9B=86=E8=AF=B4=E6=98=8E</h1>
+    <div class=3D"Section1">
+        <p>1=E3=80=81#topic =E9=85=8D=E7=BD=AE=E5=9C=B0=E5=9D=80(kafka 2)</=
+p>
+<p>=E7=99=BB=E5=BD=95=E5=A0=A1=E5=9E=92=E6=9C=BA=EF=BC=8C=E9=80=89=E6=8B=A9=
+kafka 2<br>=E5=9C=B0=E5=9D=80 oride-bi-kafka-2-152.32.140.143-10.52.60.235<=
+/p>
+<p><br>2=E3=80=81=E9=80=89=E6=8B=A9=E4=B8=80=E4=B8=AA=E5=B7=B2=E6=9C=89=E6=
+=96=87=E4=BB=B6(opay =E4=B8=BA=E4=BE=8B)<br>sudi -i<br>opay-buried-s3-sink.=
+json</p>
+<p>3=E3=80=81vi =E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6<br>{<br> "name": "opay=
+-buried-s3-sink", #json =E6=96=87=E4=BB=B6=E5=90=8D=E7=A7=B0<br> "config": =
+{<br> "connector.class": "io.confluent.connect.s3.S3SinkConnector",<br> "ta=
+sks.max": "1",<br> "topics": "opay.aa,ussd-request",<br> "topics.dir": "opa=
+y_buried",<br> "s3.region": "eu-west-1",<br> "<a href=3D"http://s3.bucket.n=
+ame" class=3D"external-link" rel=3D"nofollow">s3.bucket.name</a>": "opay-bi=
+",<br> "s3.part.size": "5242880",<br> "s3.compression.type":"gzip",<br> "fl=
+ush.size": "1000000",<br> "file.delim": "_",<br> "storage.class":"io.conflu=
+ent.connect.s3.storage.S3Storage",<br> "format.class":"io.confluent.connect=
+.s3.format.json.JsonFormat",<br> "<a href=3D"http://rotate.schedule.interva=
+l.ms" class=3D"external-link" rel=3D"nofollow">rotate.schedule.interval.ms<=
+/a>":"900000",<br> "partitioner.class": "io.confluent.connect.storage.parti=
+tioner.TimeBasedPartitioner",<br> "path.format": "'dt=3D'YYYY-MM-dd'/hour=
+=3D'HH",<br> "<a href=3D"http://partition.duration.ms" class=3D"external-li=
+nk" rel=3D"nofollow">partition.duration.ms</a>": "6000",<br> "locale": "Nig=
+eria",<br> "timezone": "Africa/Lagos"<br> }<br>}</p>
+<p><br>4=E3=80=81#=E6=89=A7=E8=A1=8C=E5=81=9C=E6=AD=A2=E4=B9=8B=E5=89=8D=E6=
+=93=8D=E4=BD=9C(=E4=BB=85=E9=99=90=E4=BA=8E=E5=9C=A8=E5=90=8C=E4=B8=80=E4=
+=B8=AA=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E5=A2=9E=E5=8A=A0topic =E6=93=8D=
+=E4=BD=9C)<br>curl -X DELETE <a href=3D"http://10.52.60.235:8083/connectors=
+/opay-buried-s3-sink" class=3D"external-link" rel=3D"nofollow">http://10.52=
+.60.235:8083/connectors/opay-buried-s3-sink</a></p>
+<p>5=E3=80=81#=E6=B7=BB=E5=8A=A0<br>curl -X POST -H "Content-Type:applicati=
+on/json" --data @opay-buried-s3-sink.json <a href=3D"http://10.52.60.235:80=
+83/connectors" class=3D"external-link" rel=3D"nofollow">http://10.52.60.235=
+:8083/connectors</a></p>
+<p><br>#=E6=9F=A5=E8=AF=A2topic =E5=9C=B0=E5=9D=80<br>kafka-topics --bootst=
+rap-server 10.52.148.247:9092 --list | grep ussd</p>
+    </div>
+</body>
+</html>
+------=_Part_2634559_792489228.1587050323913--

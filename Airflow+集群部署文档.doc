@@ -1,0 +1,934 @@
+Message-ID: <1375098338.2634534.1587050048320.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634533_226319486.1587050048320"
+
+------=_Part_2634533_226319486.1587050048320
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Airflow =E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3</=
+title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Airflow =E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3</h1>
+    <div class=3D"Section1">
+        <p><span style=3D"color: rgb(0,0,0);">=E5=AE=98=E7=BD=91:</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"http://airflow.apache.org/=
+installation.html" class=3D"external-link" rel=3D"nofollow">http://airflow.=
+apache.org/installation.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=8E=9F=E7=90=86:</span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.cnblogs.com/co=
+rd/p/9450910.html" class=3D"external-link" rel=3D"nofollow">https://www.cnb=
+logs.com/cord/p/9450910.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=AE=89=E8=A3=85:</span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.cnblogs.com/co=
+rd/p/9226608.html" class=3D"external-link" rel=3D"nofollow">https://www.cnb=
+logs.com/cord/p/9226608.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E9=AB=98=E5=8F=AF=E7=94=A8=E9=83=A8=
+=E7=BD=B2=E7=AD=89=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;<a href=3D"https://www.jianshu.=
+com/p/2ecef979c606" class=3D"external-link" rel=3D"nofollow">https://www.ji=
+anshu.com/p/2ecef979c606</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E4=BD=BF=E7=94=A8=E6=96=B9=E6=B3=95=
+=E7=AD=89:</span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.jianshu.com/p/=
+cbff05e3f125" class=3D"external-link" rel=3D"nofollow">https://www.jianshu.=
+com/p/cbff05e3f125</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=97=A5=E5=BF=97=E5=9C=A8=EF=BC=9A<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">/tmp/scheduler.log&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=8E=9F=E7=90=86=E4=BB=8B=E7=BB=8D=
+=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow =E7=9A=84=E5=AE=88=E6=8A=A4=
+=E8=BF=9B=E7=A8=8B</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow =E7=B3=BB=E7=BB=9F=E5=9C=A8=
+=E8=BF=90=E8=A1=8C=E6=97=B6=E6=9C=89=E8=AE=B8=E5=A4=9A=E5=AE=88=E6=8A=A4=E8=
+=BF=9B=E7=A8=8B=EF=BC=8C=E5=AE=83=E4=BB=AC=E6=8F=90=E4=BE=9B=E4=BA=86 airfl=
+ow =E7=9A=84=E5=85=A8=E9=83=A8=E5=8A=9F=E8=83=BD=E3=80=82=E5=AE=88=E6=8A=A4=
+=E8=BF=9B=E7=A8=8B=E5=8C=85=E6=8B=AC Web=E6=9C=8D=E5=8A=A1=E5=99=A8-webserv=
+er=E3=80=81=E8=B0=83=E5=BA=A6=E7=A8=8B=E5=BA=8F-scheduler=E3=80=81=E6=89=A7=
+=E8=A1=8C=E5=8D=95=E5=85=83-worker=E3=80=81=E6=B6=88=E6=81=AF=E9=98=9F=E5=
+=88=97=E7=9B=91=E6=8E=A7=E5=B7=A5=E5=85=B7-Flower=E7=AD=89=E3=80=82=E4=B8=
+=8B=E9=9D=A2=E6=98=AF apache-airflow =E9=9B=86=E7=BE=A4=E3=80=81=E9=AB=98=
+=E5=8F=AF=E7=94=A8=E9=83=A8=E7=BD=B2=E7=9A=84=E4=B8=BB=E8=A6=81=E5=AE=88=E6=
+=8A=A4=E8=BF=9B=E7=A8=8B=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">webserver</span></p>
+<p><span style=3D"color: rgb(0,0,0);">webserver =E6=98=AF=E4=B8=80=E4=B8=AA=
+=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=8C=E5=AE=83=E6=8E=A5=E5=8F=97 HT=
+TP =E8=AF=B7=E6=B1=82=EF=BC=8C=E5=85=81=E8=AE=B8=E4=BD=A0=E9=80=9A=E8=BF=87=
+ Python Flask Web =E5=BA=94=E7=94=A8=E7=A8=8B=E5=BA=8F=E4=B8=8E airflow =E8=
+=BF=9B=E8=A1=8C=E4=BA=A4=E4=BA=92=EF=BC=8Cwebserver =E6=8F=90=E4=BE=9B=E4=
+=BB=A5=E4=B8=8B=E5=8A=9F=E8=83=BD=EF=BC=9A =E4=B8=AD=E6=AD=A2=E3=80=81=E6=
+=81=A2=E5=A4=8D=E3=80=81=E8=A7=A6=E5=8F=91=E4=BB=BB=E5=8A=A1=E3=80=82 =E7=
+=9B=91=E6=8E=A7=E6=AD=A3=E5=9C=A8=E8=BF=90=E8=A1=8C=E7=9A=84=E4=BB=BB=E5=8A=
+=A1=EF=BC=8C=E6=96=AD=E7=82=B9=E7=BB=AD=E8=B7=91=E4=BB=BB=E5=8A=A1=E3=80=82=
+ =E6=89=A7=E8=A1=8C ad-hoc =E5=91=BD=E4=BB=A4=E6=88=96 SQL =E8=AF=AD=E5=8F=
+=A5=E6=9D=A5=E6=9F=A5=E8=AF=A2=E4=BB=BB=E5=8A=A1=E7=9A=84=E7=8A=B6=E6=80=81=
+=EF=BC=8C=E6=97=A5=E5=BF=97=E7=AD=89=E8=AF=A6=E7=BB=86=E4=BF=A1=E6=81=AF=E3=
+=80=82 =E9=85=8D=E7=BD=AE=E8=BF=9E=E6=8E=A5=EF=BC=8C=E5=8C=85=E6=8B=AC=E4=
+=B8=8D=E9=99=90=E4=BA=8E=E6=95=B0=E6=8D=AE=E5=BA=93=E3=80=81ssh =E7=9A=84=
+=E8=BF=9E=E6=8E=A5=E7=AD=89=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">webserver =E5=AE=88=E6=8A=A4=E8=BF=9B=
+=E7=A8=8B=E4=BD=BF=E7=94=A8 gunicorn =E6=9C=8D=E5=8A=A1=E5=99=A8=EF=BC=88=
+=E7=9B=B8=E5=BD=93=E4=BA=8E java =E4=B8=AD=E7=9A=84 tomcat =EF=BC=89=E5=A4=
+=84=E7=90=86=E5=B9=B6=E5=8F=91=E8=AF=B7=E6=B1=82=EF=BC=8C=E5=8F=AF=E9=80=9A=
+=E8=BF=87=E4=BF=AE=E6=94=B9{AIRFLOW_HOME}/airflow.cfg=E6=96=87=E4=BB=B6=E4=
+=B8=AD workers =E7=9A=84=E5=80=BC=E6=9D=A5=E6=8E=A7=E5=88=B6=E5=A4=84=E7=90=
+=86=E5=B9=B6=E5=8F=91=E8=AF=B7=E6=B1=82=E7=9A=84=E8=BF=9B=E7=A8=8B=E6=95=B0=
+=E3=80=82 =E4=BE=8B=E5=A6=82=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">workers =3D 4 #=E8=A1=A8=E7=A4=BA=E5=
+=BC=80=E5=90=AF4=E4=B8=AAgunicorn worker(=E8=BF=9B=E7=A8=8B)=E5=A4=84=E7=90=
+=86web=E8=AF=B7=E6=B1=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=A8 webserver =E5=AE=
+=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ airfow webserver -D</span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler</span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler =E6=98=AF=E4=B8=80=E4=B8=AA=
+=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=8C=E5=AE=83=E5=91=A8=E6=9C=9F=E6=
+=80=A7=E5=9C=B0=E8=BD=AE=E8=AF=A2=E4=BB=BB=E5=8A=A1=E7=9A=84=E8=B0=83=E5=BA=
+=A6=E8=AE=A1=E5=88=92=EF=BC=8C=E4=BB=A5=E7=A1=AE=E5=AE=9A=E6=98=AF=E5=90=A6=
+=E8=A7=A6=E5=8F=91=E4=BB=BB=E5=8A=A1=E6=89=A7=E8=A1=8C=E3=80=82 =E5=90=AF=
+=E5=8A=A8=E7=9A=84 scheduler =E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=9A<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ airfow scheduler -D</span></p>
+<p><span style=3D"color: rgb(0,0,0);">worker</span></p>
+<p><span style=3D"color: rgb(0,0,0);">worker =E6=98=AF=E4=B8=80=E4=B8=AA=E5=
+=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=8C=E5=AE=83=E5=90=AF=E5=8A=A8 1 =E4=
+=B8=AA=E6=88=96=E5=A4=9A=E4=B8=AA Celery =E7=9A=84=E4=BB=BB=E5=8A=A1=E9=98=
+=9F=E5=88=97=EF=BC=8C=E8=B4=9F=E8=B4=A3=E6=89=A7=E8=A1=8C=E5=85=B7=E4=BD=93=
+ =E7=9A=84 DAG =E4=BB=BB=E5=8A=A1=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=BD=93=E8=AE=BE=E7=BD=AE airflow =
+=E7=9A=84 executors =E8=AE=BE=E7=BD=AE=E4=B8=BA CeleryExecutor =E6=97=B6=E6=
+=89=8D=E9=9C=80=E8=A6=81=E5=BC=80=E5=90=AF worker =E5=AE=88=E6=8A=A4=E8=BF=
+=9B=E7=A8=8B=E3=80=82=E6=8E=A8=E8=8D=90=E4=BD=A0=E5=9C=A8=E7=94=9F=E4=BA=A7=
+=E7=8E=AF=E5=A2=83=E4=BD=BF=E7=94=A8 CeleryExecutor =EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">executor =3D CeleryExecutor</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=A8=E4=B8=80=E4=B8=AA =
+worker=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=8C=E9=BB=98=E8=AE=A4=E7=9A=
+=84=E9=98=9F=E5=88=97=E5=90=8D=E4=B8=BA default:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ airfow worker -D</span></p>
+<p><span style=3D"color: rgb(0,0,0);">flower</span></p>
+<p><span style=3D"color: rgb(0,0,0);">flower =E6=98=AF=E4=B8=80=E4=B8=AA=E5=
+=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=EF=BC=8C=E7=94=A8=E4=BA=8E=E6=98=AF=E7=9B=
+=91=E6=8E=A7 celery =E6=B6=88=E6=81=AF=E9=98=9F=E5=88=97=E3=80=82=E5=90=AF=
+=E5=8A=A8=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B=E5=91=BD=E4=BB=A4=E5=A6=82=E4=
+=B8=8B=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ airflow flower -D</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E9=BB=98=E8=AE=A4=E7=9A=84=E7=AB=AF=
+=E5=8F=A3=E4=B8=BA 5555=EF=BC=8C=E6=82=A8=E5=8F=AF=E4=BB=A5=E5=9C=A8=E6=B5=
+=8F=E8=A7=88=E5=99=A8=E5=9C=B0=E5=9D=80=E6=A0=8F=E4=B8=AD=E8=BE=93=E5=85=A5=
+ "<a href=3D"http://hostip:5555" class=3D"external-link" rel=3D"nofollow">h=
+ttp://hostip:5555</a>" =E6=9D=A5=E8=AE=BF=E9=97=AE flower =EF=BC=8C=E5=AF=
+=B9 celery =E6=B6=88=E6=81=AF=E9=98=9F=E5=88=97=E8=BF=9B=E8=A1=8C=E7=9B=91=
+=E6=8E=A7=E3=80=82</span></p>
+<p><br></p>
+<p><span class=3D"image-wrapper"> <span class=3D"confluence-embedded-file-w=
+rapper confluence-embedded-manual-size"><img class=3D"confluence-embedded-i=
+mage confluence-external-resource" height=3D"99" width=3D"630" src=3D"https=
+://qqadapt.qpic.cn/txdocpic/0/0f83c9d035889be98a77886b41fd21f8/0" data-imag=
+e-src=3D"https://qqadapt.qpic.cn/txdocpic/0/0f83c9d035889be98a77886b41fd21f=
+8/0"></span> </span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">=E8=BF=99=E4=B8=AA=E7=9B=91=E6=8E=A7=
+=E9=98=9F=E5=88=97=E9=87=8C=E6=9C=89=E5=A4=9A=E5=B0=91=E4=BB=BB=E5=8A=A1=E8=
+=A2=ABschudle=E5=90=8A=E5=90=AF,&nbsp;worker=E5=8E=BB=E6=B6=88=E8=B4=B9=E9=
+=98=9F=E5=88=97=E9=87=8C=E7=9A=84=E4=BB=BB=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=B9=B6=E5=8F=91=E6=8E=A7=E5=88=B6=
+=E5=8F=82=E6=95=B0=E8=A7=A3=E9=87=8A=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">parallelism=EF=BC=9A=E8=BF=99=E4=B8=
+=AA=E5=8F=82=E6=95=B0=E6=8C=87=E5=AE=9A=E4=BA=86=E6=95=B4=E4=B8=AAAirflow=
+=E7=B3=BB=E7=BB=9F=EF=BC=8C=E5=9C=A8=E4=BB=BB=E4=BD=95=E4=B8=80=E5=88=BB=E8=
+=83=BD=E5=90=8C=E6=97=B6=E8=BF=90=E8=A1=8C=E7=9A=84Task Instance=E7=9A=84=
+=E6=95=B0=E9=87=8F=EF=BC=8C=E8=BF=99=E4=B8=AA=E6=95=B0=E9=87=8F=E8=B7=9FDAG=
+=E6=97=A0=E5=85=B3=EF=BC=8C=E5=8F=AA=E8=B7=9FExecutor=E5=92=8CTask=E6=9C=89=
+=E5=85=B3=E3=80=82=E4=B8=BE=E4=B8=AA=E4=BE=8B=E5=AD=90=EF=BC=9A=E5=A6=82=E6=
+=9E=9Cparallelism=3D15, =E8=BF=99=E6=97=B6=E4=BD=A0=E6=9C=89=E4=B8=A4=E4=B8=
+=AADAG=EF=BC=8CA=E5=92=8CB=EF=BC=8C=E5=A6=82=E6=9E=9CA=E9=9C=80=E8=A6=81=E5=
+=90=8C=E6=97=B6=E5=BC=80=E8=B7=9110=E4=B8=AATask=EF=BC=8CB=E4=B9=9F=E8=A6=
+=81=E5=90=8C=E6=97=B6=E5=BC=80=E8=B7=9110=E4=B8=AATask=EF=BC=8C=E4=B8=A4=E4=
+=B8=AADAG=E5=90=8C=E6=97=B6=E8=A7=A6=E5=8F=91=EF=BC=8C=E9=82=A3=E4=B9=88=E8=
+=BF=99=E6=97=B6=E5=80=99=E5=90=8C=E6=97=B6=E5=9C=A8=E8=B7=91=E7=9A=84Task=
+=E6=95=B0=E9=87=8F=E5=8F=AA=E8=83=BD=E6=98=AF15=EF=BC=8C=E5=85=B6=E4=BD=99=
+=E7=9A=845=E4=B8=AA=E4=BC=9A=E7=AD=89=E4=B9=8B=E5=89=8D=E7=9A=84Task=E8=BF=
+=90=E8=A1=8C=E5=AE=8C=E4=BA=86=E8=A7=A6=E5=8F=91=EF=BC=8C=E8=BF=99=E6=97=B6=
+=E7=9A=84=E7=8A=B6=E6=80=81=E4=B8=8D=E4=BC=9A=E6=98=BE=E7=A4=BA=E5=9C=A8web=
+=E4=B8=8A=E3=80=82=E8=80=8C=E4=B8=94=E5=9C=A8=E8=BF=99=E7=A7=8D=E6=83=85=E5=
+=86=B5=E4=B8=8B=EF=BC=8C=E8=A7=A6=E5=8F=91=E7=9A=84=E9=A1=BA=E5=BA=8F=E6=98=
+=AF=E4=B8=8D=E7=A1=AE=E5=AE=9A=E7=9A=84=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">concurrency =EF=BC=9A=E8=BF=99=E4=B8=
+=AA=E7=94=A8=E6=9D=A5=E6=8E=A7=E5=88=B6 =E6=AF=8F=E4=B8=AAdag=E8=BF=90=E8=
+=A1=8C=E8=BF=87=E7=A8=8B=E4=B8=AD=E6=9C=80=E5=A4=A7=E5=8F=AF=E5=90=8C=E6=97=
+=B6=E8=BF=90=E8=A1=8C=E7=9A=84task=E5=AE=9E=E4=BE=8B=E6=95=B0=E3=80=82=E5=
+=A6=82=E6=9E=9C=E4=BD=A0=E6=B2=A1=E6=9C=89=E8=AE=BE=E7=BD=AE=E8=BF=99=E4=B8=
+=AA=E5=80=BC=E7=9A=84=E8=AF=9D=EF=BC=8Cscheduler =E4=BC=9A=E4=BB=8Eairflow.=
+cfg=E9=87=8C=E9=9D=A2=E8=AF=BB=E5=8F=96=E9=BB=98=E8=AE=A4=E5=80=BC dag_conc=
+urrency</span></p>
+<p><span style=3D"color: rgb(0,0,0);">max_active_runs : =E8=BF=99=E4=B8=AA=
+=E6=98=AF=E7=94=A8=E6=9D=A5=E6=8E=A7=E5=88=B6=E5=9C=A8=E5=90=8C=E4=B8=80=E6=
+=97=B6=E9=97=B4=E5=8F=AF=E4=BB=A5=E8=BF=90=E8=A1=8C=E7=9A=84=E6=9C=80=E5=A4=
+=9A=E7=9A=84dag runs =E6=95=B0=E9=87=8F=E3=80=82=E8=BF=99=E9=87=8C=E9=9C=80=
+=E8=A6=81=E8=A7=A3=E9=87=8A=E4=B8=80=E4=B8=8Bdag runs =EF=BC=8C=E6=AF=94=E5=
+=A6=82=E4=BD=A0=E7=9A=84dag=E8=AE=BE=E7=BD=AE=E7=9A=84=E6=AF=8F=E5=A4=A9=E8=
+=BF=90=E8=A1=8C=EF=BC=8C=E9=82=A3=E4=B9=88=E5=9C=A8=E5=A4=A9=E7=9A=84=E6=97=
+=B6=E9=97=B4=E6=AE=B5=E5=86=85=E8=BF=90=E8=A1=8C=E6=9F=90=E4=B8=AAdag=E5=B0=
+=B1=E7=AE=97=E6=98=AF=E4=B8=80=E4=B8=AAdag runs =E3=80=82=E6=8C=89=E9=81=93=
+=E7=90=86=E6=AF=8F=E5=A4=A9=E5=8F=AA=E4=BC=9A=E6=89=A7=E8=A1=8C=E4=B8=80=E6=
+=AC=A1=EF=BC=8C=E4=BD=86=E6=98=AF=E4=BF=9D=E4=B8=8D=E9=BD=90=EF=BC=8C=E4=BD=
+=A0=E5=89=8D=E5=A4=A9=E5=92=8C=E5=A4=A7=E5=89=8D=E5=A4=A9=E7=9A=84dag=E9=83=
+=BD=E6=B2=A1=E8=BF=90=E8=A1=8C=EF=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E9=9C=80=
+=E8=A6=81=E8=A1=A5=E8=B7=91=EF=BC=8C=E6=88=96=E8=80=85=E4=BD=A0=E5=9C=A8=E6=
+=9F=90=E4=B8=80=E6=AC=A1=E5=AE=9A=E6=97=B6dag=E8=A7=A6=E5=8F=91=E4=BA=86=E4=
+=B9=8B=E5=90=8E=EF=BC=8C=E5=8F=88=E6=89=8B=E5=8A=A8=E8=A7=A6=E5=8F=91=E4=BA=
+=86=EF=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E5=AD=98=E5=9C=A8=EF=BC=8C=E5=90=8C=
+=E4=B8=80=E4=B8=AA=E6=97=B6=E9=97=B4=E7=82=B9=E6=9C=89=E5=A4=9A=E4=B8=AAdag=
+ runs =E3=80=82=E8=BF=99=E4=B8=AA=E5=8F=82=E6=95=B0=E5=B0=B1=E6=98=AF=E6=8E=
+=A7=E5=88=B6=E8=BF=99=E4=B8=AA=E6=9C=80=E5=A4=A7=E7=9A=84dag runs</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">sql_alchemy_pool_size:&nbsp; =E9=BB=
+=98=E8=AE=A4=E4=BD=BF=E7=94=A8=E8=BF=9E=E6=8E=A5=E6=95=B0=E6=8D=AE=E5=BA=93=
+=E7=9A=84=E6=9C=80=E5=A4=A7=E8=BF=9E=E6=8E=A5,=E8=AE=BE=E7=BD=AE=E4=B8=BA0=
+=E8=A1=A8=E7=A4=BA=E6=B2=A1=E6=9C=89=E9=99=90=E5=88=B6</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">worker_concurrency =3D 32</span></p>
+<p><span style=3D"color: rgb(0,0,0);">parallelism =3D 64</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=8D=95=E6=9C=BA=E9=83=A8=E7=BD=B2"><span style=3D"color: rgb(0,0,0);">=E5=
+=8D=95=E6=9C=BA=E9=83=A8=E7=BD=B2</span></h1>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.jianshu.com/p/=
+9bed1e3ab93b" class=3D"external-link" rel=3D"nofollow">https://www.jianshu.=
+com/p/9bed1e3ab93b</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;1/ python3.6.5=E7=8E=AF=E5=A2=
+=83</span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.cnblogs.com/ho=
+ngfeng2019/p/11250989.html" class=3D"external-link" rel=3D"nofollow">https:=
+//www.cnblogs.com/hongfeng2019/p/11250989.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E4=BE=9D=E8=B5=96=E5=92=8Csuperset=
+=E4=B9=9F=E7=9B=B8=E5=90=8C</span></p>
+<p><span style=3D"color: rgb(0,0,0);">yum install mysql-devel</span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip3 install mysqlclient</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">2/ =E5=AE=89=E8=A3=85mysql</span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.cnblogs.com/ho=
+ngfeng2019/p/11279488.html" class=3D"external-link" rel=3D"nofollow">https:=
+//www.cnblogs.com/hongfeng2019/p/11279488.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">create database airflowdb</span></p>
+<p><span style=3D"color: rgb(0,0,0);">use airflowdb;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">GRANT all privileges ON airflowdb.* T=
+O 'airflow'@'localhost' IDENTIFIED BY 'Fengfeng99&amp;';</span></p>
+<p><span style=3D"color: rgb(0,0,0);">GRANT all privileges ON airflowdb.* T=
+O 'airflow'@'10.52.%.%' IDENTIFIED BY 'Fengfeng&amp;';</span></p>
+<p><span style=3D"color: rgb(0,0,0);">set @@global.explicit_defaults_for_ti=
+mestamp=3Don;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E9=98=B2=E6=AD=A2=E5=90=8E=E9=9D=A2=
+=E6=8A=A5=E9=94=99:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">"Global variable explicit_defaults_fo=
+r_timestamp needs to be on (1) for mysql"</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">3/ =E5=AE=89=E8=A3=85airflow</span></=
+p>
+<p><span style=3D"color: rgb(0,0,0);">mkdir -p /root/airflow</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim /etc/profile</span></p>
+<p><span style=3D"color: rgb(0,0,0);">export AIRFLOW_HOME=3D/root/airflow</=
+span></p>
+<p><span style=3D"color: rgb(0,0,0);">export SLUGIFY_USES_TEXT_UNIDECODE=3D=
+yes</span></p>
+<p><span style=3D"color: rgb(0,0,0);">source /etc/profile</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip install apache-airflow[all]</span=
+></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">4/=E4=BF=AE=E6=94=B9=E9=85=8D=E7=BD=
+=AE</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim /root/airflow/airflow.cfg&nbsp;</=
+span></p>
+<p><span style=3D"color: rgb(0,0,0);">sql_alchemy_conn =3D <a href=3D"mysql=
+://airflow:Fengfeng&amp;@10.52.56.119:3306/airflowdb" rel=3D"nofollow">mysq=
+l://airflow:Fengfeng&amp;@10.52.56.119:3306/airflowdb</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">5/=E5=88=9D=E5=A7=8B=E5=8C=96=E6=95=
+=B0=E6=8D=AE=E5=BA=93</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow initdb</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E9=
+=9B=86=E7=BE=A4=E6=A8=A1=E5=BC=8F=E9=83=A8=E7=BD=B2:"><span style=3D"color:=
+ rgb(0,0,0);">=E9=9B=86=E7=BE=A4=E6=A8=A1=E5=BC=8F=E9=83=A8=E7=BD=B2:</span=
+></h1>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"https://www.jianshu.com/p/=
+bddacfd66c1f" class=3D"external-link" rel=3D"nofollow">https://www.jianshu.=
+com/p/bddacfd66c1f</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">1/&nbsp;=E5=AE=89=E8=A3=85celery</spa=
+n></p>
+<p><span style=3D"color: rgb(0,0,0);">pip install celery</span></p>
+<p><span style=3D"color: rgb(0,0,0);">2/ =E5=AE=89=E8=A3=85redis</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=99=AE=E9=80=9A=E5=B8=90=E5=8F=B7=
+=E8=B5=B7=E5=8F=82=E8=80=83:&nbsp;<a href=3D"https://www.cnblogs.com/hongfe=
+ng2019/p/11524173.html" class=3D"external-link" rel=3D"nofollow">https://ww=
+w.cnblogs.com/hongfeng2019/p/11524173.html</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">wget <a href=3D"http://download.redis=
+.io/releases/redis-4.0.11.tar.gz" class=3D"external-link" rel=3D"nofollow">=
+http://download.redis.io/releases/redis-4.0.11.tar.gz</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ tar xzf redis-4.0.11.tar.gz</span><=
+/p>
+<p><span style=3D"color: rgb(0,0,0);">mv redis-4.0.11 /opt/</span></p>
+<p><span style=3D"color: rgb(0,0,0);">cd /opt/redis-4.0.11&nbsp; &nbsp;#=E5=
+=85=AC=E5=8F=B8=E7=9A=84=E5=9C=A8/hongfeng/software</span></p>
+<p><span style=3D"color: rgb(0,0,0);">$ make</span></p>
+<p><span style=3D"color: rgb(0,0,0);">make=E6=89=A7=E8=A1=8C=E5=AE=8C=E5=90=
+=8E=E4=BC=9A=E5=9C=A8src=E7=9B=AE=E5=BD=95=E4=B8=8B=E7=94=9F=E6=88=90redis-=
+server,redis-cli=E7=AD=89=E5=85=AD=E4=B8=AA=E5=8F=AF=E6=89=A7=E8=A1=8C=E6=
+=96=87=E4=BB=B6.</span></p>
+<p><span style=3D"color: rgb(0,0,0);">redis-server: redis=E6=9C=8D=E5=8A=A1=
+=E5=99=A8=E7=9A=84daemon=E5=90=AF=E5=8A=A8=E7=A8=8B=E5=BA=8F</span></p>
+<p><span style=3D"color: rgb(0,0,0);">redis-cli: redis=E5=91=BD=E4=BB=A4=E6=
+=93=8D=E4=BD=9C=E5=B7=A5=E5=85=B7</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=94=B9redis-4.0.11=E7=9B=AE=E5=BD=
+=95=E4=B8=8B=E7=9A=84redis.conf</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">send -i 's/daemonize no/daemonize yes=
+/g' /opt/redis-4.0.11/redis.conf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">sed -i 's/bind 127.0.0.1/#bind 127.0.=
+0.1/g' /opt/redis-4.0.11/redis.conf #=E5=85=81=E8=AE=B8=E8=BF=9C=E7=A8=8B=
+=E8=BF=9E=E6=8E=A5</span></p>
+<p><span style=3D"color: rgb(0,0,0);">sed -i 's/protected-mode yes/protecte=
+d-mode no/g' /opt/redis-4.0.11/redis.conf #=E5=85=81=E8=AE=B8=E8=BF=9C=E7=
+=A8=8B=E8=BF=9E=E6=8E=A5</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=A8redis=E6=9C=8D=E5=
+=8A=A1:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">cd src/</span></p>
+<p><span style=3D"color: rgb(0,0,0);">./redis-server ../redis.conf</span></=
+p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">3/ =E9=85=8D=E7=BD=AEairflow.cfg</spa=
+n></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=94=B9LocalExecutor</span></p>
+<p><span style=3D"color: rgb(0,0,0);">executor =3D CeleryExecutor</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">broker_url =3D <a href=3D"redis://10.=
+52.56.119:6379/0" rel=3D"nofollow">redis://10.52.56.119:6379/0</a></span></=
+p>
+<p><span style=3D"color: rgb(0,0,0);">result_backend =3D db+<a href=3D"mysq=
+l://airflow:Fengfeng&amp;@10.52.56.119:3306/airflowdb" rel=3D"nofollow">mys=
+ql://airflow:Fengfeng&amp;@10.52.56.119:3306/airflowdb</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">4/ =E5=AE=89=E8=A3=85python=E7=9A=84r=
+edis=E5=8C=85</span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip install redis</span></p>
+<p><span style=3D"color: rgb(0,0,0);">5/ =E8=BF=90=E8=A1=8Cairflow</span></=
+p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=AF=E5=8A=A8airflowwebserver=E6=B5=8B=E8=AF=95"><span style=3D"color: rg=
+b(0,0,0);">=E5=90=AF=E5=8A=A8airflow webserver=E6=B5=8B=E8=AF=95</span></h1=
+>
+<p><span style=3D"color: rgb(0,0,0);">airflow webserver -p 8080</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=8E=E5=8F=B0=E5=90=AF=E5=8A=A8:=
+</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=AF=E5=8A=A8webserver"><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=
+=8A=A8webserver</span></h1>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8Cairflowwebserver-p8080-D"><span style=3D"c=
+olor: rgb(0,0,0);">=E5=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8C airflow webserver -=
+p 8080 -D</span></h1>
+<p><span style=3D"color: rgb(0,0,0);">airflow webserver -p 8080</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=AF=E5=8A=A8scheduler"><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=
+=8A=A8scheduler</span></h1>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8Cairflowscheduler-D"><span style=3D"color: =
+rgb(0,0,0);">=E5=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8C airflow scheduler -D</spa=
+n></h1>
+<p><span style=3D"color: rgb(0,0,0);">airflow scheduler</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=AF=E5=8A=A8worker"><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=
+=A8worker</span></h1>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8Cairflowworker-D"><span style=3D"color: rgb=
+(0,0,0);">=E5=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8C airflow worker -D</span></h1=
+>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=A6=82=E6=8F=90=E7=A4=BAaddresalreadyuse=EF=BC=8C=E5=88=99=E6=9F=A5=E7=9C=
+=8Bworker_log_server_port=3D8793=E6=98=AF=E5=90=A6=E8=A2=AB=E5=8D=A0=E7=94=
+=A8=EF=BC=8C=E5=A6=82=E6=98=AF=E5=88=99=E4=BF=AE=E6=94=B9=E4=B8=BA8974=E7=
+=AD=89"><span style=3D"color: rgb(0,0,0);">=E5=A6=82=E6=8F=90=E7=A4=BAaddre=
+s already use =EF=BC=8C=E5=88=99=E6=9F=A5=E7=9C=8B worker_log_server_port =
+=3D 8793 =E6=98=AF=E5=90=A6=E8=A2=AB=E5=8D=A0=E7=94=A8=EF=BC=8C=E5=A6=82=E6=
+=98=AF=E5=88=99=E4=BF=AE=E6=94=B9=E4=B8=BA 8974 =E7=AD=89</span></h1>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E6=
+=9C=AA=E8=A2=AB=E5=8D=A0=E7=94=A8=E7=9A=84=E7=AB=AF=E5=8F=A3"><span style=
+=3D"color: rgb(0,0,0);">=E6=9C=AA=E8=A2=AB=E5=8D=A0=E7=94=A8=E7=9A=84=E7=AB=
+=AF=E5=8F=A3</span></h1>
+<p><span style=3D"color: rgb(0,0,0);">airflow worker</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E5=
+=90=AF=E5=8A=A8flower--=E5=8F=AF=E4=BB=A5=E4=B8=8D=E5=90=AF=E5=8A=A8"><span=
+ style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=A8flower -- =E5=8F=AF=E4=BB=
+=A5=E4=B8=8D=E5=90=AF=E5=8A=A8</span></h1>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=8E=E5=8F=B0=E8=BF=90=E8=A1=8C =
+airflow flower -D</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow flower</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=A6=82=E6=9E=9C airflow flower =E8=
+=BF=90=E8=A1=8C=E6=8A=A5=E9=94=99=EF=BC=8C=E8=AF=B7=E6=89=A7=E8=A1=8C pip i=
+nstall flower =E6=9D=A5=E5=AE=89=E8=A3=85 flower =E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E4=B8=89. =E5=A4=9A=E7=82=B9=E7=9A=
+=84=E9=AB=98=E5=8F=AF=E7=94=A8</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=
+=E5=80=9F=E5=8A=A9=E7=AC=AC=E4=B8=89=E6=96=B9=E7=BB=84=E4=BB=B6&nbsp;airflo=
+w-scheduler-failover-controller&nbsp;=E5=AE=9E=E7=8E=B0 scheduler =E7=9A=84=
+=E9=AB=98=E5=8F=AF=E7=94=A8=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=85=B7=E4=BD=93=E6=AD=A5=E9=AA=A4=
+=E5=A6=82=E4=B8=8B=E6=89=80=E7=A4=BA=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E4=B8=8B=E8=BD=BD failover</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">1/ git clone <a href=3D"https://githu=
+b.com/teamclairvoyant/airflow-scheduler-failover-controller" class=3D"exter=
+nal-link" rel=3D"nofollow">https://github.com/teamclairvoyant/airflow-sched=
+uler-failover-controller</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E4=BD=BF=E7=94=A8 pip =E8=BF=9B=E8=
+=A1=8C=E5=AE=89=E8=A3=85</span></p>
+<p><span style=3D"color: rgb(0,0,0);">cd{AIRFLOW_FAILOVER_CONTROLLER_HOME}<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip install -e .</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=88=9D=E5=A7=8B=E5=8C=96 failover<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler_failover_controller init</s=
+pan></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=B3=A8=EF=BC=9A=E5=88=9D=E5=A7=8B=
+=E5=8C=96=E6=97=B6=EF=BC=8C=E4=BC=9A=E5=90=91airflow.cfg=E4=B8=AD=E8=BF=BD=
+=E5=8A=A0=E5=86=85=E5=AE=B9=EF=BC=8C=E5=9B=A0=E6=AD=A4=E9=9C=80=E8=A6=81=E5=
+=85=88=E5=AE=89=E8=A3=85 airflow =E5=B9=B6=E5=88=9D=E5=A7=8B=E5=8C=96=E3=80=
+=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">2/ =E6=9B=B4=E6=94=B9 failover =E9=85=
+=8D=E7=BD=AE</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim /root/airflow.cnf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler_nodes_in_cluster=3D host1,h=
+ost2 #=E5=8F=AF=E7=94=A8ip</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=B3=A8:host name =E5=8F=AF=E4=BB=
+=A5=E9=80=9A=E8=BF=87scheduler_failover_controller get_current_host=E5=91=
+=BD=E4=BB=A4=E8=8E=B7=E5=BE=97</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">Number of times to retry starting up =
+the scheduler before it sends an alert</span></p>
+<p><span style=3D"color: rgb(0,0,0);">retry_count_before_alerting =3D 5 #fa=
+ilover=E5=89=8D=E5=B0=9D=E8=AF=95=E5=9C=A8=E9=82=A3=E5=8F=B0=E8=B5=B7schudl=
+e=E5=87=A0=E6=AC=A1,=E5=8F=AF=E6=94=B9=E4=B8=BA0</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=B5=8B=E8=AF=95:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=8F=AF=E6=8A=8Aairflow-1=E5=85=B3=
+=E6=8E=89,=E7=9C=8Bscheudle=E6=98=AF=E5=90=A6=E5=88=87=E6=8D=A2,tailf /root=
+/airflow/failover.log=E7=9C=8B=E5=88=87=E6=8D=A2=E6=83=85=E5=86=B5.</span><=
+/p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">3/ =E9=85=8D=E7=BD=AE=E5=AE=89=E8=A3=
+=85 failover =E7=9A=84=E6=9C=BA=E5=99=A8=E4=B9=8B=E9=97=B4=E7=9A=84=E5=85=
+=8D=E5=AF=86=E7=99=BB=E5=BD=95=EF=BC=8C=E9=85=8D=E7=BD=AE=E5=AE=8C=E6=88=90=
+=E5=90=8E=EF=BC=8C=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E5=A6=82=E4=B8=8B=E5=
+=91=BD=E4=BB=A4=E8=BF=9B=E8=A1=8C=E9=AA=8C=E8=AF=81=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler_failover_controller test_co=
+nnection</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=AF=E5=8A=A8 failover</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">scheduler_failover_controller start</=
+span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">/data/venv/bin/scheduler_failover_con=
+troller start</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=B5=8B=E8=AF=95:&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=8A=8A=E4=B8=BBnode 119=E5=81=9C=
+=E6=8E=89</span></p>
+<p><span style=3D"color: rgb(0,0,0);">. /data/venv/bin/activate</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl status</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim&nbsp;/data/venv/etc/supervisord.c=
+onf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=8F=91=E7=8E=B0failover=E8=B5=B7=
+=E4=BD=9C=E7=94=A8=E4=BA=86,=E4=BD=86schudle=E8=BF=9B=E7=A8=8B=E5=B9=B6=E6=
+=B2=A1=E6=9C=89=E6=8B=89=E8=B5=B7=E6=9D=A5.=E6=A3=80=E6=9F=A5=E5=8F=91=E7=
+=8E=B0:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E8=A6=81=E5=AE=9E=E7=8E=B0=E7=9C=9F=
+=E6=AD=A3=E7=9A=84=E9=AB=98=E5=8F=AF=E7=94=A8=E8=BF=98=E9=9C=80=E8=A6=81:</=
+span></p>
+<p><span style=3D"color: rgb(0,0,0);">1/ mysql=E7=9A=84MHA</span></p>
+<p><span style=3D"color: rgb(0,0,0);">2/ redies=E7=9A=84=E9=9B=86=E7=BE=A4<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<h1 id=3D"Airflow=E9=9B=86=E7=BE=A4=E9=83=A8=E7=BD=B2=E6=96=87=E6=A1=A3-=E9=
+=9B=86=E7=BE=A4=E8=A6=81=E5=A2=9E=E5=8A=A0=E8=8A=82=E7=82=B9=EF=BC=9A"><spa=
+n style=3D"color: rgb(0,0,0);">=E9=9B=86=E7=BE=A4=E8=A6=81=E5=A2=9E=E5=8A=
+=A0=E8=8A=82=E7=82=B9=EF=BC=9A</span></h1>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=8C=E6=A0=B7=E7=9A=84=E9=85=8D=
+=E7=BD=AE=E5=85=8B=E9=9A=86=E4=B8=80=E5=8F=B0=EF=BC=8C=E4=BD=86supervisor=
+=E9=87=8C=E5=8F=AA=E8=B5=B7failover=E5=92=8Cworker=E6=9C=8D=E5=8A=A1</span>=
+</p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">119=E4=B8=8A=E6=B2=A1=E6=9C=89woker s=
+chudle=E8=BF=9B=E7=A8=8B&nbsp; &nbsp;ps -ef , supervisor=E7=9C=8B</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E9=87=8D=E5=BB=BA=E6=9C=8D=E5=8A=A1=
+=E5=99=A8=E5=90=8E=E9=85=8D=E7=BD=AE:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=94=B9hostname</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=94=B9/etc/hosts</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">cd /root/airflow</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim airflow.cnf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=94=B9=E4=B8=8B=E9=9D=A2=E7=9A=84i=
+p=E4=B8=BA=E6=96=B0ip=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">broker_url =3D <a href=3D"redis://10.=
+52.56.119:6379/0" rel=3D"nofollow">redis://10.52.56.119:6379/0</a></span></=
+p>
+<p><span style=3D"color: rgb(0,0,0);">result_backend =3D db+<a href=3D"mysq=
+l://airflow:Airflow99&amp;@10.52.56.119:3306/airflowdb" rel=3D"nofollow">my=
+sql://airflow:Airflow99&amp;@10.52.56.119:3306/airflowdb</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">sql_alchemy_conn =3D <a href=3D"mysql=
+://airflow:Airflow99&amp;@10.52.56.119:3306/airflowdb" rel=3D"nofollow">mys=
+ql://airflow:Airflow99&amp;@10.52.56.119:3306/airflowdb</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);">scheduler_nodes_in_cluster =3D 10.52.=
+96.246,10.52.143.191</span></p>
+<p><span style=3D"color: rgb(0,0,0);">cd /data/venv/etc</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim supervisord.conf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisord -c /data/venv/etc/supervi=
+sord.conf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">cd /root/airflow/dags</span></p>
+<p><span style=3D"color: rgb(0,0,0);">git pull</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">. /data/venv/bin/activate</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=9C=8D=E5=8A=A1=E5=91=BD=E4=BB=A4=
+=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl start [service_name] #=
+=E5=90=AF=E5=8A=A8=E6=9C=8D=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl status [service_name] #=
+=E5=81=9C=E6=AD=A2=E6=9C=8D=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow=E7=9A=84web=E6=94=B9=E5=8A=A8=
+:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">1/ admin--connection; =E6=94=B9=E6=88=
+=90<a href=3D"http://node1.datalake.opay.com" class=3D"external-link" rel=
+=3D"nofollow">node1.datalake.opay.com</a></span></p>
+<p><br></p>
+<p><span class=3D"image-wrapper"> <span class=3D"confluence-embedded-file-w=
+rapper confluence-embedded-manual-size"><img class=3D"confluence-embedded-i=
+mage confluence-external-resource" height=3D"133" width=3D"630" src=3D"http=
+s://qqadapt.qpic.cn/txdocpic/0/4bdbb5c8d504e5d9c3815d887e29cd43/0" data-ima=
+ge-src=3D"https://qqadapt.qpic.cn/txdocpic/0/4bdbb5c8d504e5d9c3815d887e29cd=
+43/0"></span> </span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">2/ echo $JAVA_HOME=E9=97=AE=E9=A2=98:=
+</span></p>
+<p><span style=3D"color: rgb(0,0,0);">/opt/cloudera/parcels/CDH/lib/hadoop/=
+etc/hadoop</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=9C=A8hadoop-env.sh=E4=B8=AD=EF=BC=
+=8C=E5=86=8D=E6=98=BE=E7=A4=BA=E5=9C=B0=E9=87=8D=E6=96=B0=E5=A3=B0=E6=98=8E=
+=E4=B8=80=E9=81=8DJAVA_HOME</span></p>
+<p><span style=3D"color: rgb(0,0,0);">echo $HADOOP_HOME</span></p>
+<p><span style=3D"color: rgb(0,0,0);">/opt/cloudera/parcels/CDH/lib/hadoop<=
+/span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">3/ =E6=97=A5=E5=BF=97=E5=90=8C=E6=AD=
+=A5,=E4=BB=8E2=E5=A4=8D=E5=88=B6=E5=88=B01&nbsp;/root/airflow/logs,=E5=9C=
+=A8master=E4=B8=8A=E9=85=8D, =E4=B8=8D=E7=84=B6=E4=BC=9A=E6=8A=A5[ERROR[0m =
+- Failed to open transport (tries_left=3D3)]=E6=89=BE=E4=B8=8D=E5=88=B0=E6=
+=97=A5=E5=BF=97=E7=9A=84=E9=94=99</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim&nbsp;&nbsp;/hongfeng/script/rsync=
+e_airflow_log.sh</span></p>
+<p><span style=3D"color: rgb(0,0,0);">rsync -azuq -e ssh <a href=3D"mailto:=
+root@10.52.51.116" class=3D"external-link" rel=3D"nofollow">root@10.52.51.1=
+16</a>:/root/airflow/logs/ /root/airflow/logs/ --exclude 'scheduler'&nbsp; =
+--exclude 'scheduler_failover' --exclude 'dag_processor_manager'</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">*/2 * * * * /bin/sh /hongfeng/script/=
+rsynce_airflow_log.sh &gt;/dev/null 2&gt;&amp;1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">4/&nbsp;ERROR - cannot import name 'c=
+onstants' =E7=9A=84=E9=97=AE=E9=A2=98</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vi /data/venv/lib/python3.6/site-pack=
+ages/airflow/hooks/hive_hooks.py</span></p>
+<p><span style=3D"color: rgb(0,0,0);">line:802</span></p>
+<p><span style=3D"color: rgb(0,0,0);">from pyhive.hive import connect</span=
+></p>
+<p><span style=3D"color: rgb(0,0,0);">from impala.dbapi import connect</spa=
+n></p>
+<p><span style=3D"color: rgb(0,0,0);">return connect(</span></p>
+<p><span style=3D"color: rgb(0,0,0);">host=3Ddb.host,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">port=3Ddb.port,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">auth_mechanism=3D'PLAIN',</span></p>
+<p><span style=3D"color: rgb(0,0,0);">auth=3Dauth_mechanism,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">kerberos_service_name=3Dkerberos_serv=
+ice_name,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">username=3Ddb.login or username,</spa=
+n></p>
+<p><span style=3D"color: rgb(0,0,0);">database=3Dschema or db.schema or 'de=
+fault')</span></p>
+<p><span style=3D"color: rgb(0,0,0);">return connect(</span></p>
+<p><span style=3D"color: rgb(0,0,0);">host=3Ddb.host,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">port=3Ddb.port,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">auth_mechanism=3D'PLAIN',</span></p>
+<p><span style=3D"color: rgb(0,0,0);">user=3Ddb.login,</span></p>
+<p><span style=3D"color: rgb(0,0,0);">password=3Ddb.password)</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=A3=80=E6=9F=A5thrift-sasl=E7=89=
+=88=E6=9C=AC&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip list | grep thrift-sasl</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">thrift-sasl 0.3.0&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">pip install thrift-sasl=3D=3D0.2.1</s=
+pan></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airlow=EF=BC=92=E4=B8=8A=EF=BC=9A</sp=
+an></p>
+<p><span style=3D"color: rgb(0,0,0);">scp airflow.cfg&nbsp; 10.52.51.8:/roo=
+t/airflow</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">cd /data/venv/etc</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim supervisord.conf</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=88=A0=E9=99=A4</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_flower]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_web]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisord -c /data/venv/etc/supervi=
+sord.conf&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">systemctl service mysqld</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow=E6=97=A5=E5=B8=B8=E7=BB=B4=E6=
+=8A=A4:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=90=8C=E4=BA=8B=E9=9C=87=E4=B9=BE=
+=E8=B5=9E=E5=8A=A9</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=A4=A7=E6=95=B0=E6=8D=AEAirflow=E9=
+=9B=86=E7=BE=A4=E7=9B=AE=E5=89=8D=E9=83=A8=E7=BD=B2=E4=BA=86=E4=B8=A4=E5=8F=
+=B0server:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">10.52.56.119</span></p>
+<p><span style=3D"color: rgb(0,0,0);">10.52.12.116</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=9C=8D=E5=8A=A1=E9=83=A8=E7=BD=B2=
+=E6=83=85=E5=86=B5=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">10.52.56.119</span></p>
+<ul>
+<li><p><span>mysql</span></p></li>
+<li><p><span>redis</span></p></li>
+<li><p><span>airflow_failover</span></p></li>
+<li><p><span>airflow_flower</span></p></li>
+<li><p><span>airflow_scheduler</span></p></li>
+<li><p><span>airflow_web</span></p></li>
+<li><p><span>airflow_worker</span></p></li>
+</ul>
+<p><span style=3D"color: rgb(0,0,0);">10.52.12.116</span></p>
+<ul>
+<li><p><span>airflow_failover</span></p></li>
+<li><p><span>airflow_worker</span></p></li>
+</ul>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E8=AE=BF=E9=97=AE=E6=9C=8D=E5=8A=A1=
+=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">ip:8080 airflow_web =E6=9C=8D=E5=8A=
+=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">ip:5555 airflow_flower =E6=9C=8D=E5=
+=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">airflow=E7=9B=B8=E5=85=B3=E6=9C=8D=E5=
+=8A=A1=E7=94=B1supvisor=E7=AE=A1=E7=90=86=EF=BC=8C=E6=97=A5=E5=B8=B8=E7=BB=
+=B4=E6=8A=A4=E5=91=BD=E4=BB=A4=E5=A6=82=E4=B8=8B</span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E5=85=88=E8=BF=9B=E5=85=A5python=E8=
+=99=9A=E6=8B=9F=E7=8E=AF=E5=A2=83</span></p>
+<p><span style=3D"color: rgb(0,0,0);">. /data/venv/bin/activate</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;=E9=80=80=E5=87=BA:deactivate</=
+span></p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=9C=8D=E5=8A=A1=E5=91=BD=E4=BB=A4=
+=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl start [service_name] #=
+=E5=90=AF=E5=8A=A8=E6=9C=8D=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl stop [service_name] #=
+=E5=81=9C=E6=AD=A2=E6=9C=8D=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl stop all</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisorctl restart [service_name] =
+#=E9=87=8D=E5=90=AF=E6=9C=8D=E5=8A=A1</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">supervisor=E9=85=8D=E7=BD=AE=E6=96=87=
+=E4=BB=B6 /data/venv/etc/supervisord.conf</span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_web]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">command=3Dairflow webserver -p 8080</=
+span></p>
+<p><span style=3D"color: rgb(0,0,0);">autostart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autorestart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stopasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">killasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stdout_logfile=3D/root/airflow/webser=
+ver.log</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_scheduler]</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">command=3Dairflow scheduler</span></p=
+>
+<p><span style=3D"color: rgb(0,0,0);">autorestart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stopasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">killasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stdout_logfile=3D/root/airflow/schedu=
+ler.log</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_worker]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">command=3Dairflow worker</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autostart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autorestart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stopasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">killasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">environment=3DC_FORCE_ROOT=3Dtrue</sp=
+an></p>
+<p><span style=3D"color: rgb(0,0,0);">stdout_logfile=3D/root/airflow/worker=
+.log</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_flower]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">command=3Dairflow flower --basic_auth=
+=3Dadmin:opay321</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autostart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autorestart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stopasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">killasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stdout_logfile=3D/root/airflow/flower=
+.log</span></p>
+<p><span style=3D"color: rgb(0,0,0);">[program:airflow_failover]</span></p>
+<p><span style=3D"color: rgb(0,0,0);">command=3Dscheduler_failover_controll=
+er start</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autostart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">autorestart=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stopasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">killasgroup=3Dtrue</span></p>
+<p><span style=3D"color: rgb(0,0,0);">stdout_logfile=3D/root/airflow/failov=
+er.log</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<p><span style=3D"color: rgb(0,0,0);">git=E5=90=8C=E6=AD=A5=E8=84=9A=E6=9C=
+=AC:</span></p>
+<p><span style=3D"color: rgb(0,0,0);">vim /root/deploy_git_airflow.sh</span=
+></p>
+<p><span style=3D"color: rgb(0,0,0);">ansible airflow -m shell -a 'cd /root=
+/airflow/dags &amp;&amp; git pull'</span></p>
+<p><br></p>
+<p><a href=3D"https://www.cnblogs.com/hongfeng2019/p/11390473.html" class=
+=3D"external-link" rel=3D"nofollow"><span style=3D"color: rgb(17,85,204);">=
+https://www.cnblogs.com/hongfeng2019/p/11390473.html</span></a><span style=
+=3D"color: black;"> =E5=8E=9F=E6=96=87</span></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2634533_226319486.1587050048320--

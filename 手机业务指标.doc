@@ -1,0 +1,2787 @@
+Message-ID: <1297047780.2634460.1587049228158.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634459_2145835769.1587049228158"
+
+------=_Part_2634459_2145835769.1587049228158
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E6=89=8B=E6=9C=BA=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E6=89=8B=E6=9C=BA=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8C=87=E6=A0=87=E7=B1=BB=E5=88=AB</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E4=
+=BA=8C=E7=BA=A7=E5=88=86=E7=B1=BB</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8C=87=E6=A0=87=E7=BA=A7=E5=88=AB</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8C=87=E6=A0=87=E7=BC=96=E5=8F=B7</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8C=87=E6=A0=87=E5=90=8D=E7=A7=B0</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8C=87=E6=A0=87=E5=AE=9A=E4=B9=89</td>
+<td style=3D"text-align: center;" colspan=3D"2" class=3D"confluenceTd">=E5=
+=8F=96=E6=95=B0=E9=80=BB=E8=BE=91</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8A=A5=E8=A1=A8=E4=BD=8D=E7=BD=AE</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8A=A5=E8=A1=A8=E7=BC=96=E5=8F=B7</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=8A=A5=E8=A1=A8=E5=90=8D=E7=A7=B0</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=95=B0=E4=BB=93=E4=BA=BA=E5=91=98</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E4=
+=B8=9A=E5=8A=A1=E6=96=B9</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">BI=
+=E4=BA=A7=E5=93=81</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E6=
+=9C=80=E5=90=8E=E6=9B=B4=E6=96=B0=E6=97=B6=E9=97=B4</td>
+<td style=3D"text-align: center;" rowspan=3D"2" class=3D"confluenceTd">=E5=
+=A4=87=E6=B3=A8</td>
+</tr>
+<tr>
+<td style=3D"text-align: center;" class=3D"confluenceTd">ods=E5=B1=82sql</t=
+d>
+<td style=3D"text-align: center;" class=3D"confluenceTd">app=E5=B1=82=E5=AD=
+=97=E6=AE=B5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_001</td>
+<td class=3D"confluenceTd">=E8=BF=9B=E4=BB=B6=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E6=B6=88=E8=B4=B9=E9=87=91=E8=9E=8D=E4=B8=9A=E5=
+=8A=A1=E8=AE=A2=E5=8D=95=E5=88=9B=E5=BB=BA=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df=E8=AE=B0=E5=BD=95create_time=E5=AD=97=E6=AE=B5=EF=BC=8C=E6=97=B6=
+=E9=97=B4=E6=A0=BC=E5=BC=8F=E5=B9=B4=E6=9C=88=E6=97=A5=E6=97=B6=E5=88=86=E7=
+=A7=92</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_002</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E9=80=9A=E8=BF=87=E6=97=B6=E9=
+=97=B4</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E6=81=AF=E5=AE=A1=E6=A0=B8=E9=80=9A=E8=
+=BF=87=E7=9A=84=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Asel=
+ect&nbsp;order_id,DATE_FORMAT(from_unixtime(UNIX_TIMESTAMP(create_time)+360=
+0),'yyyy-MM-dd&nbsp;HH:mm:00')&nbsp;passtime&nbsp;from&nbsp;ocredit_phones_=
+dw_ods.ods_sqoop_base_t_order_audit_history_df&nbsp;where&nbsp;audit_type=
+=3D2&nbsp;and&nbsp;audit_status=3D1</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_003</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=88=90=E5=8A=9F=E6=97=B6=E9=
+=97=B4</td>
+<td class=3D"confluenceTd">=E9=A6=96=E6=AC=A1=E6=94=AF=E4=BB=98=E6=88=90=E5=
+=8A=9F=E9=A6=96=E4=BB=98=E6=AC=BE=E7=9A=84=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_down_payment_df=E4=B8=AD=E7=9A=84pay_time=E5=AD=97=E6=AE=B5=EF=BC=8C=
+=E4=B8=8E=E8=AE=A2=E5=8D=95=E8=A1=A8=E7=9A=84=E4=B8=BB=E9=94=AE=E4=B8=BAord=
+er_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_004</td>
+<td class=3D"confluenceTd">=E8=B5=84=E6=96=99=E5=90=88=E5=90=8C=E4=B8=8A=E4=
+=BC=A0=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=AC=BE=E5=AE=8C=E6=88=90=E5=
+=90=8E=E8=B5=84=E6=96=99=E5=90=88=E5=90=8C=E6=9C=80=E8=BF=91=E4=B8=80=E6=AC=
+=A1=E4=B8=8A=E4=BC=A0=E4=B8=94=E6=94=BE=E6=AC=BE=E8=AE=A2=E5=8D=95=E7=9A=84=
+=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A=EF=BC=88select&nbsp;order_id,=
+max(create_time)&nbsp;create_time&nbsp;from&nbsp;ocredit_phones_dw_ods.ods_=
+sqoop_base_t_contract_pic_df&nbsp;group&nbsp;by&nbsp;order_id=EF=BC=89<br>=
+=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acase&nbsp;when&nbsp;order_stat=
+us&nbsp;in&nbsp;(80,81,82,83)&nbsp;then&nbsp;DATE_FORMAT(from_unixtime(UNIX=
+_TIMESTAMP(c.create_time)+3600),'yyyy-MM-dd&nbsp;HH:mm:00')&nbsp;else&nbsp;=
+null&nbsp;end=EF=BC=8C=E4=B8=8E=E8=AE=A2=E5=8D=95=E8=A1=A8=E7=9A=84=E4=B8=
+=BB=E9=94=AE=E4=B8=BAorder_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_005</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E5=AE=A1=E6=A0=B8=E9=80=9A=E8=
+=BF=87=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E5=AE=A1=E6=A0=B8=E9=80=9A=E8=
+=BF=87=E4=B8=94=E6=94=BE=E6=AC=BE=E8=AE=A2=E5=8D=95=E7=9A=84=E5=AE=A1=E6=A0=
+=B8=E9=80=9A=E8=BF=87=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A<br>ca=
+se&nbsp;when&nbsp;order_status&nbsp;in&nbsp;(80,81,82,83)&nbsp;then&nbsp;DA=
+TE_FORMAT(from_unixtime(UNIX_TIMESTAMP(d.last_audit_time)+3600),'yyyy-MM-dd=
+&nbsp;HH:mm:00')&nbsp;else&nbsp;null&nbsp;end</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_006</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=AE=A2=E5=8D=95=E6=94=BE=E6=AC=BE=E7=9A=84=E6=
+=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Aloan_time</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_007</td>
+<td class=3D"confluenceTd">=E9=A2=84=E8=AE=A1=E8=BF=98=E6=AC=BE=E6=97=B6=E9=
+=97=B4</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E5=90=8E=E8=AE=A2=E5=8D=95=E6=
+=AF=8F=E6=9C=9F=E5=BA=94=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Arepayment_time</=
+td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_008</td>
+<td class=3D"confluenceTd">=E5=AE=9E=E9=99=85=E8=BF=98=E6=AC=BE=E6=97=B6=E9=
+=97=B4</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E5=90=8E=E8=AE=A2=E5=8D=95=E5=
+=AE=9E=E9=99=85=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4=EF=BC=8C=E6=99=AE=E9=81=
+=8D=E5=AD=98=E5=9C=A8=E6=AD=A3=E5=B8=B8=E8=BF=98=E6=AC=BE=E3=80=81=E9=80=BE=
+=E6=9C=9F=E8=BF=98=E6=AC=BE=E3=80=81=E6=8F=90=E5=8F=96=E7=BB=93=E6=B8=85=E4=
+=B8=89=E7=A7=8D=E7=8A=B6=E6=80=81=E4=B8=8B=E4=BC=9A=E6=9C=89=E8=AF=A5=E6=97=
+=B6=E9=97=B4=EF=BC=8C=E5=AE=9E=E9=99=85=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4=
+=E5=90=8C=E9=A2=84=E8=AE=A1=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4=E4=BD=9C=E5=
+=B7=AE=E5=8D=B3=E4=B8=BA=E9=80=BE=E6=9C=9F=E6=97=B6=E9=97=B4=E9=95=BF=E7=9F=
+=AD=E3=80=82</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Areal_repayment_t=
+ime</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=97=B6=E9=97=B4=E7=B1=BB=E6=8C=87=E6=A0=87</t=
+d>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_009</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E5=A4=A9=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=AE=9E=E9=99=85=E8=BF=98=E6=AC=BE=E6=97=B6=E9=
+=97=B4-=E9=A2=84=E8=AE=A1=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Adatediff(to_date(real_repayment_time),to_date(repayment_time))</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_010</td>
+<td class=3D"confluenceTd">=E8=BF=9B=E4=BB=B6=E6=80=BB=E6=95=B0=EF=BC=88=E8=
+=BF=9B=E4=BB=B6=E9=87=8F=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D=E8=BF=9B=E4=BB=B6=E7=9A=84=E6=
+=89=80=E6=9C=89=E8=AE=A2=E5=8D=95=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Aorder_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_011</td>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E9=80=9A=E8=BF=87</td>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E5=AE=A1=E6=A0=B8=E9=80=9A=E8=
+=BF=87=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0=EF=BC=8C=E4=B9=9F=E5=8F=AB=E5=88=
+=9D=E5=AE=A1=E9=80=9A=E8=BF=87</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(distinct&nbs=
+p;case&nbsp;when&nbsp;risk_status=3D1&nbsp;&nbsp;then&nbsp;order_id&nbsp;el=
+se&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_012</td>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E6=8B=92=E7=BB=9D</td>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E5=AE=A1=E6=A0=B8=E6=8B=92=E7=
+=BB=9D=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0=EF=BC=8C=E4=B9=9F=E5=8F=AB=E5=88=
+=9D=E5=AE=A1=E6=8B=92=E7=BB=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(distinct&nbs=
+p;case&nbsp;when&nbsp;risk_status=3D0&nbsp;&nbsp;then&nbsp;order_id&nbsp;el=
+se&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_013</td>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E9=80=9A=E8=BF=87=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E7=AD=96=E7=95=A5=E9=80=9A=E8=BF=87/=EF=BC=88=
+=E7=AD=96=E7=95=A5=E9=80=9A=E8=BF=87+=E7=AD=96=E7=95=A5=E6=8B=92=E7=BB=9D=
+=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(distinct&nbs=
+p;case&nbsp;when&nbsp;risk_status=3D1&nbsp;&nbsp;then&nbsp;order_id&nbsp;el=
+se&nbsp;null&nbsp;end&nbsp;)/(count(distinct&nbsp;case&nbsp;when&nbsp;risk_=
+status=3D1&nbsp;&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;=
+)+count(distinct&nbsp;case&nbsp;when&nbsp;risk_status=3D0&nbsp;&nbsp;then&n=
+bsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;))</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_014</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E5=A4=8D=E5=AE=A1=E9=80=9A=E8=
+=BF=87</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E9=80=9A=E8=BF=87=E7=9A=84=E8=
+=AE=A2=E5=8D=95=E6=95=B0=EF=BC=8C=E4=B9=9F=E5=8F=AB=E5=A4=8D=E5=AE=A1=E9=80=
+=9A=E8=BF=87</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10,11,12=
+,13,30,32,99)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)</=
+td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_015</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E6=8B=92=E7=BB=9D</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E6=8B=92=E7=BB=9D=E7=9A=84=E8=
+=AE=A2=E5=8D=95=E6=95=B0=EF=BC=8C=E4=B9=9F=E5=8F=AB=E5=A4=8D=E5=AE=A1=E6=8B=
+=92=E7=BB=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;in&nbsp;(12,32)&nbsp;then&=
+nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_016</td>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E9=80=9A=E8=BF=87=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E4=BF=A1=E5=AE=A1=E5=A4=8D=E5=AE=A1=E9=80=9A=E8=
+=BF=87/=EF=BC=88=E4=BF=A1=E5=AE=A1=E5=A4=8D=E5=AE=A1=E9=80=9A=E8=BF=87+=E4=
+=BF=A1=E5=AE=A1=E6=8B=92=E7=BB=9D=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A<br>count=
+(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10,1=
+1,12,13,30,32,99)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp=
+;)/(count(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&n=
+bsp;(10,11,12,13,30,32,99)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp=
+;end&nbsp;)+count(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;in&nb=
+sp;(12,32)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;))</td=
+>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_017</td>
+<td class=3D"confluenceTd">=E7=AD=BE=E7=BA=A6=E6=88=90=E5=8A=9F=E4=BB=B6=E6=
+=95=B0</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=AC=BE=E6=94=AF=E4=BB=98=E6=
+=88=90=E5=8A=9F=E5=B9=B6=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=BC=A0=E6=88=
+=90=E5=8A=9F=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0=E3=80=82</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(=
+distinct&nbsp;case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;in&nbsp;(2,4,5=
+)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_018</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=AC=BE=E6=94=AF=E4=BB=98=E6=
+=88=90=E5=8A=9F=E5=B9=B6=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=BC=A0=E6=88=
+=90=E5=8A=9F=E7=9A=84=E8=AE=A2=E5=8D=95=E9=87=91=E9=A2=9D=E3=80=82</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around(=
+sum(case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;in&nbsp;(2,4,5)&nbsp;the=
+n&nbsp;loan_amount&nbsp;else&nbsp;null&nbsp;end&nbsp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_019</td>
+<td class=3D"confluenceTd">=E5=BE=85=E7=AD=BE=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E6=9C=AA=E4=B8=8A=E4=BC=A0=E6=
+=88=90=E5=8A=9F=E4=BD=86=E6=98=AF=E4=BF=A1=E5=AE=A1=E5=92=8C=E9=A6=96=E4=BB=
+=98=E6=AC=BE=E6=B5=81=E7=A8=8B=E9=83=BD=E5=B7=B2=E8=B5=B0=E5=AE=8C=E7=9A=84=
+=E8=AE=A2=E5=8D=95=E6=95=B0=E3=80=82</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A<br>co=
+unt(distinct&nbsp;case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;in&nbsp;(0=
+,1)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_020</td>
+<td class=3D"confluenceTd">=E7=AD=BE=E7=BA=A6=E5=A4=B1=E8=B4=A5</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E6=9C=AA=E4=B8=8A=E4=BC=A0=E6=
+=88=90=E5=8A=9F=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A<br>co=
+unt(distinct&nbsp;case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;=3D&nbsp;3=
+&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_021</td>
+<td class=3D"confluenceTd">=E7=AD=BE=E7=BA=A6=E7=8E=87</td>
+<td class=3D"confluenceTd">=E7=AD=BE=E7=BA=A6=E6=88=90=E5=8A=9F=E4=BB=B6=E6=
+=95=B0/(=E7=AD=BE=E7=BA=A6=E6=88=90=E5=8A=9F=E4=BB=B6=E6=95=B0+=E5=BE=85=E7=
+=AD=BE=E4=BB=B6=E6=95=B0+=E7=AD=BE=E7=BA=A6=E5=A4=B1=E8=B4=A5)</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_contract_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(=
+distinct&nbsp;case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;in&nbsp;(2,4,5=
+)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)/(count(distin=
+ct&nbsp;case&nbsp;when&nbsp;contract_status&nbsp;&nbsp;in&nbsp;(0,1,2,3,4,5=
+)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbsp;))</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_022</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0=EF=BC=88=E6=
+=94=BE=E6=AC=BE=E9=87=8F=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E6=88=90=E5=8A=9F=E7=9A=84=E8=
+=AE=A2=E5=8D=95=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;order_status=3D81&nbsp;then&nbsp;order_id&nb=
+sp;else&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_023</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E9=87=91=E9=A2=9D=EF=BC=88=E8=
+=B4=B7=E6=AC=BE=E9=A2=9D=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E6=88=90=E5=8A=9F=E7=9A=84=E8=
+=AE=A2=E5=8D=95=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around((su=
+m(case&nbsp;when&nbsp;order_status=3D81&nbsp;then&nbsp;loan_amount&nbsp;els=
+e&nbsp;null&nbsp;end&nbsp;))/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_024</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E8=BD=AC=E5=8C=96=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0/=E8=BF=9B=
+=E4=BB=B6=E6=80=BB=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;order_status=3D81&nbsp;then&nbsp;order_id&nb=
+sp;else&nbsp;null&nbsp;end&nbsp;)/count(distinct&nbsp;order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_025</td>
+<td class=3D"confluenceTd">=E6=80=BB=E5=BA=94=E8=BF=98=E7=AC=94=E6=95=B0</t=
+d>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=BA=94=E8=BF=98=E6=AC=BE=E7=
+=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_026</td>
+<td class=3D"confluenceTd">=E6=80=BB=E6=9C=AA=E8=BF=98=E7=AC=94=E6=95=B0</t=
+d>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=AC=BE=E7=
+=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;current_repayment_status&nbsp;in=
+&nbsp;(0,1,2)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_027</td>
+<td class=3D"confluenceTd">=E6=80=BB=E5=BA=94=E8=BF=98=E9=87=91=E9=A2=9D</t=
+d>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=BA=94=E8=BF=98=E6=AC=BE=E9=
+=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Around(sum(month_total_amount)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_028</td>
+<td class=3D"confluenceTd">=E6=80=BB=E6=9C=AA=E8=BF=98=E6=AC=BE=E9=87=91=E9=
+=A2=9D</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=AC=BE=E9=
+=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Around(sum(case&nbsp;when&nbsp;current_repayment_status&nbsp;&nbsp;in&nbs=
+p;(0,1,2)&nbsp;then&nbsp;month_total_amount&nbsp;&nbsp;else&nbsp;null&nbsp;=
+end&nbsp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_029</td>
+<td class=3D"confluenceTd">=E6=80=BB=E9=80=BE=E6=9C=9F=E7=8E=87</td>
+<td class=3D"confluenceTd">=E6=80=BB=E6=9C=AA=E8=BF=98=E7=AC=94=E6=95=B0/=
+=E6=80=BB=E5=BA=94=E8=BF=98=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;current_repayment_status&nbsp;in=
+&nbsp;(0,1,2)&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/count(d=
+istinct&nbsp;order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Business_flow_statement=EF=BC=88=E4=B8=9A=E5=8A=
+=A1=E6=B5=81=E8=BD=AC=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/5</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_030</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E5=90=88=E5=90=8C=E4=B8=8A=E4=BC=A0=E5=89=8D=E9=
+=A6=96=E4=BB=98=E6=AC=BE=E7=9A=84=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop_base_t_=
+order_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Adown_payment</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics=EF=BC=88=E9=94=80=E5=94=AE=E7=
+=BB=9F=E8=AE=A1=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_031</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E9=94=80=E5=94=AE=E6=80=BB=
+=E5=8D=95=E9=87=8F</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E8=BF=9B=E4=BB=B6=E6=80=BB=
+=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM-dd')&nb=
+sp;between&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;7&nbsp;day)=
+),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),&nbsp;interval&nb=
+sp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;then&nbsp;order_id&nbsp;&nbsp;else&nbsp;=
+null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_032</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E6=89=B9=E5=87=86=E9=80=9A=
+=E8=BF=87=E7=9A=84=E9=94=80=E5=94=AE=E5=8D=95=E9=87=8F</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E9=A6=96=E4=BB=98=E6=AC=BE=
+=E6=94=AF=E4=BB=98=E6=88=90=E5=8A=9F=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=
+=BC=A0=E6=88=90=E5=8A=9F=E7=9A=84=E8=BF=9B=E4=BB=B6=E6=80=BB=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount(dis=
+tinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM-dd')&nb=
+sp;between&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;7&nbsp;day)=
+),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),&nbsp;interval&nb=
+sp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(80,8=
+1,82,83)&nbsp;then&nbsp;y.order_id&nbsp;&nbsp;else&nbsp;null&nbsp;end&nbsp;=
+)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_033</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E6=89=B9=E5=87=86=E9=80=9A=
+=E8=BF=87=E7=9A=84=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E9=A6=96=E4=BB=98=E6=AC=BE=
+=E6=94=AF=E4=BB=98=E6=88=90=E5=8A=9F=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=
+=BC=A0=E6=88=90=E5=8A=9F=E7=9A=84=E8=BF=9B=E4=BB=B6=E5=BA=94=E6=94=BE=E6=AC=
+=BE=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around(sum=
+(&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM-dd')&nbsp;b=
+etween&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;7&nbsp;day)),'y=
+yyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;1=
+&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;y.order_status&nbsp;in&nbsp;(80,81,=
+82,83)&nbsp;then&nbsp;y.loan_amount&nbsp;else&nbsp;0&nbsp;end&nbsp;),2)&nbs=
+p;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_034</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E7=94=B3=E8=AF=B7=E6=8B=92=
+=E7=BB=9D=E7=8E=87</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E5=88=9D=E5=AE=A1=E5=92=8C=
+=E5=A4=8D=E5=AE=A1=E6=8B=92=E7=BB=9D=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0/=
+=E9=99=A4=E5=8E=BB=E5=88=9D=E5=AE=A1=E9=A9=B3=E5=9B=9E=E7=9A=84=E8=BF=9B=E4=
+=BB=B6=E6=80=BB=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Aconca=
+t(round(count(distinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time=
+,'yyyy-MM-dd')&nbsp;between&nbsp;date_format((date_sub(now(),&nbsp;interval=
+&nbsp;7&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),=
+&nbsp;interval&nbsp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;order_status&n=
+bsp;in&nbsp;(12,32)&nbsp;then&nbsp;y.order_id&nbsp;&nbsp;else&nbsp;null&nbs=
+p;end&nbsp;)/count(distinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create=
+_time,'yyyy-MM-dd')&nbsp;between&nbsp;date_format((date_sub(now(),&nbsp;int=
+erval&nbsp;7&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(n=
+ow(),&nbsp;interval&nbsp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;order_sta=
+tus&nbsp;!=3D&nbsp;13&nbsp;then&nbsp;y.order_id&nbsp;&nbsp;else&nbsp;null&n=
+bsp;end&nbsp;)*100,2),'%')&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_035</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E6=89=B9=E5=87=86=E9=80=9A=
+=E8=BF=87=E7=9A=84=E4=BB=B6=E5=9D=87</td>
+<td class=3D"confluenceTd">=E5=89=8D7=E5=A4=A9=E6=89=B9=E5=87=86=E9=80=9A=
+=E8=BF=87=E7=9A=84=E9=87=91=E9=A2=9D/=E5=89=8D7=E5=A4=A9=E6=89=B9=E5=87=86=
+=E9=80=9A=E8=BF=87=E7=9A=84=E9=94=80=E5=94=AE=E5=8D=95=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around=
+(sum(&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM-dd')&nb=
+sp;between&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;7&nbsp;day)=
+),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),&nbsp;interval&nb=
+sp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(80,8=
+1,82,83)&nbsp;then&nbsp;loan_amount&nbsp;else&nbsp;0&nbsp;end&nbsp;)/count(=
+distinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM-dd')=
+&nbsp;between&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;7&nbsp;d=
+ay)),'yyyy-MM-dd')&nbsp;and&nbsp;date_format((date_sub(now(),&nbsp;interval=
+&nbsp;1&nbsp;day)),'yyyy-MM-dd')&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(8=
+0,81,82,83)&nbsp;then&nbsp;order_id&nbsp;&nbsp;else&nbsp;null&nbsp;end&nbsp=
+;),2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_036</td>
+<td class=3D"confluenceTd">=E6=9C=AC=E6=9C=88=E7=B4=AF=E8=AE=A1=E6=89=B9=E5=
+=87=86=E9=80=9A=E8=BF=87=E7=9A=84=E9=94=80=E5=94=AE=E5=8D=95=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=87=AA=E7=84=B6=E6=9C=881=E5=8F=B7=E8=87=B3=
+=E4=BB=8A=E7=9A=84=E9=A6=96=E4=BB=98=E6=AC=BE=E6=94=AF=E4=BB=98=E6=88=90=E5=
+=8A=9F=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=BC=A0=E6=88=90=E5=8A=9F=E7=9A=
+=84=E8=BF=9B=E4=BB=B6=E6=80=BB=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acount=
+(distinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM')&n=
+bsp;=3D&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;0&nbsp;day)),'=
+yyyy-MM')&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(80,81,82,83)&nbsp;then&n=
+bsp;order_id&nbsp;&nbsp;else&nbsp;null&nbsp;end&nbsp;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_037</td>
+<td class=3D"confluenceTd">=E6=9C=AC=E6=9C=88=E7=B4=AF=E8=AE=A1=E6=89=B9=E5=
+=87=86=E9=80=9A=E8=BF=87=E7=9A=84=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=87=AA=E7=84=B6=E6=9C=881=E5=8F=B7=E8=87=B3=
+=E4=BB=8A=E7=9A=84=E9=A6=96=E4=BB=98=E6=AC=BE=E6=94=AF=E4=BB=98=E6=88=90=E5=
+=8A=9F=E4=B8=94=E5=90=88=E5=90=8C=E4=B8=8A=E4=BC=A0=E6=88=90=E5=8A=9F=E7=9A=
+=84=E8=BF=9B=E4=BB=B6=E5=BA=94=E6=94=BE=E6=AC=BE=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around=
+(sum(&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM')&nbsp;=
+=3D&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;0&nbsp;day)),'yyyy=
+-MM')&nbsp;&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(80,81,82,83)&nbsp;then=
+&nbsp;loan_amount&nbsp;else&nbsp;0&nbsp;end&nbsp;),2)&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">sales_statistics_last7day=EF=BC=88=E9=94=80=E5=
+=94=AE=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E5=A4=8D=E5=90=88=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_038</td>
+<td class=3D"confluenceTd">=E6=9C=AC=E6=9C=88=E7=94=B3=E8=AF=B7=E6=8B=92=E7=
+=BB=9D=E7=8E=87</td>
+<td class=3D"confluenceTd">=E8=87=AA=E7=84=B6=E6=9C=881=E5=8F=B7=E8=87=B3=
+=E4=BB=8A=E7=9A=84=E5=88=9D=E5=AE=A1=E5=92=8C=E5=A4=8D=E5=AE=A1=E6=8B=92=E7=
+=BB=9D=E7=9A=84=E8=AE=A2=E5=8D=95=E6=95=B0/=E9=99=A4=E5=8E=BB=E5=88=9D=E5=
+=AE=A1=E9=A9=B3=E5=9B=9E=E7=9A=84=E8=BF=9B=E4=BB=B6=E6=80=BB=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Aconca=
+t(round(count(distinct&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time=
+,'yyyy-MM')&nbsp;=3D&nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;0=
+&nbsp;day)),'yyyy-MM')&nbsp;and&nbsp;order_status&nbsp;in&nbsp;(12,32)&nbsp=
+;then&nbsp;order_id&nbsp;&nbsp;else&nbsp;null&nbsp;end&nbsp;)/count(distinc=
+t&nbsp;case&nbsp;when&nbsp;<br>DATE_FORMAT(create_time,'yyyy-MM')&nbsp;=3D&=
+nbsp;date_format((date_sub(now(),&nbsp;interval&nbsp;0&nbsp;day)),'yyyy-MM'=
+)&nbsp;and&nbsp;order_status&nbsp;!=3D&nbsp;13&nbsp;then&nbsp;order_id&nbsp=
+;&nbsp;else&nbsp;null&nbsp;end&nbsp;)*100,2),'%')&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">merchant_store_last7day(=E5=95=86=E6=88=B7=E9=97=
+=A8=E5=BA=97=E8=BF=917=E5=A4=A9=E6=B1=87=E6=80=BB=E8=A1=A8)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_039</td>
+<td class=3D"confluenceTd">=E5=95=86=E5=93=81=E4=BB=B7=E6=A0=BC</td>
+<td class=3D"confluenceTd">=E5=95=86=E5=93=81=E9=94=80=E5=94=AE=E4=BB=B7=E6=
+=A0=BC</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9A<br>loan_price</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=89=8D</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_040</td>
+<td class=3D"confluenceTd">=E7=BB=BC=E5=90=88=E6=9C=88=E8=B4=B9=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E5=80=9F=E6=AC=BE=E5=88=A9=E7=8E=87+=E6=9C=8D=
+=E5=8A=A1=E8=B4=B9=E7=8E=87</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_financial_product_phone_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=
+=EF=BC=9Aloan_interest_rate+nal(a_interest_rate,0=EF=BC=89</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E4=B8=AD</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=BA=8C=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_041</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=AF=94=E4=BE=8B</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E6=AC=BE=E9=87=91=E9=A2=9D=E5=
+=8D=A0=E5=95=86=E5=93=81=E4=BB=B7=E6=A0=BC=E7=9A=84=E6=AF=94=E5=80=BC</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A<br>ocredit_phones_dw_ods.ods_=
+sqoop_base_t_order_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Apayment_rate</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_042</td>
+<td class=3D"confluenceTd">=E6=80=BB=E8=BF=98=E6=AC=BE=E9=87=91=E9=A2=9D</t=
+d>
+<td class=3D"confluenceTd">=E6=80=BB=E6=9C=9F=E6=95=B0=E4=B8=8B=E7=9A=84=E5=
+=BA=94=E8=BF=98=E6=AC=BE=E9=87=91=E9=A2=9D=EF=BC=88=E6=94=BE=E6=AC=BE=E9=87=
+=91=E9=A2=9D+=E5=88=A9=E6=81=AF+=E7=BD=9A=E6=81=AF+=E6=9C=8D=E5=8A=A1=E8=B4=
+=B9+=E6=89=8B=E7=BB=AD=E8=B4=B9=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_plan_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Arepayment_amount</=
+td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_043</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E5=BA=94=E6=94=B6=E6=9C=AC=E9=
+=87=91</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E5=BA=94=E6=94=B6=E6=9C=AC=E9=
+=87=91=EF=BC=8C=E6=9C=80=E5=90=8E=E4=B8=80=E6=9C=9F=E7=9A=84=E5=BA=94=E6=94=
+=B6=E6=9C=AC=E9=87=91=E5=BD=93=E6=94=BE=E6=AC=BE=E9=87=91=E9=A2=9D=E4=B8=8D=
+=E8=83=BD=E6=95=B4=E9=99=A4=E7=9A=84=E6=83=85=E5=86=B5=E4=BC=9A=E5=87=BA=E7=
+=8E=B0=E4=BD=99=E6=95=B0=E8=B0=83=E6=95=B4=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=
+=9B</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Amonth_amount</td=
+>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_044</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E5=BA=94=E6=94=B6=E6=9C=8D=E5=
+=8A=A1=E8=B4=B9</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E5=BA=94=E6=94=B6=E7=9A=84=E6=
+=9C=8D=E5=8A=A1=E8=B4=B9=EF=BC=9B</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Amonth_service_fe=
+e</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_045</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E8=BF=98=E6=AC=BE=E6=80=BB=E9=
+=A2=9D</td>
+<td class=3D"confluenceTd">=E6=AF=8F=E6=9C=88=E8=BF=98=E6=AC=BE=E6=80=BB=E9=
+=A2=9D=EF=BC=8C=E6=9C=80=E5=90=8E=E4=B8=80=E6=9C=9F=E7=9A=84=E8=BF=98=E6=AC=
+=BE=E6=80=BB=E9=A2=9D=E4=BC=9A=E5=87=BA=E7=8E=B0=E4=BD=99=E6=95=B0=E8=B0=83=
+=E6=95=B4=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=88=E5=8F=97=E6=9C=AC=E9=87=91=E4=
+=B8=8D=E8=83=BD=E8=A2=AB=E6=9C=9F=E6=95=B0=E6=95=B4=E9=99=A4=EF=BC=89=EF=BC=
+=9B</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=AD=97=E6=AE=B5=EF=BC=9Amonth_total_amou=
+nt</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">loan_amount_detail=EF=BC=88=E6=94=BE=E6=AC=BE=E6=
+=88=90=E5=8A=9F=E6=98=8E=E7=BB=86=E8=A1=A8=EF=BC=89</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_046</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E7=8E=87</td>
+<td class=3D"confluenceTd">=E5=9C=A8=E5=BA=94=E8=BF=98=E6=AC=BE=E5=91=A8=E6=
+=9C=9F=E5=86=85=EF=BC=8C=E9=80=BE=E6=9C=9F=E7=8A=B6=E6=80=81=E8=AE=A2=E5=8D=
+=95=E6=95=B0=E5=8D=A0=E6=89=80=E6=9C=89=E5=BA=94=E8=BF=98=E6=AC=BE=E8=AE=A2=
+=E5=8D=95=E6=95=B0=E7=9A=84=E6=AF=94=E5=80=BC=EF=BC=9B</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;d.current_repayment_status&nbsp;=
+=3D2&nbsp;then&nbsp;d.order_id&nbsp;else&nbsp;null&nbsp;end)/count(distinct=
+&nbsp;d.order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E6=89=8B=E6=9C=BA=E5=88=86=E6=9C=9F=E4=B8=9A=E5=
+=8A=A1=E5=91=A8=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_047</td>
+<td class=3D"confluenceTd">=E4=BB=B6=E5=9D=87</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E9=87=91=E9=A2=9D/=E6=94=BE=
+=E6=AC=BE=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around((su=
+m(case&nbsp;when&nbsp;order_status=3D81&nbsp;then&nbsp;loan_amount&nbsp;els=
+e&nbsp;null&nbsp;end&nbsp;))/100,2)/count(distinct&nbsp;case&nbsp;when&nbsp=
+;order_status=3D81&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end&nbs=
+p;)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_048</td>
+<td class=3D"confluenceTd">=E5=BA=94=E8=BF=98=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=BA=94=E8=BF=98=E6=AC=BE=E7=
+=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>count(distinct&nbsp;order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_049</td>
+<td class=3D"confluenceTd">=E5=B7=B2=E8=BF=98=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=B7=B2=E8=BF=98=E6=AC=BE=E7=
+=AC=94=E6=95=B0=EF=BC=8C=E8=BF=98=E6=AC=BE=E7=8A=B6=E6=80=81=E4=B8=BA3</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>count(distinct&nbsp;case&nbsp;when&nbsp;current_repayment_status&nbs=
+p;=3D&nbsp;3&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_050</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E9=80=BE=E6=9C=9F=E7=AC=94=E6=
+=95=B0=EF=BC=8C=E9=80=BE=E6=9C=9F=E7=8A=B6=E6=80=81=E4=B8=BA2</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>count(distinct&nbsp;case&nbsp;when&nbsp;current_repayment_status&nbs=
+p;=3D&nbsp;2&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_051</td>
+<td class=3D"confluenceTd">=E5=BA=94=E8=BF=98=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=BA=94=E8=BF=98=E6=AC=BE=E9=
+=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(sum(month_total_amount)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_052</td>
+<td class=3D"confluenceTd">=E5=B7=B2=E8=BF=98=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=B7=B2=E8=BF=98=E6=AC=BE=E9=
+=87=91=E9=A2=9D=EF=BC=8C=E8=BF=98=E6=AC=BE=E7=8A=B6=E6=80=81=E4=B8=BA3</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(sum(case&nbsp;when&nbsp;current_repayment_status&nbsp;&nbsp;=
+=3D&nbsp;3&nbsp;then&nbsp;real_total_amount&nbsp;&nbsp;else&nbsp;null&nbsp;=
+end&nbsp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_053</td>
+<td class=3D"confluenceTd">=E5=B7=B2=E8=BF=98=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=B7=B2=E8=BF=98=E6=AC=BE=E6=
+=9C=AC=E9=87=91=EF=BC=8C=E8=BF=98=E6=AC=BE=E7=8A=B6=E6=80=81=E4=B8=BA3</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(sum(case&nbsp;when&nbsp;current_repayment_status&nbsp;&nbsp;=
+=3D&nbsp;3&nbsp;then&nbsp;real_amount&nbsp;&nbsp;else&nbsp;null&nbsp;end&nb=
+sp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_054</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E9=80=BE=E6=9C=9F=E9=87=91=E9=
+=A2=9D=EF=BC=8C=E8=BF=98=E6=AC=BE=E7=8A=B6=E6=80=81=E4=B8=BA2</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(sum(case&nbsp;when&nbsp;current_repayment_status&nbsp;&nbsp;=
+=3D&nbsp;2&nbsp;then&nbsp;month_total_amount&nbsp;&nbsp;else&nbsp;null&nbsp=
+;end&nbsp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_055</td>
+<td class=3D"confluenceTd">=E6=94=B6=E7=9B=8A=E7=8E=87</td>
+<td class=3D"confluenceTd">=EF=BC=88=E5=B7=B2=E8=BF=98=E9=87=91=E9=A2=9D-=
+=E5=B7=B2=E8=BF=98=E6=9C=AC=E9=87=91=EF=BC=89/=E5=B7=B2=E8=BF=98=E6=9C=AC=
+=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>(round(sum(case&nbsp;when&nbsp;current_repayment_status&nbsp;&nbsp;=
+=3D&nbsp;3&nbsp;then&nbsp;real_total_amount&nbsp;&nbsp;else&nbsp;null&nbsp;=
+end&nbsp;)/100,2)-round(sum(case&nbsp;when&nbsp;current_repayment_status&nb=
+sp;&nbsp;=3D&nbsp;3&nbsp;then&nbsp;real_amount&nbsp;&nbsp;else&nbsp;null&nb=
+sp;end&nbsp;)/100,2))/round(sum(case&nbsp;when&nbsp;current_repayment_statu=
+s&nbsp;&nbsp;=3D&nbsp;3&nbsp;then&nbsp;real_amount&nbsp;&nbsp;else&nbsp;nul=
+l&nbsp;end&nbsp;)/100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_056</td>
+<td class=3D"confluenceTd">GMV</td>
+<td class=3D"confluenceTd">=E9=A6=96=E4=BB=98=E9=87=91=E9=A2=9D+=E6=94=BE=
+=E6=AC=BE=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Around((su=
+m(case&nbsp;when&nbsp;order_status=3D81&nbsp;then&nbsp;loan_amount&nbsp;els=
+e&nbsp;null&nbsp;end&nbsp;))/100,2)+round((sum(case&nbsp;when&nbsp;order_st=
+atus=3D81&nbsp;then&nbsp;down_payment&nbsp;else&nbsp;null&nbsp;end&nbsp;))/=
+100,2)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">phone_total_income(=E6=89=8B=E6=9C=BA=E8=90=A5=
+=E6=94=B6=E7=BB=9F=E8=AE=A1)</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_057</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E6=9F=90=E4=B8=AA=E6=97=B6=E9=97=B4=E7=82=B9=E7=
+=B3=BB=E7=BB=9F=E8=87=AA=E5=8A=A8=E5=8F=91=E8=B5=B7=E7=9A=84=E6=89=A3=E6=AC=
+=BE=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9At_repayment_record_log=EF=BC=
+=8C=E6=9A=82=E6=9C=AA=E5=85=A5=E6=95=B0=E4=BB=93<br>=E5=8F=96=E6=95=B0=E9=
+=80=BB=E8=BE=91=EF=BC=9A<br>count(distinct&nbsp;order_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_058</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=88=90=E5=8A=9F=E7=AC=94=E6=
+=95=B0</td>
+<td class=3D"confluenceTd">=E6=9F=90=E4=B8=AA=E6=97=B6=E9=97=B4=E7=82=B9=E7=
+=B3=BB=E7=BB=9F=E8=87=AA=E5=8A=A8=E5=8F=91=E8=B5=B7=E7=9A=84=E6=89=A3=E6=AC=
+=BE=E6=88=90=E5=8A=9F=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9At_repayment_record_log=EF=BC=
+=8C=E6=9A=82=E6=9C=AA=E5=85=A5=E6=95=B0=E4=BB=93<br>=E5=8F=96=E6=95=B0=E9=
+=80=BB=E8=BE=91=EF=BC=9A<br>json_extract(json_extract(a.error_msg,"$.data")=
+,"$.payOrderStatus")=3D1</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_059</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E5=A4=B1=E8=B4=A5=E7=AC=94=E6=
+=95=B0</td>
+<td class=3D"confluenceTd">=E6=9F=90=E4=B8=AA=E6=97=B6=E9=97=B4=E7=82=B9=E7=
+=B3=BB=E7=BB=9F=E8=87=AA=E5=8A=A8=E5=8F=91=E8=B5=B7=E7=9A=84=E6=89=A3=E6=AC=
+=BE=E5=A4=B1=E8=B4=A5=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9At_repayment_record_log=EF=BC=
+=8C=E6=9A=82=E6=9C=AA=E5=85=A5=E6=95=B0=E4=BB=93<br>=E5=8F=96=E6=95=B0=E9=
+=80=BB=E8=BE=91=EF=BC=9A<br>json_extract(json_extract(a.error_msg,"$.data")=
+,"$.payOrderStatus")=3D2=EF=BC=8Corder_id=E5=8E=BB=E9=87=8D</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_060</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=88=90=E5=8A=9F=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=88=90=E5=8A=9F=E7=AC=94=E6=
+=95=B0/=E6=89=A3=E6=AC=BE=E7=AC=94=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9At_repayment_record_log=EF=BC=
+=8C=E6=9A=82=E6=9C=AA=E5=85=A5=E6=95=B0=E4=BB=93<br>=E5=8F=96=E6=95=B0=E9=
+=80=BB=E8=BE=91=EF=BC=9A<br>count(distinct&nbsp;order_id)=EF=BC=8Corder_id=
+=E5=8E=BB=E9=87=8D</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_061</td>
+<td class=3D"confluenceTd">=E5=BA=94=E6=89=A3=E6=AC=BE=E9=87=91=E9=A2=9D</t=
+d>
+<td class=3D"confluenceTd">=E5=BD=93=E6=9C=88=E5=BA=94=E6=89=A3=E6=AC=BE=E9=
+=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(month_total_amount/100,2)=EF=BC=8C=E5=90=8Ct_repayment_record_=
+log=E7=9A=84=E4=B8=BB=E9=94=AE=E4=B8=BAorder_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_062</td>
+<td class=3D"confluenceTd">=E5=AE=9E=E6=89=A3=E6=AC=BE=E9=87=91=E9=A2=9D</t=
+d>
+<td class=3D"confluenceTd">=E5=BD=93=E6=9C=88=E5=AE=9E=E9=99=85=E6=AC=BE=E9=
+=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(real_total_amount/100,2)&nbsp;=EF=BC=8C=E5=90=8Ct_repayment_re=
+cord_log=E7=9A=84=E4=B8=BB=E9=94=AE=E4=B8=BAorder_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E8=B4=B7=E5=90=8E</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_063</td>
+<td class=3D"confluenceTd">=E6=89=A3=E6=AC=BE=E5=A4=B1=E8=B4=A5=E9=87=91=E9=
+=A2=9D</td>
+<td class=3D"confluenceTd">=E5=BD=93=E6=9C=88=E5=BA=94=E6=89=A3=E5=8D=B4=E6=
+=89=A3=E6=AC=BE=E5=A4=B1=E8=B4=A5=E7=9A=84=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9A<br>round(month_total_amount/100,2)-round(real_total_amount/100,2)=EF=BC=
+=8C=E5=90=8Ct_repayment_record_log=E7=9A=84=E4=B8=BB=E9=94=AE=E4=B8=BAorder=
+_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=B3=BB=E7=BB=9F=E6=89=A3=E6=AC=BE=E8=A1=A8</t=
+d>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E5=85=B6=E4=BB=96</td>
+<td class=3D"confluenceTd">=E5=85=B6=E4=BB=96=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_064</td>
+<td class=3D"confluenceTd">=E7=BB=91=E5=8D=A1=E7=8E=87</td>
+<td class=3D"confluenceTd">ocredit=E7=94=A8=E6=88=B7=E5=9C=A8opay=E4=B8=AD=
+=E7=9A=84=E7=BB=91=E5=8D=A1=E4=BA=BA=E6=95=B0=E5=8D=A0=E6=AF=94</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8&nbsp;ocredit_phones=
+_dw_ods.ods_sqoop_base_t_order_df<br>B=E8=A1=A8opay_dw_ods.ods_sqoop_base_u=
+ser_payment_instrument_df&nbsp;<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=
+=BC=9A<br>opay_dw_ods=E5=BA=93=E4=B8=AD=E7=9A=84pay_status=3D1=E4=BB=A3=E8=
+=A1=A8=E7=94=A8=E6=88=B7=E5=B7=B2=E7=BB=91=E5=8D=A1=EF=BC=8CAB=E4=B8=A4=E8=
+=A1=A8=E7=9A=84=E4=B8=BB=E9=94=AE=E5=88=86=E5=88=AB=E4=B8=BAopay_id=E5=92=
+=8Cuser_id</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E7=BB=91=E5=8D=A1=E7=8E=87</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/6</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_065</td>
+<td class=3D"confluenceTd">=E8=BF=9B=E4=BB=B6=E9=87=8F</td>
+<td class=3D"confluenceTd">=E6=8C=89=E7=85=A7=E7=9A=84opay_id=E5=8E=BB=E9=
+=87=8D=E5=90=8E=E7=BB=9F=E8=AE=A1</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;opay_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_066</td>
+<td class=3D"confluenceTd">=E5=88=9D=E5=AE=A1=E9=87=8F</td>
+<td class=3D"confluenceTd">=E5=88=9D=E5=AE=A1=E9=80=9A=E8=BF=87=E7=9A=84opa=
+y_id=E5=8E=BB=E9=87=8D=E7=BB=9F=E8=AE=A1</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10=
+,12,13,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbsp;end)&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_067</td>
+<td class=3D"confluenceTd">=E7=BB=88=E5=AE=A1=E9=87=8F</td>
+<td class=3D"confluenceTd">=E5=A4=8D=E5=AE=A1=E9=80=9A=E8=BF=87=E7=9A=84opa=
+y_id=E5=8E=BB=E9=87=8D=E7=BB=9F=E8=AE=A1</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10=
+,11,12,13,30,32,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbsp;end&nbs=
+p;)&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_068</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=AE=A2=E5=8D=95=E7=8A=B6=E6=80=81=E4=B8=BA81=
+=E6=94=BE=E6=AC=BE=E6=88=90=E5=8A=9F=E7=9A=84</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;=3D81&nbsp;then&nbsp=
+;opay_id&nbsp;else&nbsp;null&nbsp;end&nbsp;)&nbsp;</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_069</td>
+<td class=3D"confluenceTd">=E5=88=9D=E5=AE=A1=E9=80=9A=E8=BF=87=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E5=88=9D=E5=AE=A1=E9=87=8F/=E8=BF=9B=E4=BB=B6=
+=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10=
+,12,13,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbsp;end)/count(disti=
+nct&nbsp;opay_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_070</td>
+<td class=3D"confluenceTd">=E5=A4=8D=E5=AE=A1=E9=80=9A=E8=BF=87=E7=8E=87</t=
+d>
+<td class=3D"confluenceTd">=E7=BB=88=E5=AE=A1=E9=87=8F/=E5=88=9D=E5=AE=A1=
+=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9Acou=
+nt(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in&nbsp;(10=
+,11,12,13,30,32,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbsp;end&nbs=
+p;)&nbsp;/count(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbs=
+p;in&nbsp;(10,12,13,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbsp;end=
+)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E4=B8=9A=E5=8A=A1=E6=B5=81=E7=A8=8B=E6=8C=87=E6=
+=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_071</td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E6=95=B4=E4=BD=93=E9=80=9A=E8=
+=BF=87=E7=8E=87</td>
+<td class=3D"confluenceTd">=E7=BB=88=E5=AE=A1=E9=87=8F/=E8=BF=9B=E4=BB=B6=
+=E9=87=8F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A=EF=
+=BC=9Acount(distinct&nbsp;case&nbsp;when&nbsp;order_status&nbsp;not&nbsp;in=
+&nbsp;(10,11,12,13,30,32,99)&nbsp;then&nbsp;opay_id&nbsp;else&nbsp;null&nbs=
+p;end&nbsp;)/count(distinct&nbsp;opay_id)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7=E5=85=A8=E6=B5=81=E7=A8=8B=E6=
+=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_072</td>
+<td class=3D"confluenceTd">=E8=B4=B7=E6=AC=BE=E9=87=91=E9=A2=9DUSD_=E5=88=
+=B0=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E5=BA=94=E8=BF=98=E7=9A=84=E8=
+=B4=B7=E6=AC=BE=E9=87=91=E9=A2=9D=EF=BC=8C=E5=90=8C=E4=B8=9A=E5=8A=A1=E6=94=
+=BE=E6=AC=BE=E9=87=91=E9=A2=9D=E4=B8=80=E8=87=B4=EF=BC=8C=E5=B1=9E=E4=BA=8E=
+=E6=9C=AC=E9=87=91=EF=BC=9B</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9A&nbsp;ocredit_phones_dw_ods.od=
+s_sqoop_base_t_order_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A=EF=
+=BC=9Asum(loan_amount)/100*0.002712=EF=BC=8C=E5=A5=88=E6=8B=89=E5=85=91=E6=
+=8D=A2=E7=BE=8E=E5=85=83=E6=B1=87=E7=8E=87=E4=B8=8D=E6=96=AD=E5=8F=98=E5=8A=
+=A8=E4=B8=AD=EF=BC=8C=E7=9B=AE=E5=89=8D=E5=8F=96=E5=80=BC0.002712=EF=BC=9B<=
+/td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_073</td>
+<td class=3D"confluenceTd">=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0_=E5=88=B0=
+=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E7=BB=9F=E8=AE=A1=E5=BD=93=E5=A4=A9=E5=88=B0=E6=
+=9C=9F=E7=9A=84=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;order_id&nbsp;is&nbsp;not&nbsp;n=
+ull&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br>where&nbsp;to_=
+date(repayment_time)&nbsp;&lt;=3D&nbsp;date_add(from_unixtime(unix_timestam=
+p(),'yyyy-MM-dd'),-1)</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_074</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E5=AE=9E=E9=99=85=E8=BF=98=E6=AC=BE=E6=97=B6=E9=
+=97=B4-=E9=A2=84=E8=AE=A1=E8=BF=98=E6=AC=BE=E6=97=B6=E9=97=B4&gt;=3D1=E5=A4=
+=A9=E7=9A=84=E8=AE=A2=E5=8D=95=EF=BC=8C=E8=B4=B7=E5=90=8Eorder_id=E5=92=8Co=
+pay_id=E4=B8=80=E8=87=B4=EF=BC=8C=E6=89=80=E4=BB=A5=E4=BB=A3=E7=A0=81=E4=B8=
+=AD=E5=86=99=E4=BA=86order_id=EF=BC=8C=E8=AE=A1=E7=AE=97=E7=BB=93=E6=9E=9C=
+=E6=98=AF=E4=B8=80=E8=87=B4=E7=9A=84=E3=80=82</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;0&nbsp;the=
+n&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br>=E5=AD=90=E6=9F=A5=E8=AF=
+=A2&nbsp;case&nbsp;when&nbsp;current_repayment_status=3D'3'&nbsp;then&nbsp;=
+0&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&nbsp;end&=
+nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_075</td>
+<td class=3D"confluenceTd">1-7DPD</td>
+<td class=3D"confluenceTd">=E5=BD=93=E5=89=8D=E9=80=BE=E6=9C=9F1-7=E5=A4=A9=
+=E9=80=BE=E6=9C=9F=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;between&nbsp;1=
+&nbsp;and&nbsp;7&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br>=
+=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_s=
+tatus=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_date=
+(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_076</td>
+<td class=3D"confluenceTd">8-15DPD</td>
+<td class=3D"confluenceTd">=E5=BD=93=E5=89=8D=E9=80=BE=E6=9C=9F8-15=E5=A4=
+=A9=E9=80=BE=E6=9C=9F=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;between&nbsp;8=
+&nbsp;and&nbsp;15&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br>=
+=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_s=
+tatus=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_date=
+(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_077</td>
+<td class=3D"confluenceTd">16-30DPD</td>
+<td class=3D"confluenceTd">=E5=BD=93=E5=89=8D=E9=80=BE=E6=9C=9F16-30=E5=A4=
+=A9=E9=80=BE=E6=9C=9F=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;between&nbsp;1=
+6&nbsp;and&nbsp;30&nbsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br=
+>=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_=
+status=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_dat=
+e(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_078</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F30+=E5=A4=A9=E4=BB=B6=E6=95=B0=
+</td>
+<td class=3D"confluenceTd">=E5=BD=93=E5=89=8D=E9=80=BE=E6=9C=9F30+=E5=A4=A9=
+=E9=80=BE=E6=9C=9F=E4=BB=B6=E6=95=B0</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(DISTINCT&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;&nbsp;30&n=
+bsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)<br>=E5=AD=90=E6=9F=A5=
+=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_status=3D'3'&nbsp;t=
+hen&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&=
+nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_079</td>
+<td class=3D"confluenceTd">=E7=8E=B0=E5=AD=980+=E9=80=BE=E6=9C=9F=E7=8E=87<=
+/td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F0+=E5=A4=A9=E4=BB=B6=E6=95=B0/=
+=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0_=E5=88=B0=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;&nbsp;0&nb=
+sp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/(count(distinct&nbsp;ca=
+se&nbsp;when&nbsp;order_id&nbsp;is&nbsp;not&nbsp;null&nbsp;then&nbsp;order_=
+id&nbsp;else&nbsp;null&nbsp;end)<br>where&nbsp;to_date(repayment_time)&nbsp=
+;&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1))<br=
+>=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_=
+status=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_dat=
+e(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_080</td>
+<td class=3D"confluenceTd">=E7=8E=B0=E5=AD=987+=E9=80=BE=E6=9C=9F=E7=8E=87<=
+/td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F7+=E5=A4=A9=E4=BB=B6=E6=95=B0/=
+=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0_=E5=88=B0=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;&nbsp;7&nb=
+sp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/(count(distinct&nbsp;ca=
+se&nbsp;when&nbsp;order_id&nbsp;is&nbsp;not&nbsp;null&nbsp;then&nbsp;order_=
+id&nbsp;else&nbsp;null&nbsp;end)<br>where&nbsp;to_date(repayment_time)&nbsp=
+;&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1))<br=
+>=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment_=
+status=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_dat=
+e(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_081</td>
+<td class=3D"confluenceTd">=E7=8E=B0=E5=AD=9815+=E9=80=BE=E6=9C=9F=E7=8E=87=
+</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F15+=E5=A4=A9=E4=BB=B6=E6=95=B0=
+/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0_=E5=88=B0=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;&nbsp;15&n=
+bsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/(count(distinct&nbsp;c=
+ase&nbsp;when&nbsp;order_id&nbsp;is&nbsp;not&nbsp;null&nbsp;then&nbsp;order=
+_id&nbsp;else&nbsp;null&nbsp;end)<br>where&nbsp;to_date(repayment_time)&nbs=
+p;&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1))<b=
+r>=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment=
+_status=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_da=
+te(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_082</td>
+<td class=3D"confluenceTd">=E7=8E=B0=E5=AD=9830+=E9=80=BE=E6=9C=9F=E7=8E=87=
+</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F30+=E5=A4=A9=E4=BB=B6=E6=95=B0=
+/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=B0_=E5=88=B0=E6=9C=9F</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;&nbsp;30&n=
+bsp;then&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/(count(distinct&nbsp;c=
+ase&nbsp;when&nbsp;order_id&nbsp;is&nbsp;not&nbsp;null&nbsp;then&nbsp;order=
+_id&nbsp;else&nbsp;null&nbsp;end)<br>where&nbsp;to_date(repayment_time)&nbs=
+p;&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1))<b=
+r>=E5=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9Acase&nbsp;when&nbsp;current_repayment=
+_status=3D'3'&nbsp;then&nbsp;1&nbsp;else&nbsp;datediff(current_date(),to_da=
+te(repayment_time))&nbsp;end&nbsp;as&nbsp;overdue_days</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_083</td>
+<td class=3D"confluenceTd">FPD0+=E6=B5=81=E5=85=A5=E7=8E=87</td>
+<td class=3D"confluenceTd">=E9=A6=96=E6=9C=9F=E9=80=BE=E6=9C=9F0+=E5=A4=A9=
+=E4=BB=B6=E6=95=B0=EF=BC=88FPD=EF=BC=89/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=
+=B0_=E5=88=B0=E6=9C=9F=EF=BC=88TFPD=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;0&nbsp;the=
+n&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/count(distinct&nbsp;case&nbsp=
+;when&nbsp;fzrq&nbsp;&gt;&nbsp;0&nbsp;then&nbsp;order_id&nbsp;end)<br>=E5=
+=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9A<br>datediff(current_date(),to_date(date(r=
+epayment_time)))&nbsp;as&nbsp;fzrq<br><br><br>(case&nbsp;&nbsp;<br>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_status&nbsp;in&nbsp;('3')=
+&nbsp;and&nbsp;datediff(to_date(real_repayment_time),to_date(repayment_time=
+))&gt;0&nbsp;then&nbsp;datediff(to_date(real_repayment_time),to_date(repaym=
+ent_time))<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_sta=
+tus&nbsp;in&nbsp;('3')&nbsp;and&nbsp;datediff(to_date(real_repayment_time),=
+to_date(repayment_time))&lt;=3D0&nbsp;then&nbsp;0<br>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&nbsp;end=
+)&nbsp;as&nbsp;overdue_days<br><br>where&nbsp;dt=3Ddate_add(from_unixtime(u=
+nix_timestamp(),'yyyy-MM-dd'),-1)<br>and&nbsp;to_date(repayment_time)&nbsp;=
+&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1)<br>a=
+nd&nbsp;current_period=3D'1'<br><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_084</td>
+<td class=3D"confluenceTd">FPD7+=E6=B5=81=E5=85=A5=E7=8E=87</td>
+<td class=3D"confluenceTd">=E9=A6=96=E6=9C=9F=E9=80=BE=E6=9C=9F7+=E5=A4=A9=
+=E4=BB=B6=E6=95=B0=EF=BC=88FPD=EF=BC=89/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=
+=B0_=E5=88=B0=E6=9C=9F=EF=BC=88TFPD=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;7&nbsp;the=
+n&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/count(distinct&nbsp;case&nbsp=
+;when&nbsp;fzrq&nbsp;&gt;&nbsp;7&nbsp;then&nbsp;order_id&nbsp;end)<br>=E5=
+=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9A<br>datediff(current_date(),to_date(date(r=
+epayment_time)))&nbsp;as&nbsp;fzrq<br><br><br>(case&nbsp;&nbsp;<br>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_status&nbsp;in&nbsp;('3')=
+&nbsp;and&nbsp;datediff(to_date(real_repayment_time),to_date(repayment_time=
+))&gt;0&nbsp;then&nbsp;datediff(to_date(real_repayment_time),to_date(repaym=
+ent_time))<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_sta=
+tus&nbsp;in&nbsp;('3')&nbsp;and&nbsp;datediff(to_date(real_repayment_time),=
+to_date(repayment_time))&lt;=3D0&nbsp;then&nbsp;0<br>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&nbsp;end=
+)&nbsp;as&nbsp;overdue_days<br><br>where&nbsp;dt=3Ddate_add(from_unixtime(u=
+nix_timestamp(),'yyyy-MM-dd'),-1)<br>and&nbsp;to_date(repayment_time)&nbsp;=
+&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1)<br>a=
+nd&nbsp;current_period=3D'1'<br><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_085</td>
+<td class=3D"confluenceTd">FPD15+=E6=B5=81=E5=85=A5=E7=8E=87</td>
+<td class=3D"confluenceTd">=E9=A6=96=E6=9C=9F=E9=80=BE=E6=9C=9F15+=E5=A4=A9=
+=E4=BB=B6=E6=95=B0=EF=BC=88FPD=EF=BC=89/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=
+=B0_=E5=88=B0=E6=9C=9F=EF=BC=88TFPD=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;15&nbsp;th=
+en&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/count(distinct&nbsp;case&nbs=
+p;when&nbsp;fzrq&nbsp;&gt;&nbsp;15&nbsp;then&nbsp;order_id&nbsp;end)<br>=E5=
+=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9A<br>datediff(current_date(),to_date(date(r=
+epayment_time)))&nbsp;as&nbsp;fzrq<br><br><br>(case&nbsp;&nbsp;<br>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_status&nbsp;in&nbsp;('3')=
+&nbsp;and&nbsp;datediff(to_date(real_repayment_time),to_date(repayment_time=
+))&gt;0&nbsp;then&nbsp;datediff(to_date(real_repayment_time),to_date(repaym=
+ent_time))<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_sta=
+tus&nbsp;in&nbsp;('3')&nbsp;and&nbsp;datediff(to_date(real_repayment_time),=
+to_date(repayment_time))&lt;=3D0&nbsp;then&nbsp;0<br>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&nbsp;end=
+)&nbsp;as&nbsp;overdue_days<br><br>where&nbsp;dt=3Ddate_add(from_unixtime(u=
+nix_timestamp(),'yyyy-MM-dd'),-1)<br>and&nbsp;to_date(repayment_time)&nbsp;=
+&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1)<br>a=
+nd&nbsp;current_period=3D'1'<br><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_086</td>
+<td class=3D"confluenceTd">FPD30+=E6=B5=81=E5=85=A5=E7=8E=87</td>
+<td class=3D"confluenceTd">=E9=A6=96=E6=9C=9F=E9=80=BE=E6=9C=9F30+=E5=A4=A9=
+=E4=BB=B6=E6=95=B0=EF=BC=88FPD=EF=BC=89/=E6=94=BE=E6=AC=BE=E4=BB=B6=E6=95=
+=B0_=E5=88=B0=E6=9C=9F=EF=BC=88TFPD=EF=BC=89</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9Aocredit_phones_dw_ods.ods_sqoo=
+p_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Acount(distinct&nbsp;case&nbsp;when&nbsp;overdue_days&nbsp;&gt;30&nbsp;th=
+en&nbsp;order_id&nbsp;else&nbsp;null&nbsp;end)/count(distinct&nbsp;case&nbs=
+p;when&nbsp;fzrq&nbsp;&gt;&nbsp;30&nbsp;then&nbsp;order_id&nbsp;end)<br>=E5=
+=AD=90=E6=9F=A5=E8=AF=A2=EF=BC=9A<br>datediff(current_date(),to_date(date(r=
+epayment_time)))&nbsp;as&nbsp;fzrq<br><br><br>(case&nbsp;&nbsp;<br>&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_status&nbsp;in&nbsp;('3')=
+&nbsp;and&nbsp;datediff(to_date(real_repayment_time),to_date(repayment_time=
+))&gt;0&nbsp;then&nbsp;datediff(to_date(real_repayment_time),to_date(repaym=
+ent_time))<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;current_repayment_sta=
+tus&nbsp;in&nbsp;('3')&nbsp;and&nbsp;datediff(to_date(real_repayment_time),=
+to_date(repayment_time))&lt;=3D0&nbsp;then&nbsp;0<br>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;else&nbsp;datediff(current_date(),to_date(repayment_time))&nbsp;end=
+)&nbsp;as&nbsp;overdue_days<br><br>where&nbsp;dt=3Ddate_add(from_unixtime(u=
+nix_timestamp(),'yyyy-MM-dd'),-1)<br>and&nbsp;to_date(repayment_time)&nbsp;=
+&lt;=3D&nbsp;date_add(from_unixtime(unix_timestamp(),'yyyy-MM-dd'),-1)<br>a=
+nd&nbsp;current_period=3D'1'<br><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E9=80=BE=E6=9C=9F=E6=97=A5=E6=8A=A5</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_087</td>
+<td class=3D"confluenceTd">=E6=9C=AA=E8=BF=98=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=AC=BE=E7=
+=9A=84=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Asum(b.not_return_amount-b.real_amount)&nbsp;/100<br>where&nbsp;&nbsp;a.b=
+usiness_type&nbsp;=3D&nbsp;'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=
+=3D&nbsp;&nbsp;date(curdate())-1<br>and&nbsp;b.current_repayment_status&nbs=
+p;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_088</td>
+<td class=3D"confluenceTd">=E6=9C=AA=E8=BF=98=E6=9C=8D=E5=8A=A1=E8=B4=B9</t=
+d>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E7=9A=84=E6=
+=9C=8D=E5=8A=A1=E8=B4=B9</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Asum(month_service_fee-real_service_fee)/100<br>where&nbsp;&nbsp;a.busine=
+ss_type&nbsp;=3D&nbsp;'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=3D&n=
+bsp;&nbsp;date(curdate())-1<br>and&nbsp;b.current_repayment_status&nbsp;&lt=
+;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_089</td>
+<td class=3D"confluenceTd">=E4=B8=8D=E8=89=AF=E8=B4=B7=E6=AC=BE=E6=80=BB=E9=
+=A2=9D</td>
+<td class=3D"confluenceTd">=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=9C=AC=E9=
+=87=91+=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=9C=8D=E5=8A=A1=E8=B4=B9</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_detail_df<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=
+=9Asum(b.not_return_amount-b.real_amount)/100&nbsp;+sum(b.month_service_fee=
+-b.real_service_fee)/100<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbsp;=
+'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curdate=
+())-1<br>and&nbsp;b.current_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_090</td>
+<td class=3D"confluenceTd">1-30=E5=A4=A9=E5=BE=85=E8=A7=82=E5=AF=9F=E9=87=
+=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">1-30=E5=A4=A9=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=
+=98=E6=AC=BE=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_d<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A(case&n=
+bsp;when&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;between&nbsp;=
+1&nbsp;and&nbsp;30&nbsp;then&nbsp;(b.not_return_amount-b.real_amount)/100&n=
+bsp;else&nbsp;0&nbsp;end)<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbsp=
+;'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curdat=
+e())-1<br>and&nbsp;b.current_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_091</td>
+<td class=3D"confluenceTd">31-60=E5=A4=A9=E4=B8=8D=E5=90=88=E6=A0=87=E5=87=
+=86=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">31-60=E5=A4=A9=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=
+=98=E6=AC=BE=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_d<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A(case&n=
+bsp;when&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;between&nbsp;=
+31&nbsp;and&nbsp;60&nbsp;then&nbsp;(b.not_return_amount-b.real_amount)/100&=
+nbsp;else&nbsp;0&nbsp;end)<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbs=
+p;'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curda=
+te())-1<br>and&nbsp;b.current_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_092</td>
+<td class=3D"confluenceTd">61-90=E5=A4=A9=E5=8F=AF=E7=96=91=E9=87=91=E9=A2=
+=9D</td>
+<td class=3D"confluenceTd">61-90=E5=A4=A9=E5=88=B0=E6=9C=9F=E6=9C=AA=E8=BF=
+=98=E6=AC=BE=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_d<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A(case&n=
+bsp;when&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;between&nbsp;=
+61&nbsp;and&nbsp;90&nbsp;then&nbsp;(b.not_return_amount-b.real_amount)/100&=
+nbsp;else&nbsp;0&nbsp;end)<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbs=
+p;'0'<br>and&nbsp;date(b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curda=
+te())-1<br>and&nbsp;b.current_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_093</td>
+<td class=3D"confluenceTd">91=E5=A4=A9=E5=8F=8A=E4=BB=A5=E4=B8=8A=E5=9D=8F=
+=E8=B4=A6=E9=87=91=E9=A2=9D</td>
+<td class=3D"confluenceTd">91=E5=A4=A9=E4=BB=A5=E4=B8=8A=E5=A4=A9=E5=88=B0=
+=E6=9C=9F=E6=9C=AA=E8=BF=98=E6=AC=BE=E6=9C=AC=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_d<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A(case&n=
+bsp;when&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;&gt;=3D91&nbs=
+p;then&nbsp;(b.not_return_amount-b.real_amount)/100&nbsp;else&nbsp;0&nbsp;e=
+nd)<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbsp;'0'<br>and&nbsp;date(=
+b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curdate())-1<br>and&nbsp;b.c=
+urrent_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E9=A3=8E=E6=8E=A7</td>
+<td class=3D"confluenceTd">=E8=B4=A2=E5=8A=A1=E6=8C=87=E6=A0=87</td>
+<td class=3D"confluenceTd">=E4=B8=80=E7=BA=A7</td>
+<td class=3D"confluenceTd">phone_094</td>
+<td class=3D"confluenceTd">=E9=93=B6=E8=A1=8C=E5=87=86=E5=A4=87=E9=87=91(Ba=
+nk's&nbsp;Provision=EF=BC=89</td>
+<td class=3D"confluenceTd">=E9=92=88=E5=AF=B9=E6=9C=AA=E8=BF=98=E6=AC=BE=E6=
+=9C=AC=E9=87=91=E7=9A=84=E9=93=B6=E8=A1=8C=E5=87=86=E5=A4=87=E9=87=91</td>
+<td class=3D"confluenceTd">=E8=A1=A8=EF=BC=9AA=E8=A1=A8ocredit_phones_dw_od=
+s.ods_sqoop_base_t_contract_df<br>B=E8=A1=A8ocredit_phones_dw_ods.ods_sqoop=
+_base_t_repayment_d<br>=E5=8F=96=E6=95=B0=E9=80=BB=E8=BE=91=EF=BC=9A0.05*(c=
+ase&nbsp;when&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;between&=
+nbsp;1&nbsp;and&nbsp;30&nbsp;then&nbsp;(b.not_return_amount-b.real_amount)/=
+100&nbsp;&nbsp;else&nbsp;0&nbsp;end)<br>+0.2*(case&nbsp;when&nbsp;datediff(=
+curdate(),date(b.repayment_time))&nbsp;between&nbsp;31&nbsp;and&nbsp;60&nbs=
+p;then&nbsp;(b.not_return_amount-b.real_amount)/100&nbsp;&nbsp;else&nbsp;0&=
+nbsp;end)&nbsp;<br>+0.5*(case&nbsp;when&nbsp;datediff(curdate(),date(b.repa=
+yment_time))&nbsp;between&nbsp;61&nbsp;and&nbsp;90&nbsp;then&nbsp;(b.not_re=
+turn_amount-b.real_amount)/100&nbsp;else&nbsp;0&nbsp;end)<br>+(case&nbsp;wh=
+en&nbsp;datediff(curdate(),date(b.repayment_time))&nbsp;&gt;=3D&nbsp;91&nbs=
+p;then&nbsp;(b.not_return_amount-b.real_amount)/100&nbsp;else&nbsp;0&nbsp;e=
+nd)<br>where&nbsp;&nbsp;a.business_type&nbsp;=3D&nbsp;'0'<br>and&nbsp;date(=
+b.repayment_time)&nbsp;&lt;=3D&nbsp;&nbsp;date(curdate())-1<br>and&nbsp;b.c=
+urrent_repayment_status&nbsp;&lt;&gt;&nbsp;'3'</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">=E4=B8=8A=E6=8A=A5=E5=B0=BC=E6=97=A5=E5=A4=AE=E8=
+=A1=8C=E6=95=B0=E6=8D=AE</td>
+<td class=3D"confluenceTd">=E6=9D=8E=E5=B8=85</td>
+<td class=3D"confluenceTd">=E7=AB=A5=E9=BB=8E</td>
+<td class=3D"confluenceTd">=E5=BA=B7=E5=AE=B6=E8=8B=B1</td>
+<td class=3D"confluenceTd">2020/3/9</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2634459_2145835769.1587049228158--

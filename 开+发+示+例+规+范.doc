@@ -1,0 +1,371 @@
+Message-ID: <1395094820.2634578.1587050465145.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634577_1547967907.1587050465145"
+
+------=_Part_2634577_1547967907.1587050465145
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=BC=80 =E5=8F=91 =E7=A4=BA =E4=BE=8B =E8=A7=84 =E8=8C=83</tit=
+le>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=BC=80 =E5=8F=91 =E7=A4=BA =E4=BE=8B =E8=A7=84 =E8=8C=83</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p><span>=E5=BC=80 =E5=8F=91 =E7=A4=BA =E4=BE=8B =E8=A7=84 =E8=8C=83</span>=
+</p>
+<p><span>=E5=BC=80=E5=8F=91=E8=AF=AD=E8=A8=80=EF=BC=9Apython</span></p>
+<p><span>=E8=B0=83=E5=BA=A6=E5=B7=A5=E5=85=B7=EF=BC=9AAirflow</span></p>
+<p><span class=3D"author-p-158920845901">=E7=A4=BA=E4=BE=8B=E6=B5=81=E7=A8=
+=8B=E6=A1=86=E6=9E=B6=EF=BC=9A</span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">=E5=8C=85=
+=E5=BC=95=E7=94=A8</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64473632634-e2790ed799f4048c author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"250" src=3D"https://qqadapt.qpic.cn/txdocpic/0/5ab163bb26bac0ae4eb095f386f=
+f5edd/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/5ab163bb26bac=
+0ae4eb095f386ff5edd/0"></span></span></span></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">=E5=85=AC=
+=E7=94=A8=E5=8F=98=E9=87=8F</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64381130157-f0ebfb34e4440146 author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"150" src=3D"https://qqadapt.qpic.cn/txdocpic/0/1d584ecedf80f859deafd55ffa5=
+7bb56/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/1d584ecedf80f=
+859deafd55ffa57bb56/0"></span></span></span></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">=E4=BE=9D=
+=E8=B5=96=E9=85=8D=E7=BD=AE</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 28.0px;"><span> =E4=BE=9D=E8=B5=96 =E5=B7=B2=
+=E5=AD=98=E5=9C=A8=E7=9B=AE=E5=BD=95</span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 28.0px;"><span><br></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64381082236-eda1d1cc71b2067b author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"250" src=3D"https://qqadapt.qpic.cn/txdocpic/0/c271b9caa376fbcf5a0061f4b82=
+21bbd/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/c271b9caa376f=
+bcf5a0061f4b8221bbd/0"></span></span></span></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 28.0px;"><span> =E4=BE=9D=E8=B5=96 _SUCCESS=
+=E6=96=87=E4=BB=B6</span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64473546053-6c76714a8bd51185 author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"250" src=3D"https://qqadapt.qpic.cn/txdocpic/0/db563429c47e8773dc9e341dc9b=
+ac1a7/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/db563429c47e8=
+773dc9e341dc9bac1a7/0"></span></span></span></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">Hive SQL</=
+span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span><span class=3D"image-line-wrap=
+per"><span class=3D"image-wrapper"><span class=3D"confluence-embedded-file-=
+wrapper confluence-embedded-manual-size"><img class=3D"confluence-embedded-=
+image inline-img confluence-external-resource" height=3D"250" src=3D"https:=
+//qqadapt.qpic.cn/txdocpic/0/87ef326f2ab71498eb0f3e580ebb3666/0" data-image=
+-src=3D"https://qqadapt.qpic.cn/txdocpic/0/87ef326f2ab71498eb0f3e580ebb3666=
+/0"></span></span></span></span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">=E7=86=94=
+=E6=96=AD=E5=88=A4=E6=96=AD</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64381247249-c6310b2a501fe067 author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"250" src=3D"https://qqadapt.qpic.cn/txdocpic/0/5062f3ef8fc6ce5b43483aa49c0=
+e0dc9/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/5062f3ef8fc6c=
+e5b43483aa49c0e0dc9/0"></span></span></span></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D"list-number1"><span class=3D"author-p-158920845901">=E7=94=9F=
+=E4=BA=A7=E5=AE=8C=E6=88=90 Success</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"author-p-158920845901=
+"><br></span></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span class=3D"Tencent-attachment-15=
+64381279663-9eeedaf13095da52 author-p-158920845901 attrimg img"><span class=
+=3D"image-line-wrapper"><span class=3D"image-wrapper"><span class=3D"conflu=
+ence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D"c=
+onfluence-embedded-image inline-img confluence-external-resource" height=3D=
+"250" src=3D"https://qqadapt.qpic.cn/txdocpic/0/51092bd92197ad955bbb574bedf=
+6b4cc/0" data-image-src=3D"https://qqadapt.qpic.cn/txdocpic/0/51092bd92197a=
+d955bbb574bedf6b4cc/0"></span></span></span></span></p>
+<p><span style=3D"color: rgb(255,0,0);">=E5=AE=9E=E4=BD=93=E8=84=9A=E6=9C=
+=AC=E5=86=85=E5=AE=B9=E5=8F=AF=E4=BB=A5=E5=8F=82=E8=80=83=E8=B0=83=E5=BA=A6=
+=E4=B8=8A=E7=9C=9F=E5=AE=9E=E4=BB=BB=E5=8A=A1</span></p>
+    </div>
+</body>
+</html>
+------=_Part_2634577_1547967907.1587050465145--

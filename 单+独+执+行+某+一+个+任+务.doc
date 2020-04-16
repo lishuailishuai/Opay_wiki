@@ -1,0 +1,341 @@
+Message-ID: <207427903.2634528.1587050007844.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634527_801264571.1587050007844"
+
+------=_Part_2634527_801264571.1587050007844
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=8D=95 =E7=8B=AC =E6=89=A7 =E8=A1=8C =E6=9F=90 =E4=B8=80 =E4=
+=B8=AA =E4=BB=BB =E5=8A=A1</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=8D=95 =E7=8B=AC =E6=89=A7 =E8=A1=8C =E6=9F=90 =E4=B8=80 =E4=B8=
+=AA =E4=BB=BB =E5=8A=A1</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p><br></p>
+<p><span style=3D"color: rgb(255,0,0);">=E6=B3=A8=EF=BC=9A=E7=94=A8=E5=91=
+=BD=E5=90=8D=E6=89=A7=E8=A1=8C=E5=90=8EAirflow =E4=B8=BB=E9=A1=B5=E9=9D=A2=
+=E6=97=A0=E6=B3=95=E7=9C=8B=E5=88=B0=E6=89=A7=E8=A1=8C=E6=98=BE=E7=A4=BA=EF=
+=BC=8C=E4=BD=BF=E7=94=A8=E4=B8=8B=E9=9D=A2=E6=96=B9=E6=B3=95=E6=9F=A5=E7=9C=
+=8B</span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D" list-chineseCountingThousand1"><span>=E8=BF=9B=E5=85=A5=E8=99=
+=9A=E6=8B=9F=E7=8E=AF=E5=A2=83</span></li>
+</ol>
+<p><br></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 32.0px;"><span>. /data/venv/bin/activate </sp=
+an></p>
+<p class=3D"ace-line gutter-author-p-158920845901 pap-left-indent-2em empty=
+Gutter" style=3D"margin-left: 28.0px;"><span>=E6=B3=A8=E6=84=8F: =E7=9B=AE=
+=E5=BD=95=E5=89=8D</span><span style=3D"color: rgb(255,0,0);"> ' . ' =E5=90=
+=8E=E9=9D=A2=E6=9C=89=E7=A9=BA=E6=A0=BC</span></p>
+<p><br></p>
+<ol class=3D"undefined">
+<li class=3D" list-chineseCountingThousand1"><span class=3D"author-p-158920=
+845901">=E6=89=A7=E8=A1=8C=E5=91=BD=E4=BB=A4</span></li>
+</ol>
+<p><br></p>
+<p><span class=3D"author-p-158920845901">airflow run -A airflow_cur_test_02=
+ test_yangmz_02 2019-07-18T12:02:01</span></p>
+<p><span class=3D"author-p-158920845901">=E5=91=BD=E4=BB=A4=E5=8F=82=E8=80=
+=83=EF=BC=9A</span><span><a class=3D"external-link" href=3D"https://airflow=
+.apache.org/cli.html#run" rel=3D"nofollow">https://airflow.apache.org/cli.h=
+tml#run</a></span></p>
+<p><span class=3D"author-p-158920845901">=E4=B8=89=E3=80=81=E6=9F=A5=E7=9C=
+=8B=E6=89=A7=E8=A1=8CLOG</span></p>
+<p><span class=3D"author-p-158920845901">=E6=96=B9=E6=B3=95=E4=B8=80</span>=
+</p>
+<p><span class=3D"author-p-158920845901">1=E3=80=81=E5=9B=9E=E5=88=B0=E4=B8=
+=BB=E9=A1=B5=E9=9D=A2=EF=BC=8C=E7=82=B9=E5=87=BB=E4=BB=BB=E5=8A=A1</span><s=
+pan>=E8=BF=9B=E5=85=A5</span></p>
+<p><span class=3D"Tencent-attachment-1563594813438-02955a2e0a1ee7d8 author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/d58e7c174ab7f87f5dee99d4a8df1cc4/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/d58e7c174ab7f87f5dee99d4a8df1cc4/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"author-p-158920845901">2=E3=80=81=E9=80=89=E6=8B=A9Detail=
+s =E9=80=89=E9=A1=B9=E5=90=8E=EF=BC=8C=E7=82=B9=E5=87=BB running </span></p=
+>
+<p><span class=3D"Tencent-attachment-1563594996017-4821f708c95fc701 author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/64fa86a15e8567919660d30ee65c6a8d/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/64fa86a15e8567919660d30ee65c6a8d/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"author-p-158920845901">3=E3=80=81=E9=80=89=E6=8B=A9=E5=AF=
+=B9=E5=BA=94=E7=9A=84Task_id =E9=80=89=E9=A1=B9</span></p>
+<p><span class=3D"Tencent-attachment-1563595069811-ce7eef7e09f2b695 author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/ad8db5af8d2aa388dac1129367321a9a/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/ad8db5af8d2aa388dac1129367321a9a/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"author-p-158920845901">4=E3=80=81=E6=9F=A5=E7=9C=8BLog</s=
+pan></p>
+<p><span class=3D"Tencent-attachment-1563595106067-c630ffa3f10675e5 author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/4c6213be8588b50efd59a94becb5f905/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/4c6213be8588b50efd59a94becb5f905/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"author-p-158920845901">=E6=96=B9=E6=B3=95=E4=BA=8C=E3=80=
+=81</span></p>
+<p><span class=3D"author-p-158920845901">=E9=80=89=E6=8B=A9=E4=B8=BB=E9=A1=
+=B5=E9=9D=A2Browse,=E4=B9=8B=E5=90=8E=E9=80=89=E6=8B=A9 Task Instances</spa=
+n></p>
+<p><span class=3D"Tencent-attachment-1563595435524-fbf0d6386605f03b author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/5fdf71c135f7b7fc2643c01a4df8698a/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/5fdf71c135f7b7fc2643c01a4df8698a/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"Tencent-attachment-1563595579684-be12bf64f5a059be author-=
+p-158920845901 attrimg img"><span class=3D"image-line-wrapper"><span class=
+=3D"image-wrapper"><span class=3D"confluence-embedded-file-wrapper confluen=
+ce-embedded-manual-size"><img class=3D"confluence-embedded-image inline-img=
+ confluence-external-resource" height=3D"250" src=3D"https://qqadapt.qpic.c=
+n/txdocpic/0/6699379be68c56f0900b9c562bced5b6/0" data-image-src=3D"https://=
+qqadapt.qpic.cn/txdocpic/0/6699379be68c56f0900b9c562bced5b6/0"></span></spa=
+n></span></span></p>
+<p><span class=3D"author-p-158920845901">=E4=B9=8B=E5=90=8E=E4=B8=8E=E6=96=
+=B9=E6=B3=95=E4=B8=80=E4=B8=AD=E7=9A=84=E7=AC=AC4=E6=AD=A5=E4=B8=80=E6=A0=
+=B7</span></p>
+    </div>
+</body>
+</html>
+------=_Part_2634527_801264571.1587050007844--

@@ -1,0 +1,483 @@
+Message-ID: <762838811.2634512.1587049863161.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634511_944297225.1587049863160"
+
+------=_Part_2634511_944297225.1587049863160
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E6=8C=87=E6=A0=87=E8=A1=80=E7=BC=98=E5=88=9D=E7=89=88=E6=96=87=
+=E6=A1=A3</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E6=8C=87=E6=A0=87=E8=A1=80=E7=BC=98=E5=88=9D=E7=89=88=E6=96=87=E6=
+=A1=A3</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p><span>=E8=A1=A8=E6=A0=BC=E6=A0=BC=E5=BC=8F</span><br><span>=E5=AD=97=E4=
+=BD=93=EF=BC=9A=E5=B0=8F=E4=BA=94</span></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 114.0px;">
+<col style=3D"width: 145.0px;">
+<col style=3D"width: 240.0px;">
+<col style=3D"width: 148.0px;">
+<col style=3D"width: 388.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><span>=E9=9C=80=E6=B1=82=E5=90=8D=E7=A7=B0(=
+=E8=AE=A1=E7=AE=97=E5=8F=A3=E5=BE=84)</span></p></td>
+<td class=3D"confluenceTd"><p><span>=E8=B0=83=E5=BA=A6=E4=BB=BB=E5=8A=A1=E7=
+=9A=84=E5=90=8D=E7=A7=B0</span></p></td>
+<td class=3D"confluenceTd"><p><span>=E4=B8=BB=E6=95=B0=E6=8D=AE=E6=BA=90</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p><span>=E5=AD=90=E6=95=B0=E6=8D=AE=E6=BA=90</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p><span>=E6=8C=87=E6=A0=87</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" rowspan=3D"2" class=3D"confluenceTd"><p><span><a class=3D=
+"attrlink-user-cancel" href=3D"https://confluence.opayride.com/USER_CANCEL"=
+ rel=3D"nofollow">=E8=B0=83=E5=BA=A6=E7=AE=97=E6=B3=95=E6=95=88=E6=9E=9C=E7=
+=9B=91=E6=8E=A7=E6=8C=87=E6=A0=87</a></span><br><span><a href=3D"https://do=
+cs.qq.com/sheet/DY215b3pud0V5Y0Jh?opendocxfrom=3Dadmin&amp;tab=3D7khhct&amp=
+;coord=3DA1%24A1%240%240%241%240" class=3D"external-link" rel=3D"nofollow">=
+=E8=AE=A1=E7=AE=97=E5=8F=A3=E5=BE=84=E5=9C=B0=E5=9D=80</a></span></p></td>
+<td colspan=3D"1" rowspan=3D"2" class=3D"confluenceTd"><p><span>capacity_di=
+spatch_daily</span></p></td>
+<td class=3D"confluenceTd"><p><span>oride_source.server_magic</span><br><sp=
+an>oride_bi.server_magic_dispatch_detail</span><br><span>oride_bi.server_ma=
+gic_filter_detail</span><br><span>oride_bi.server_magic_push_detail</span><=
+/p></td>
+<td class=3D"confluenceTd"><p><span>oride_bi.report_metrics</span></p></td>
+<td class=3D"confluenceTd"><p><span>report_times ,--=E6=92=AD=E6=8A=A5=E8=
+=BD=AE=E6=95=B0</span><br><span>not_found_driver_rate ,--=E6=B2=A1=E6=89=BE=
+=E5=88=B0=E5=8F=B8=E6=9C=BA=E6=AF=94=E7=8E=87</span><br><span>filter_driver=
+_rate ,--=E8=BF=87=E6=BB=A4=E5=8F=B8=E6=9C=BA=E6=AF=94=E7=8E=87</span><br><=
+span>push_driver_rate ,--=E6=8E=A8=E9=80=81=E5=8F=B8=E6=9C=BA=E6=AF=94=E7=
+=8E=87</span><br><span>accept_driver_time_rate ,--=E5=8F=B8=E6=9C=BA=E6=8E=
+=A5=E5=8D=95=E6=AF=94=E7=8E=87</span><br><span>--=E5=8F=B8=E6=9C=BA=E8=A2=
+=AB=E8=BF=87=E6=BB=A4=E5=8E=9F=E5=9B=A0</span><br><span>not_idle_rate , --=
+=E6=AD=A3=E5=9C=A8=E5=B9=B2=E6=B4=BB</span><br><span>assigned_another_job_r=
+ate , --=E8=A2=AB=E5=85=B6=E4=BB=96=E8=AE=A2=E5=8D=95=E9=94=81=E4=BD=8F </s=
+pan><br><span>assigned_this_order_rate , -- =E8=A2=AB=E6=8C=87=E6=B4=BE=E8=
+=BF=87</span><br><span>not_in_service_mode_rate , --=E4=B8=8D=E5=9C=A8=E6=
+=8E=A5=E5=8D=95=E7=8A=B6=E6=80=81</span><br><span>push_avg , --=E5=B9=B3=E5=
+=9D=87=E6=8E=A8=E9=80=81=E6=AC=A1=E6=95=B0</span><br><span>push_order_avg ,=
+ --=E5=B9=B3=E5=9D=87=E6=8E=A8=E5=8D=95=E6=AC=A1=E6=95=B0</span><br><span>o=
+rder_push_driver_avg , --=E8=AE=A2=E5=8D=95=E5=B9=B3=E5=9D=87=E8=A2=AB=E6=
+=8E=A8=E9=80=81=E5=8F=B8=E6=9C=BA</span><br><span>accept_driver_time_avg , =
+-- =E9=AA=91=E6=89=8Bz=E5=B9=B3=E5=9D=87=E5=BA=94=E7=AD=94=E6=AC=A1=E6=95=
+=B0</span><br><span>obey_rate --=E6=9C=8D=E4=BB=8E=E7=8E=87 </span></p></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>oride_db.data_order</span></p></td>
+<td class=3D"confluenceTd"><p><span>oride_bi.order_metrics</span></p></td>
+<td class=3D"confluenceTd"><p><span>ride_num , -- =E4=B8=8B=E5=8D=95=E9=87=
+=8F</span><br><span>request_num , -- =E6=8E=A5=E5=8D=95=E9=87=8F</span><br>=
+<span>request_rate , -- =E6=8E=A5=E5=8D=95=E7=8E=87</span><br><span>on_ride=
+_num , -- =E5=AE=8C=E5=8D=95=E9=87=8F</span><br><span>on_ride_rate , -- =E5=
+=AE=8C=E5=8D=95=E7=8E=87 </span><br><span>on_ride_driver_num , --=E5=AE=8C=
+=E5=8D=95=E5=8F=B8=E6=9C=BA=E6=95=B0(=E9=AA=91=E6=89=8B)</span><br><span>on=
+_ride_avg , -- =E4=BA=BA=E5=9D=87=E5=AE=8C=E5=8D=95=E9=87=8F</span><br><spa=
+n>pick_up_time_avg , -- =E5=8D=95=E5=9D=87=E6=8E=A5=E9=A9=BE=E6=97=B6=E9=95=
+=BF=EF=BC=88=E5=88=86=E9=92=9F=EF=BC=89</span><br><span>take_time_avg , -- =
+=E5=8D=95=E5=9D=87=E6=8A=A2=E5=8D=95=E6=97=B6=E9=95=BF=EF=BC=88=E5=88=86=E9=
+=92=9F=EF=BC=89</span><br><span>validity_ride_num, -- </span><span>=E6=9C=
+=89=E6=95=88</span><span>=E5=AE=8C=E5=8D=95</span><span>=E6=95=B0</span><br=
+><span>validity_on_ride_rate -- =E6=9C=89=E6=95=88=E8=AE=A2=E5=8D=95=E5=AE=
+=8C=E5=8D=95=E7=8E=87=E4=B9=98=E5=AE=A2=E6=8C=87=E6=A0=87</span><br><span>s=
+ys_cancel_rate , -- =E7=B3=BB=E7=BB=9F=E5=8F=96=E6=B6=88=E7=8E=87</span><br=
+><span>passanger_before_cancel_rate , --=E4=B9=98=E5=AE=A2=E5=BA=94=E7=AD=
+=94=E5=89=8D=E5=8F=96=E6=B6=88=E7=8E=87</span><br><span>passanger_after_can=
+cel_rate, --=E4=B9=98=E5=AE=A2=E5=BA=94=E7=AD=94=E5=90=8E=E5=8F=96=E6=B6=88=
+=E7=8E=87</span><br><span>cannel_pick_avg --=E5=B9=B3=E5=9D=87=E5=8F=96=E6=
+=B6=88=E6=8E=A5=E9=A9=BE=E6=97=B6=E9=95=BF(=E5=88=86)</span><br><span>wait_=
+time_avg --=E5=B9=B3=E5=9D=87=E7=AD=89=E5=BE=85=E4=B8=8A=E8=BD=A6=E6=97=B6=
+=E9=95=BF(=E5=88=86)</span><br><span>billing_time_avg --=E5=B9=B3=E5=9D=87=
+=E8=AE=A1=E8=B4=B9=E6=97=B6=E9=95=BF(=E5=88=86)</span><br><span>pay_time_av=
+g --=E5=B9=B3=E5=9D=87=E6=94=AF=E4=BB=98=E5=B8=82=E5=9C=BA(=E5=88=86)</span=
+></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>=E5=85=A8=E5=B1=80=E8=BF=90=E8=90=A5=E6=
+=8C=87=E6=A0=87</span><br><span><a class=3D"external-link" href=3D"https://=
+docs.qq.com/sheet/DY215b3pud0V5Y0Jh?tab=3Dtuo617&amp;coord=3DA1A0Q0" rel=3D=
+"nofollow">=E8=AE=A1=E7=AE=97=E5=8F=A3=E5=BE=84=E5=9C=B0=E5=9D=80</a></span=
+></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(51,51,51);">oride_g=
+lobal_daily_report</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">oride_db.d=
+ata_order</span><br><span style=3D"color: rgb(0,0,0);">oride_db.data_order_=
+payment</span><br><span style=3D"color: rgb(0,0,0);">oride_db.data_user_ext=
+end</span><br><span style=3D"color: rgb(0,0,0);">oride_db.data_driver_exten=
+d</span><br><span style=3D"color: rgb(0,0,0);">oride_bi.oride_driver_timera=
+nge</span><br><span style=3D"color: rgb(0,0,0);">oride_source.server_magic<=
+/span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">oride_bi.o=
+ride_global_daily_report</span></p></td>
+<td class=3D"confluenceTd"><p><span>request_num_lfw --=E4=B8=8B=E5=8D=95=E9=
+=87=8F=E8=BF=914=E5=91=A8=E5=9D=87=E5=80=BC</span><br><span>completed_num -=
+-=E5=AE=8C=E5=8D=95=E9=87=8F</span><br><span>completed_num_lfw --=E5=AE=8C=
+=E5=8D=95=E9=87=8F=E8=BF=914=E5=91=A8</span><br><span>active_users --=E6=B4=
+=BB=E8=B7=83=E4=B9=98=E5=AE=A2=E6=95=B0</span><br><span>completed_drivers -=
+-=E5=AE=8C=E5=8D=95=E5=8F=B8=E6=9C=BA=E6=95=B0,</span><br><span>avg_online_=
+time --=E5=B9=B3=E5=9D=87=E5=9C=A8=E7=BA=BF=E6=97=B6=E9=97=B4</span><br><sp=
+an>btime_vs_otime --=E8=AE=A1=E8=B4=B9=E6=97=B6=E9=95=BF=E5=8D=A0=E6=AF=94<=
+/span><br><span>register_drivers --=E6=B3=A8=E5=86=8C=E5=8F=B8=E6=9C=BA=E6=
+=95=B0</span><br><span>online_drivers --=E5=9C=A8=E7=BA=BF=E5=8F=B8=E6=9C=
+=BA=E6=95=B0</span><br><span>avg_take_time --=E5=B9=B3=E5=9D=87=E5=BA=94=E7=
+=AD=94=E6=97=B6=E9=95=BF</span><br><span>avg_distance --=E5=B9=B3=E5=9D=87=
+=E9=80=81=E9=A9=BE=E8=B7=9D=E7=A6=BB</span><br><span>avg_pickup_time --=E5=
+=B9=B3=E5=9D=87=E6=8E=A5=E9=A9=BE=E6=97=B6=E9=95=BF</span><br><span>registe=
+r_users --=E6=B3=A8=E5=86=8C=E4=B9=98=E5=AE=A2=E6=95=B0</span><br><span>fir=
+st_completed_users --=E5=AE=8C=E6=88=90=E9=A6=96=E5=8D=95=E4=B9=98=E5=AE=A2=
+=E6=95=B0</span><br><span>completed_users --=E5=AE=8C=E5=8D=95=E4=B9=98=E5=
+=AE=A2=E6=95=B0</span><br><span>map_request_num --=E5=9C=B0=E5=9B=BE=E8=AF=
+=B7=E6=B1=82=E6=95=B0,</span><br><span>beckoning_num --=E6=8B=9B=E6=89=8B=
+=E5=81=9C=E5=AE=8C=E5=8D=95=E6=95=B0</span><br><span>driect_ordernum --=E4=
+=B8=93=E8=BD=A6=E5=AE=8C=E5=8D=95=E6=95=B0</span><br><span>driect_drivernum=
+ --=E4=B8=93=E8=BD=A6=E5=AE=8C=E5=8D=95=E5=8F=B8=E6=9C=BA=E6=95=B0</span><b=
+r><span>street_ordernum --=E5=BF=AB=E8=BD=A6=E5=AE=8C=E5=8D=95=E6=95=B0</sp=
+an><br><span>street_drivernum --=E5=BF=AB=E8=BD=A6=E5=AE=8C=E5=8D=95=E5=8F=
+=B8=E6=9C=BA=E6=95=B0</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>=E8=AE=A2=E5=8D=95=E6=BC=8F=E6=96=97=E6=
+=A8=A1=E5=9E=8B</span><br><span><a href=3D"https://docs.qq.com/sheet/DY215b=
+3pud0V5Y0Jh?tab=3Dcslgmn&amp;coord=3DC9A0A0" class=3D"external-link" rel=3D=
+"nofollow">=E8=AE=A1=E7=AE=97=E5=8F=A3=E5=BE=84=E5=9C=B0=E5=9D=80</a></span=
+></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(51,51,51);">oride_g=
+lobal_daily_report</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">oride_db.d=
+ata_order</span><br><span style=3D"color: rgb(0,0,0);">oride_db.data_order_=
+payment</span><br><span style=3D"color: rgb(0,0,0);">oride_source.server_ma=
+gic</span></p></td>
+<td class=3D"confluenceTd"><p><span>oride_bi.oride_global_daily_report</spa=
+n></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">push_num</=
+span><span style=3D"color: rgb(0,0,0);"> -- =E6=92=AD=E6=8A=A5=E8=AE=A2=E5=
+=8D=95=E6=95=B0</span><br><span style=3D"color: rgb(0,0,0);">before_take_ca=
+ncel_num --=E5=BA=94=E7=AD=94=E5=89=8D=E5=8F=96=E6=B6=88</span><br><span st=
+yle=3D"color: rgb(0,0,0);">before_take_cancel_num_lfw --=E5=BA=94=E7=AD=94=
+=E5=89=8D=E5=8F=96=E6=B6=88=E8=BF=914=E5=91=A8=E5=9D=87=E5=80=BC</span><br>=
+<span style=3D"color: rgb(0,0,0);">take_num --=E6=8E=A5=E5=8D=95=E6=95=B0</=
+span><br><span>take_num_lfw --=E6=8E=A5=E5=8D=95=E6=95=B0=E8=BF=914=E5=91=
+=A8=E5=9D=87=E5=80=BC</span><br><span>after_take_cancel_num --=E5=BA=94=E7=
+=AD=94=E5=90=8E=E5=8F=96=E6=B6=88</span><br><span>after_take_cancel_num_lfw=
+ --=E5=BA=94=E7=AD=94=E5=90=8E=E5=8F=96=E6=B6=88=E8=BF=914=E5=91=A8=E5=9D=
+=87=E5=80=BC</span><br><span>driver_cancel_num --=E5=8F=B8=E6=9C=BA=E5=8F=
+=96=E6=B6=88=E6=95=B0</span><br><span>driver_cancel_num_lfw --=E5=8F=B8=E6=
+=9C=BA=E5=8F=96=E6=B6=88=E6=95=B0=E8=BF=914=E5=91=A8=E5=9D=87=E5=80=BC</spa=
+n><br><span>pay_num --=E6=94=AF=E4=BB=98=E8=AE=A2=E5=8D=95=E6=95=B0</span><=
+br><span style=3D"color: rgb(0,0,0);">pay_price_total --=E5=BA=94=E4=BB=98=
+=E6=80=BB=E8=AE=A1</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>10=E5=88=86=E9=92=9F=E6=95=B0=E6=8D=AE=
+=E6=8C=87=E6=A0=87</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(51,51,51);">oride_o=
+rders_10min</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">oride_data=
+.data_order (=E4=B8=9A=E5=8A=A1=E4=BB=8E=E5=BA=93)</span></p></td>
+<td class=3D"confluenceTd"><p><span>bi.</span><span>oride_orders_status_10m=
+in</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">orders --=
+=E4=B8=8B=E5=8D=95=E6=95=B0</span><br><span>orders_user --=E4=B8=8B=E5=8D=
+=95=E7=94=A8=E6=88=B7=E6=95=B0</span><br><span>orders_pick --=E6=8E=A5=E5=
+=8D=95=E6=95=B0</span><br><span>orders_finish --=E5=AE=8C=E5=8D=95=E6=95=B0=
+</span><br><span>avg_pick --=E5=B9=B3=E5=9D=87=E5=BA=94=E7=AD=94=E6=97=B6=
+=E9=95=BF</span><br><span>avg_take --=E5=B9=B3=E5=9D=87=E6=8E=A5=E9=A9=BE=
+=E6=97=B6=E9=95=BF</span><br><span>not_sys_cannel_orders --=E5=BA=94=E7=AD=
+=94=E5=90=8E=E5=8F=96=E6=B6=88=E8=AE=A2=E5=8D=95=E6=95=B0</span><br><span>p=
+icked_orders --=E6=88=90=E5=8A=9F=E6=8E=A5=E9=A9=BE=E8=AE=A2=E5=8D=95=E6=95=
+=B0</span><br><span>orders_accept --=E6=88=90=E5=8A=9F=E6=8A=A2=E5=8D=95=E6=
+=95=B0</span><br><span>=E6=8A=A2=E5=8D=95=E6=95=B0</span><span>agg_orders_f=
+inish --=E7=B4=AF=E8=AE=A1=E5=AE=8C=E5=8D=95=E6=95=B0</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>=E5=8F=8D=E4=BD=9C=E5=BC=8A=E6=8A=A5=E8=
+=A1=A8</span><br><span><a class=3D"external-link" href=3D"https://docs.qq.c=
+om/sheet/DY215b3pud0V5Y0Jh?tab=3Dk6l9cf&amp;coord=3DA1A0O0" rel=3D"nofollow=
+">=E5=8F=A3=E5=BE=84=E5=9C=B0=E5=9D=80</a></span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(51,51,51);"><a href=
+=3D"https://confluence.opayride.com/USER_CANCEL" class=3D"attrlink-user-can=
+cel" rel=3D"nofollow">oride_global_daily_report</a></span></p></td>
+<td class=3D"confluenceTd"><p><span>oride_source.anti_fraud</span><br><span=
+>oride_db.data_anti_fraud_strategy</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(51,51,51);">oride_b=
+i.orider_anti_fraud_daily_report_result</span><br><span style=3D"color: rgb=
+(51,51,51);">oride_bi.</span><span>oride_anti_fraud_daily_report</span></p>=
+</td>
+<td class=3D"confluenceTd"><p><span>rule_name --=E8=A7=84=E5=88=99=E5=90=8D=
+=E7=A7=B0,</span><br><span>behavior_id --=E7=AD=96=E7=95=A5ID,</span><br><s=
+pan>user_regist_num --=E6=B3=A8=E5=86=8C=E6=8B=A6=E6=88=AA=E4=B9=98=E5=AE=
+=A2=E6=95=B0,</span><br><span>user_regist_rate --=E6=B3=A8=E5=86=8C=E6=8B=
+=A6=E6=88=AA=E4=B9=98=E5=AE=A2=E5=8D=A0=E6=AF=94,</span><br><span>user_regi=
+st_1dayring --=E6=B3=A8=E5=86=8C=E6=8B=A6=E6=88=AA=E6=80=BB=E4=BA=BA=E6=95=
+=B0=E6=97=A5=E7=8E=AF=E6=AF=94,</span><br><span>user_regist_7dayring --=E6=
+=B3=A8=E5=86=8C=E6=8B=A6=E6=88=AA=E6=80=BB=E4=BA=BA=E6=95=B07=E6=97=A5=E7=
+=8E=AF=E6=AF=94,</span><br><span>driver_silence_num --=E4=BA=8B=E4=BB=B6=E4=
+=B8=AD=E6=8B=A6=E6=88=AA=E5=8F=B8=E6=9C=BA=E6=95=B0,</span><br><span>user_s=
+ilence_num --=E4=BA=8B=E4=BB=B6=E4=B8=AD=E6=8B=A6=E6=88=AA=E4=B9=98=E5=AE=
+=A2=E6=95=B0,</span><br><span>driver_silence_rate --=E4=BA=8B=E4=BB=B6=E4=
+=B8=AD=E6=8B=A6=E6=88=AA=E5=8F=B8=E6=9C=BA=E5=8D=A0=E6=AF=94,</span><br><sp=
+an>user_silence_rate --=E4=BA=8B=E4=BB=B6=E4=B8=AD=E6=8B=A6=E6=88=AA=E4=B9=
+=98=E5=AE=A2=E5=8D=A0=E6=AF=94,</span><br><span>driver_silence_1dayring --=
+=E4=BA=8B=E4=BB=B6=E4=B8=AD=E6=8B=A6=E6=88=AA=E5=8F=B8=E6=9C=BA=E6=95=B0=E6=
+=97=A5=E7=8E=AF=E6=AF=94,</span><br><span>user_silence_1dayring --=E4=BA=8B=
+=E4=BB=B6=E4=B8=AD=E6=8B=A6=E6=88=AA=E4=B9=98=E5=AE=A2=E6=95=B0=E6=97=A5=E7=
+=8E=AF=E6=AF=94,</span><br><span>driver_silence_7dayring --=E4=BA=8B=E4=BB=
+=B6=E4=B8=AD=E6=8B=A6=E6=88=AA=E5=8F=B8=E6=9C=BA=E6=95=B07=E6=97=A5=E7=8E=
+=AF=E6=AF=94,</span><br><span>user_silence_7dayring --=E4=BA=8B=E4=BB=B6=E6=
+=B1=87=E6=80=BB=E6=8B=A6=E6=88=AA=E4=B9=98=E5=AE=A2=E6=95=B07=E6=97=A5=E7=
+=8E=AF=E6=AF=94,</span><br><span>abnormal_driver_num --=E6=89=A3=E6=AC=BE=
+=E5=8F=B8=E6=9C=BA=E6=95=B0,</span><br><span>abnormal_driver_rate --=E6=89=
+=A3=E6=AC=BE=E5=8F=B8=E6=9C=BA=E4=BA=BA=E6=95=B0=E5=8D=A0=E6=AF=94,</span><=
+br><span>abnormal_driver_1dayring --=E6=89=A3=E6=AC=BE=E5=8F=B8=E6=9C=BA=E6=
+=95=B0=E6=97=A5=E7=8E=AF=E6=AF=94,</span><br><span>abnormal_driver_7dayring=
+ --=E6=89=A3=E6=AC=BE=E5=8F=B8=E6=9C=BA=E6=95=B07=E6=97=A5=E7=8E=AF=E6=AF=
+=94,</span><br><span>abnormal_order_num --=E6=89=A3=E6=AC=BE=E8=AE=A2=E5=8D=
+=95=E6=95=B0,</span><br><span>abnormal_order_rate --=E6=89=A3=E6=AC=BE=E8=
+=AE=A2=E5=8D=95=E6=95=B0=E5=8D=A0=E6=AF=94,</span><br><span>abnormal_order_=
+1dayring --=E6=89=A3=E6=AC=BE=E8=AE=A2=E5=8D=95=E6=97=A5=E7=8E=AF=E6=AF=94,=
+</span><br><span>abnormal_order_7dayring --=E6=89=A3=E6=AC=BE=E8=AE=A2=E5=
+=8D=957=E6=97=A5=E7=8E=AF=E6=AF=94,</span><br><span>order_amount --=E6=89=
+=A3=E6=AC=BE=E9=87=91=E9=A2=9D,</span><br><span>order_amount_1dayring --=E6=
+=89=A3=E6=AC=BE=E9=87=91=E9=A2=9D=E6=97=A5=E7=8E=AF=E6=AF=94,</span><br><sp=
+an>order_amount_7dayring --=E6=89=A3=E6=AC=BE=E9=87=91=E5=B8=817=E6=97=A5=
+=E7=8E=AF=E6=AF=94,</span><br><span>revoked_order_num --=E7=B4=AF=E8=AE=A1r=
+evoke=E9=87=8F,</span><br><span>revoked_order_rate --=E7=B4=AF=E8=AE=A1revo=
+ke=E7=8E=87 </span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2634511_944297225.1587049863160--

@@ -1,0 +1,324 @@
+Message-ID: <1386573739.2634552.1587050258437.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634551_866851890.1587050258436"
+
+------=_Part_2634551_866851890.1587050258436
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=AE=9E=E6=97=B6=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=E6=93=8D=
+=E4=BD=9C=E6=B5=81=E7=A8=8B</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=AE=9E=E6=97=B6=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=E6=93=8D=E4=
+=BD=9C=E6=B5=81=E7=A8=8B</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"id-=E5=AE=9E=E6=97=B6=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=
+=E6=93=8D=E4=BD=9C=E6=B5=81=E7=A8=8B-=E6=A0=B8=E5=BF=83=E7=BB=84=E4=BB=B6">=
+=E6=A0=B8=E5=BF=83=E7=BB=84=E4=BB=B6</h2>
+<p>Kudu Sink =EF=BC=9A&nbsp;<a href=3D"https://docs.lenses.io/connectors/si=
+nk/kudu.html" class=3D"external-link" rel=3D"nofollow">https://docs.lenses.=
+io/connectors/sink/kudu.html</a></p>
+<p>Confluent</p>
+<p>Schema register =EF=BC=9A<a href=3D"https://docs.confluent.io/current/sc=
+hema-registry/using.html" class=3D"external-link" rel=3D"nofollow">https://=
+docs.confluent.io/current/schema-registry/using.html</a></p>
+<p><br></p>
+<h2 id=3D"id-=E5=AE=9E=E6=97=B6=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=E6=93=
+=8D=E4=BD=9C=E6=B5=81=E7=A8=8B-=E6=90=AD=E5=BB=BA=E6=B5=81=E7=A8=8B">=E6=90=
+=AD=E5=BB=BA=E6=B5=81=E7=A8=8B</h2>
+<ul>
+<li>Confluent =E6=90=AD=E5=BB=BA=E6=B5=81=E7=A8=8B=E4=B8=8Ebinlog=E9=87=87=
+=E9=9B=86=E5=B9=B3=E5=8F=B0=E7=9B=B8=E5=90=8C=EF=BC=8C=E9=9C=80=E8=A6=81=E5=
+=8F=A6=E5=A4=96=E6=90=AD=E5=BB=BA&nbsp;Schema register =E6=9C=8D=E5=8A=A1=
+=EF=BC=8C=E9=BB=98=E8=AE=A4=E7=AB=AF=E5=8F=A38081=EF=BC=8C=E5=8F=AF=E4=BB=
+=A5=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=99=85=E5=BA=94=E7=94=A8=E4=BF=AE=E6=94=B9=
+=E3=80=82=E8=AF=A6=E7=BB=86=E6=9C=8D=E5=8A=A1=E6=90=AD=E5=BB=BA=E6=B5=81=E7=
+=A8=8B=E4=BB=A5=E5=8F=8A=E5=85=B6=E4=BB=96=E5=8F=82=E6=95=B0=E5=8F=AF=E4=BB=
+=A5=E6=9F=A5=E7=9C=8B=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E3=80=82</li>
+<li>Confluent&nbsp;&nbsp;connect-avro-distributed.properties =E9=85=8D=E7=
+=BD=AE=E6=96=87=E4=BB=B6&nbsp;key.converter=E3=80=81value.converter=E7=AD=
+=89=E7=9B=B8=E5=BA=94=E9=85=8D=E7=BD=AE=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=
+=E4=B8=BAavro=E6=A0=BC=E5=BC=8F=EF=BC=8C=E5=9C=B0=E5=9D=80=E9=9C=80=E8=A6=
+=81=E6=A0=B9=E6=8D=AE&nbsp;Schema register =E6=9C=8D=E5=8A=A1 =E5=AE=9E=E9=
+=99=85=E5=9C=B0=E5=9D=80=E7=AB=AF=E5=8F=A3=E8=BF=9B=E8=A1=8C=E9=85=8D=E7=BD=
+=AE=E3=80=82<br>&nbsp;key.converter=3Dio.confluent.connect.avro.AvroConvert=
+er<br>&nbsp;key.converter.schema.registry.url=3D<a class=3D"external-link" =
+href=3D"http://localhost:8081/" rel=3D"nofollow">http://localhost:8081</a><=
+br>&nbsp;value.converter=3Dio.confluent.connect.avro.AvroConverter<br>&nbsp=
+;value.converter.schema.registry.url=3D<a class=3D"external-link" href=3D"h=
+ttp://localhost:8081/" rel=3D"nofollow">http://localhost:8081</a></li>
+<li>Kudu Sink =E6=8C=89=E7=85=A7=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E6=93=
+=8D=E4=BD=9C=E6=B5=81=E7=A8=8B=E5=B0=86=E6=89=A9=E5=B1=95=E5=8C=85=E6=94=BE=
+=E5=85=A5=E6=89=A9=E5=B1=95=E6=8F=92=E4=BB=B6=E8=B7=AF=E5=BE=84=E4=B8=8B=EF=
+=BC=8C=E9=87=8D=E5=90=AF&nbsp;Confluent =E6=9C=8D=E5=8A=A1=E3=80=82</li>
+</ul>
+<p><br></p>
+<h2 id=3D"id-=E5=AE=9E=E6=97=B6=E6=95=B0=E6=8D=AE=E5=B9=B3=E5=8F=B0=E6=93=
+=8D=E4=BD=9C=E6=B5=81=E7=A8=8B-KuduSink=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=
+=E7=A4=BA=E4=BE=8B">Kudu Sink =E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E7=A4=BA=
+=E4=BE=8B</h2>
+<p><br></p>
+<p>{<br> "name": "oride-data-order-kudu-sink",<br> "config": {<br> "connect=
+or.class": "com.datamountaineer.streamreactor.connect.kudu.sink.KuduSinkCon=
+nector",<br> "name": "oride-data-order-kudu-sink",<br> "tasks.max": "1",<br=
+> "topics": "oride_db_realtime.oride_data.data_order",<br> "connect.kudu.ma=
+ster":"10.52.5.227,10.52.5.228,10.52.5.229",<br> "connect.kudu.kcql":"UPSER=
+T INTO impala::oride_data.data_order SELECT * FROM oride_db_realtime.oride_=
+data.data_order AUTOCREATE DISTRIBUTEBY id INTO 3 BUCKETS AUTOEVOLVE",<br> =
+"connect.kudu.schema.registry.url":"<a rel=3D"nofollow" href=3D"http://loca=
+lhost:8081/" class=3D"external-link">http://localhost:8081</a>"<br> }<br>}<=
+/p>
+<p><br></p>
+<p>=E8=AF=A6=E7=BB=86=E7=9A=84=E5=8F=82=E6=95=B0=E9=85=8D=E7=BD=AE=E5=8F=AF=
+=E4=BB=A5=E5=8F=82=E8=80=83=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=EF=BC=8C=E6=
+=9C=89=E8=AF=A6=E7=BB=86=E8=A7=A3=E9=87=8A=E3=80=82=E4=BB=A5=E4=B8=8B=E4=B8=
+=BA=E5=AE=9E=E9=99=85=E5=BC=80=E5=8F=91=E4=B8=AD=E5=BA=94=E7=94=A8=E9=87=8D=
+=E8=A6=81=E9=85=8D=E7=BD=AE=EF=BC=9A</p>
+<ul>
+<li>UPSERT =E4=B8=8D=E5=8F=AF=E8=A2=AB=E4=BF=AE=E6=94=B9=E4=B8=BAINSERT =E6=
+=88=96 UPDATE =E5=85=B3=E9=94=AE=E5=AD=97=EF=BC=8C=E5=90=A6=E5=88=99=E6=95=
+=B4=E4=BD=93=E6=B5=81=E7=A8=8B=E5=B0=86=E6=97=A0=E6=84=8F=E4=B9=89=E3=80=82=
+</li>
+<li>schema.registry.url =E8=B7=AF=E5=BE=84=E4=B8=80=E5=AE=9A=E8=A6=81=E4=B8=
+=8EConfluent =E4=B8=AD=E9=85=8D=E7=BD=AE=E7=9A=84=E4=B8=80=E8=87=B4=E3=80=
+=82</li>
+<li>=E9=9C=80=E8=A6=81=E7=9D=80=E9=87=8D=E6=B3=A8=E6=84=8F&nbsp;KCQL =E6=94=
+=AF=E6=8C=81=E7=9A=84&nbsp;Kudu Sink =E8=AF=AD=E6=B3=95=E3=80=82</li>
+<li>kcql =E4=B8=AD=E5=AE=9A=E4=B9=89=E7=9A=84&nbsp;<span style=3D"color: rg=
+b(51,51,51);">primary keys =E8=A6=81=E4=B8=8Ekudu =E4=B8=AD=E7=9A=84=E8=A1=
+=A8=E5=AE=9A=E4=B9=89=E4=B8=80=E8=87=B4=E3=80=82</span></li>
+</ul>
+<p><br></p>
+<p>=E4=BB=BB=E5=8A=A1=E6=8F=90=E4=BA=A4=E6=B5=81=E7=A8=8B=E4=B8=8E=E5=85=B6=
+=E4=BB=96sink=E7=9B=B8=E5=90=8C=E3=80=82</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2634551_866851890.1587050258436--

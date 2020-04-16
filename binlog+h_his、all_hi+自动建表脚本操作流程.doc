@@ -1,0 +1,424 @@
+Message-ID: <1677012497.2634540.1587050099786.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634539_438949725.1587050099786"
+
+------=_Part_2634539_438949725.1587050099786
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>binlog h_his=E3=80=81all_hi =E8=87=AA=E5=8A=A8=E5=BB=BA=E8=A1=A8=
+=E8=84=9A=E6=9C=AC=E6=93=8D=E4=BD=9C=E6=B5=81=E7=A8=8B</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>binlog h_his=E3=80=81all_hi =E8=87=AA=E5=8A=A8=E5=BB=BA=E8=A1=A8=E8=
+=84=9A=E6=9C=AC=E6=93=8D=E4=BD=9C=E6=B5=81=E7=A8=8B</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<h2 id=3D"binlogh_his=E3=80=81all_hi=E8=87=AA=E5=8A=A8=E5=BB=BA=E8=A1=A8=E8=
+=84=9A=E6=9C=AC=E6=93=8D=E4=BD=9C=E6=B5=81=E7=A8=8B-=E4=BD=BF=E7=94=A8=E8=
+=AF=B4=E6=98=8E">=E4=BD=BF=E7=94=A8=E8=AF=B4=E6=98=8E</h2>
+<p>=E6=AD=A4=E8=84=9A=E6=9C=AC=E5=8F=AF=E4=BB=A5=E9=87=87=E7=94=A8=E5=8F=82=
+=E6=95=B0=E5=8C=96=E9=85=8D=E7=BD=AE=EF=BC=8C=E4=B8=8B=E9=9D=A2=E4=BB=8B=E7=
+=BB=8D=E7=9B=B8=E5=BA=94=E5=8F=82=E6=95=B0=EF=BC=9A</p>
+<p>=E5=9F=BA=E7=A1=80=E6=A0=B8=E5=BF=83=E5=8F=82=E6=95=B0=EF=BC=9A</p>
+<p>HIVE_DB =EF=BC=9A=E7=9B=AE=E6=A0=87hive=E6=95=B0=E6=8D=AE=E5=BA=93=E5=90=
+=8D=E7=A7=B0</p>
+<p>HIVE_SQOOP_TEMP_DB =EF=BC=9Asqoop=E5=AF=BC=E5=85=A5=E4=B8=B4=E6=97=B6=E8=
+=A1=A8=E7=9B=AE=E6=A0=87=E5=BA=93</p>
+<p>HIVE_FULL_TABLE=EF=BC=9A=E8=A6=81=E5=88=9B=E5=BB=BA=E5=85=A8=E9=87=8F=E8=
+=A1=A8=E8=A1=A8=E6=A0=BC=E5=BC=8F=E6=A8=A1=E6=9D=BF=EF=BC=8C=E4=B8=80=E8=88=
+=AC=E6=83=85=E5=86=B5=E4=B8=8B=E4=B8=8D=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=
+=E3=80=82</p>
+<p>HIVE_ALL_HI_TABLE=EF=BC=9A=E8=A6=81=E5=88=9B=E5=BB=BAall_hi=E8=A1=A8=E8=
+=A1=A8=E6=A0=BC=E5=BC=8F=E6=A8=A1=E6=9D=BF=EF=BC=8C=E4=B8=80=E8=88=AC=E6=83=
+=85=E5=86=B5=E4=B8=8B=E4=B8=8D=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=E3=80=82=
+</p>
+<p>HIVE_HI_TABLE=EF=BC=9Ahi=E8=A1=A8=E7=9A=84=E6=A0=BC=E5=BC=8F=E6=A8=A1=E6=
+=9D=BF=EF=BC=8C=E4=B8=8Ehi =E8=84=9A=E6=9C=AC=E5=86=85=E4=B8=80=E8=87=B4=E3=
+=80=82</p>
+<p>HIVE_SQOOP_TEMP_TABLE =EF=BC=9A=E4=B8=B4=E6=97=B6=E8=A1=A8=E6=A8=A1=E6=
+=9D=BF=E5=90=8D=E7=A7=B0=E3=80=82</p>
+<p>H_HIS_OSS_PATH=EF=BC=9Ah_his=E5=AD=98=E5=82=A8=E8=B7=AF=E5=BE=84=EF=BC=
+=8C=E8=87=AA=E5=AE=9A=E4=B9=89=E3=80=82</p>
+<p>ODS_CREATE_TABLE_SQL=EF=BC=9Ah_his=E5=BB=BA=E8=A1=A8sql=E6=A8=A1=E6=9D=
+=BF=E3=80=82</p>
+<p>ODS_SQOOP_CREATE_TABLE_SQL=EF=BC=9Asqoop=E4=B8=B4=E6=97=B6=E8=A1=A8=E5=
+=BB=BA=E8=A1=A8=E6=A8=A1=E6=9D=BF=E3=80=82</p>
+<p>MERGE_HI_SQL=EF=BC=9A=E5=90=88=E5=B9=B6hi=E6=95=B0=E6=8D=AEsql=E6=A8=A1=
+=E6=9D=BF=E3=80=82</p>
+<p>MERGE_HI_WITH_FULL_SQL=EF=BC=9A=E5=88=9D=E5=A7=8B=E5=8C=96=E5=85=A8=E9=
+=87=8F=E4=B8=8E=E5=A2=9E=E9=87=8F=E6=95=B0=E6=8D=AEsql=E6=A8=A1=E6=9D=BF=E3=
+=80=82</p>
+<p><br></p>
+<p>=E5=8A=A8=E6=80=81=E8=A1=A8=E9=85=8D=E7=BD=AE=E5=8F=82=E6=95=B0=EF=BC=9A=
+</p>
+<p>table_list=EF=BC=9A=E6=8C=89=E7=85=A7=E5=8F=82=E6=95=B0=E9=A1=BA=E5=BA=
+=8F</p>
+<p><span style=3D"color: rgb(51,51,51);">=E6=95=B0=E6=8D=AE=E8=A1=A8=E7=9A=
+=84=E8=A1=A8=E6=89=80=E5=B1=9Edb</span></p>
+<p><span style=3D"color: rgb(51,51,51);">=E6=95=B0=E6=8D=AE=E8=A1=A8=E7=BB=
+=93=E6=9E=84=E8=A1=A8=E5=90=8D</span></p>
+<p><span style=3D"color: rgb(51,51,51);">conn_id =EF=BC=8C=E6=95=B0=E6=8D=
+=AE=E8=A1=A8=E7=9A=84connid=EF=BC=8C=E5=9C=A8airlfow=E4=B8=AD=E9=85=8D=E7=
+=BD=AE</span></p>
+<p><span style=3D"color: rgb(51,51,51);">prefix_name =E4=BA=8C=E7=BA=A7=E4=
+=B8=9A=E5=8A=A1=E7=BA=BF=E5=90=8D=E7=A7=B0</span></p>
+<p><span style=3D"color: rgb(51,51,51);">priority_weight =E4=BC=98=E5=85=88=
+=E7=BA=A7=E6=9D=83=E5=80=BC</span></p>
+<p><span style=3D"color: rgb(51,51,51);">server_name =EF=BC=8C=E6=AD=A4=E5=
+=8F=82=E6=95=B0=E4=B8=8E=E9=87=87=E9=9B=86=E9=85=8D=E7=BD=AE=E7=A8=8B=E5=BA=
+=8F=E7=9A=84&nbsp;server_name =E7=9B=B8=E5=AF=B9=E5=BA=94=EF=BC=8C=E6=AD=A4=
+=E9=85=8D=E7=BD=AE=E8=A6=81=E8=B7=9F=E9=9A=8F=E9=87=87=E9=9B=86=E7=A8=8B=E5=
+=BA=8F=E7=9A=84=E9=85=8D=E7=BD=AE=E5=8F=98=E5=8A=A8=E8=80=8C=E6=94=B9=E5=8A=
+=A8=EF=BC=8C=E6=98=A0=E5=B0=84=E5=88=B0=E6=AD=A3=E7=A1=AE=E7=9A=84=E5=AD=98=
+=E5=82=A8=E8=B7=AF=E5=BE=84</span></p>
+<p><span style=3D"color: rgb(106,135,89);"><span style=3D"color: rgb(51,51,=
+51);">=E6=98=AF=E5=90=A6=E9=AA=8C=E8=AF=81=E6=95=B0=E6=8D=AE=E5=AD=98=E5=9C=
+=A8&nbsp;</span></span></p>
+<p><span style=3D"color: rgb(106,135,89);"><span style=3D"color: rgb(51,51,=
+51);"><br></span></span></p>
+<p>h_his=EF=BC=8Call_hi=E8=84=9A=E6=9C=AC=E6=9C=AA=E5=A2=9E=E5=8A=A0=E8=A1=
+=A8=E5=8F=82=E6=95=B0=E5=8C=BA=E5=88=86=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=A0=B9=
+=E6=8D=AE=E9=9C=80=E8=A6=81=E5=8F=82=E8=80=83hi =E6=A8=A1=E6=9D=BF=E8=BF=9B=
+=E8=A1=8C=E8=87=AA=E5=AE=9A=E4=B9=89=E5=AE=9E=E7=8E=B0=E3=80=82</p>
+<p><br></p>
+<h2 id=3D"binlogh_his=E3=80=81all_hi=E8=87=AA=E5=8A=A8=E5=BB=BA=E8=A1=A8=E8=
+=84=9A=E6=9C=AC=E6=93=8D=E4=BD=9C=E6=B5=81=E7=A8=8B-=E6=B3=A8=E6=84=8F=E4=
+=BA=8B=E9=A1=B9">=E6=B3=A8=E6=84=8F=E4=BA=8B=E9=A1=B9</h2>
+<ul>
+<li>=E5=88=9B=E5=BB=BA=E8=A1=A8task=E4=B8=AD=E5=88=A4=E6=96=AD=E6=95=B0=E6=
+=8D=AE=E5=BA=93=E7=B1=BB=E5=9E=8B=EF=BC=8C=E7=9B=AE=E5=89=8D=E5=88=A4=E6=96=
+=AD=E5=B8=B8=E7=94=A8=E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=BA=90=
+=E6=95=B0=E6=8D=AE=E8=A1=A8=E5=AD=98=E5=9C=A8=E4=B8=8D=E5=B8=B8=E7=94=A8=E7=
+=B1=BB=E5=9E=8B=EF=BC=8C=E9=9C=80=E8=A6=81=E5=A2=9E=E5=8A=A0=E5=85=B6=E4=BB=
+=96=E7=B1=BB=E5=9E=8B=E5=88=A4=E6=96=AD=E3=80=82</li>
+<li>json=E8=A1=A8=E6=97=A0=E6=B3=95=E6=93=8D=E4=BD=9Cadd column=E6=93=8D=E4=
+=BD=9C=EF=BC=8C=E9=9C=80=E8=A6=81=E9=80=9A=E8=BF=87=E4=BB=8E=E6=96=B0=E5=BB=
+=BA=E8=A1=A8=E7=9A=84=E6=96=B9=E5=BC=8F=E8=BF=9B=E8=A1=8Cschema=E6=9B=B4=E6=
+=96=B0=EF=BC=8C=E8=84=9A=E6=9C=AC=E5=86=85=E9=83=A8=E5=B7=B2=E5=AE=9E=E7=8E=
+=B0=E3=80=82</li>
+<li>datetime=E7=B1=BB=E5=9E=8B=E5=9C=A8sqoop=E5=AF=BC=E5=87=BA=E4=B8=8Ebinl=
+og=E5=86=85=E5=AE=B9=E6=95=B0=E6=8D=AE=E5=AD=98=E5=9C=A8=E4=B8=8D=E4=B8=80=
+=E8=87=B4=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=9C=A8=E5=88=9D=E5=A7=8B=E5=
+=8C=96=E9=98=B6=E6=AE=B5=E9=9C=80=E8=A6=81=E5=8D=95=E7=8B=AC=E5=A4=84=E7=90=
+=86=EF=BC=8C=E8=84=9A=E6=9C=AC=E5=86=85=E9=83=A8=E5=B7=B2=E5=AE=9E=E7=8E=B0=
+=E3=80=82=E5=A6=82=E6=9E=9C=E5=90=8E=E7=BB=AD=E5=AD=98=E5=9C=A8=E7=B1=BB=E4=
+=BC=BC=E4=B8=8D=E4=B8=80=E8=87=B4=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=BB=
+=BA=E8=AE=AE=E4=BB=A5binlog=E6=A0=BC=E5=BC=8F=E4=B8=BA=E5=87=86=E8=BF=9B=E8=
+=A1=8C=E8=BD=AC=E5=8C=96=E3=80=82</li>
+<li>h_his=E9=9C=80=E8=A6=81=E4=BD=BF=E7=94=A8hi=E6=95=B0=E6=8D=AE=EF=BC=8Ch=
+i=E7=9B=B8=E5=85=B3=E9=85=8D=E7=BD=AE=E6=95=B0=E6=8D=AE=E9=9C=80=E8=A6=81=
+=E5=92=8Chi=E8=84=9A=E6=9C=AC=E4=B8=AD=E4=BF=9D=E6=8C=81=E4=B8=80=E8=87=B4=
+=E3=80=82</li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><img height=3D"250" style=3D"margin: 2px; border: 1px solid #ddd; box-si=
+zing: border-box; vertical-align: text-bottom;" src=3D"1be08c5de2d6b313d021=
+a4c3431a1712" width=3D"250"><img height=3D"250" style=3D"margin: 2px; borde=
+r: 1px solid #ddd; box-sizing: border-box; vertical-align: text-bottom;" sr=
+c=3D"7835963b2f5284a7dfb32ca4b80ad8a1" width=3D"250"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2634539_438949725.1587050099786
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/1be08c5de2d6b313d021a4c3431a1712
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAAD4UlEQVR42u3cD3OiRhzG8QUWF1AQY9SYO9Pk/b+oZtprnUsmSY1R
+QAMcGGMctak2F/Hw+5nRYfW34OOCf1eFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBf
+gLafzVhJYmxZGut6WKI72JKmtXWtqVslil4xd6k2K3u5UfpetrL13j5jJCUadfWp5Qc96gfpiKMb
+e9mKjFcv8c4qkX7aSqPtyksU3R0bwSQV8ZMbFRa9mIe5juq+LHSVW9jDXCHRPXnxulg3vKN6hG/4
+f7wuDuqNosZDFrHRcfC2HElRait7sLH0pskz1q8v7w5vy/St8VjYqPNqjuhEJzrRD+ItPKNOdKIT
+nehEJzrRiU70w4ruOM4xRc/DTuffJBvmWNjOsUQPBlY22P5Lw02ESAfHM+p1MfYfzkT+ifzdWIh6
+IaNeyBdPqR6KR8eo6qcPbppFN4PkvfIyRa8NnamYCNcY6cOpENXAiQqIXsznEj21NF3G0r/8R3mZ
+ooumrL4uuqopjim66Ol+x7Jtq+PLL+K4ogvPrEnVkDVTE8cW/SeW8xqe6AcWPd5p6qcVlyi6vlOY
+WC9T9HSX6cF7is6kcAAAAAAAAADAoVPn/9JW7f+3vvb+bvv+vnPbPdUn3w+fFT26Ofg99oPTiKQZ
+VmQzna61VXMkzqZSGmp+nf7V9P3Y0KWU9SAb0dRPZSfJmm6YtTStIjvxVEhrJFptP5DOZLXHbD+Y
+150k+WoNPyxy1G9OlD+wNra9B1vJSn1+RdIfX18PDc1X7VH+LzWxoWp/PScqech/vP/V0Np3zy+V
+t9fXLW/irPUQb3XPYpr/z0+h35Cr/Nfnhr7ezo7T6mV19cjVVD5PsKbmhWr2K+aT7JTPo6iot8Nb
+Sy9We8zW8VrXyk6++thMw4/+jth+EKI5iDa1k744j+7T5Wqv8Xt2ftWfFwr7KTvLT96tEB3j/jEv
+cicivLoarfUQS3V62PsWNP8u/Mmtrdbb+YjZvZp6+y+K/JLOpbtcqGr5WWU+2L1LL1+wVavqOKm5
+2mPxmJ/XZb26l64odNTfE/yZ3UR3uHzJP+nm0nx+8HdttrM05d1I1K8291jU2UHcjw72eb3T6mpd
+sfjjrfrAE4+mdupVf6ut1XYrXk97CXnfT72LcL3H7Hhf1IViUD3clzRD575yb96+NkciunSf7GH0
+HPhrtd/i6Kb5sgeOG9Poe9rf3GNRF07FcylfD29Rpz58qP6qk8fOwvOPruLnzKVx5zN874a7XLU0
+mls+Ty3qlEgnvHkEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgHf8ALcg/tFP+NU8AAAAAElF
+TkSuQmCC
+------=_Part_2634539_438949725.1587050099786
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/7835963b2f5284a7dfb32ca4b80ad8a1
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAADwElEQVR42u3cC3PaRhSG4YMuLAgkgTFgnOCS//+j6umkpXUGOxhb
+IECoEuYmcFMYEoTF+8zgWcTRKh+7EdhaEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA
+DyB3msMUZjN9z9JA00YZeoILhlnYu9bUChmKnjcPqTbzJ/lHaSc5yt6zfU6fZWjU1S8tP+tRP0sX
+HF0/yVGMYHuLc5P3tet66O9XnqHotqcPx6EEL7afWvR0TnNN1XprtJSd2mkuleiOcbdsurpzUWf4
+auWPZbPvVtMaDyONg3rDdds3JNO2ZrC+8UuTo+8+nt0JXzTC9Z3n1Eadd3NEJzrRiX4Wv8Iz6kQn
+OtGJTnSiE53oRD+v6JZlXVL0OOxkcSVZNz0pWpcSfdgvRINdebtjz0TC/uWMuite5elG4r/I9zwR
+N5VRT+XCU6iN5NnSS9r1kx1G0c3h7EflWYpeHlgTGYutv2qDiUhpaPkpRE/n7xJttbFcpqB9+p/y
+LEWXmlFaNm1Vk0uKLm2t0iwUi4VmxfgklxVdHLNsqKpRNnNyadF/Yjnv4Yl+ZtGDg5Z+FoIMRdcO
+ChNoWYoeHrI8+ETRWRQOAAAAAAAAAPgwVOPttrx7u7H90H5ORDvts3NOz8Ovju4/nO1EPfJjlfWS
+dCU/2H1gopnivnii3GV2rSUd6U2DnEjpMRrRietJrT8VKX6P7gWhIbXvXqLTrT3m82BRd/WqR7W6
+85TeqH+7v68743eWvT1cqUo/cZ1t1vXu7wd6rqIar/HX1AS6Kv85nanZU/zp/c96rtGbJjvd3kPW
+dVOZxF/0k/Yl8lx4t3uaiz+VrmvJbVEzp+KFgmW1qFDzjzFfRbd4IUVeretXna73mPexrKtHt4o6
+aqnhkZcb7bGMvsigN5/Y68ktqvaXSKPvJ7ZFTbf6e9T60vXfKpT5Ev0Ix6KcbyJt/fE5Lkp0ut5j
+3seyrvl3++u8i7QUVb1kWaH5/otbQ+2MerNjb1aocvwjvyhrd5y4kex0vcfqnB/XRXu1OnaKc/1z
+fHS3s390R+Xfj74x4ZOdrvdITPhotjeOXG103InisRs6d/teDXf7jjybuWun9Ft558FW3mnnwq1O
+k3vM/7+v6kbSL6UZ3atO/H/C7n7Fr+J37JfiwJ8OKzsPfg38h5qx1ek7e6zqRhOZZuN98O3BderY
+b3r4sIvHbka3R/bwc9fS2IuVvr3Bj7ftjuaer1OrOiXRSyIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAA4D/9C/Jd/fuS6vSxAAAAAElFTkSuQmCC
+------=_Part_2634539_438949725.1587050099786--

@@ -1,0 +1,437 @@
+Message-ID: <1953002472.2634544.1587050202663.JavaMail.confluence@f8990cfdad01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2634543_1665754376.1587050202663"
+
+------=_Part_2634543_1665754376.1587050202663
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=96=
+=87=E6=A1=A3</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p>Confluent =E9=83=A8=E7=BD=B2=E5=9C=B0=E5=9D=80</p>
+<p>10.52.5.218&nbsp; &nbsp;8.208.15.92&nbsp;&nbsp; Confluent1</p>
+<p>10.52.5.226&nbsp; 8.208.9.252&nbsp;&nbsp;&nbsp;Confluent2</p>
+<h2 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3-=E5=BC=80=E5=8F=91=E6=B5=81=E7=A8=8B">=E5=BC=80=E5=8F=91=E6=
+=B5=81=E7=A8=8B</h2>
+<h4 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3-=E8=8E=B7=E5=8F=96mysql=E7=9B=AE=E6=A0=87=E5=AE=9E=E4=BE=8B=
+=E7=9A=84=E5=9C=B0=E5=9D=80=E3=80=81=E7=AB=AF=E5=8F=A3=E3=80=81=E8=B4=A6=E5=
+=8F=B7=E3=80=81=E5=AF=86=E7=A0=81=E4=BF=A1=E6=81=AF=E3=80=82">=E8=8E=B7=E5=
+=8F=96mysql =E7=9B=AE=E6=A0=87=E5=AE=9E=E4=BE=8B=E7=9A=84=E5=9C=B0=E5=9D=80=
+=E3=80=81=E7=AB=AF=E5=8F=A3=E3=80=81=E8=B4=A6=E5=8F=B7=E3=80=81=E5=AF=86=E7=
+=A0=81=E4=BF=A1=E6=81=AF=E3=80=82</h4>
+<ul>
+<li><h6 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=
+=E6=96=87=E6=A1=A3-=E7=A1=AE=E8=AE=A4=E8=B4=A6=E5=8F=B7=E6=9C=89read=E6=9D=
+=83=E9=99=90=E3=80=82">=E7=A1=AE=E8=AE=A4=E8=B4=A6=E5=8F=B7=E6=9C=89read=E6=
+=9D=83=E9=99=90=E3=80=82</h6></li>
+<li><h6 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=
+=E6=96=87=E6=A1=A3-=E7=A1=AE=E8=AE=A4=E8=B4=A6=E5=8F=B7=E6=9C=89=E8=AF=BB=
+=E5=8F=96binlog=E6=9D=83=E9=99=90=E3=80=82">=E7=A1=AE=E8=AE=A4=E8=B4=A6=E5=
+=8F=B7=E6=9C=89=E8=AF=BB=E5=8F=96binlog=E6=9D=83=E9=99=90=E3=80=82</h6></li=
+>
+</ul>
+<h4 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3-=E7=A1=AE=E8=AE=A4Confluent=E9=83=A8=E7=BD=B2=E5=9C=B0=E5=
+=9D=80=E5=8F=AF=E4=BB=A5=E8=BF=9E=E9=80=9A=E7=9B=AE=E6=A0=87=E5=BA=93=E5=9C=
+=B0=E5=9D=80=E3=80=82">=E7=A1=AE=E8=AE=A4Confluent=E9=83=A8=E7=BD=B2=E5=9C=
+=B0=E5=9D=80 =E5=8F=AF=E4=BB=A5=E8=BF=9E=E9=80=9A=E7=9B=AE=E6=A0=87=E5=BA=
+=93=E5=9C=B0=E5=9D=80=E3=80=82</h4>
+<h4 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3-=E7=BC=96=E5=86=99source=E3=80=81sink=E7=AB=AF=E7=9A=84=E9=
+=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E3=80=82">=E7=BC=96=E5=86=99source =E3=80=
+=81sink =E7=AB=AF=E7=9A=84=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E3=80=82</h4=
+>
+<p><br><br></p>
+<p>source =E5=88=86=E8=A1=A8=E5=8F=82=E8=80=83=E9=85=8D=E7=BD=AE=EF=BC=9A</=
+p>
+<p><br></p>
+<p>{<br> "name" : "opay-account-user-record-mysql-binlog-source",<br> "conf=
+ig":<br> {<br> "connector.class": "io.debezium.connector.mysql.MySqlConnect=
+or",<br> "database.hostname": "opay-account-slave-dw.c7vkdm90b2v9.eu-west-1=
+.rds.amazonaws.com",<br> "database.port": "3306",<br> "database.user": "dw_=
+read_only",<br> "database.password": "y^n#^qk3",<br> "database.server.id": =
+"20191217600022",<br> "database.server.name": "opay_account_user_record",<b=
+r> "database.whitelist": "opay_account",<br> "table.whitelist": "opay_accou=
+nt.account_user_record_(.*)",<br> "transforms":"Reroute,unwrap,insertuuid",=
+<br> "transforms.unwrap.type":"io.debezium.transforms.ExtractNewRecordState=
+",<br> "transforms.unwrap.operation.header":"true",<br> "transforms.unwrap.=
+drop.tombstones":"false",<br> "transforms.unwrap.delete.handling.mode":"rew=
+rite",<br> "transforms.unwrap.operation.header":true,<br> "transforms.unwra=
+p.add.source.fields":"table,version,connector,name,ts_ms,db,server_id,file,=
+pos,row",<br> "transforms.Reroute.type":"io.debezium.transforms.ByLogicalTa=
+bleRouter",<br> "transforms.Reroute.topic.regex":"(.*)account_user_record_(=
+.*)",<br> "transforms.Reroute.topic.replacement":"$1account_user_record",<b=
+r> "transforms.insertuuid.type":"com.github.cjmatta.kafka.connect.smt.Inser=
+tUuid$Value",<br> "transforms.insertuuid.uuid.field.name":"uuid",<br> "data=
+base.history.kafka.bootstrap.servers": "10.52.5.208:9092,10.52.5.209:9092,1=
+0.52.5.210:9092",<br> "database.history.kafka.topic": "dbhistory.opay_accou=
+nt_user_record",<br> "include.schema.changes": "true",<br> "snapshot.lockin=
+g.mode": "none",<br> "decimal.handling.mode": "string",<br> "include.query"=
+:"false",<br> "tombstones.on.delete":"false",<br> "snapshot.mode":"schema_o=
+nly",<br> "database.serverTimezone":"UTC",<br> "database.history.skip.unpar=
+seable.ddl":"true",<br> "event.deserialization.failure.handling.mode":"warn=
+"<br> }<br>}</p>
+<p><br></p>
+<p>source =E5=8D=95=E8=A1=A8=E5=8F=82=E8=80=83=E9=85=8D=E7=BD=AE=EF=BC=9A</=
+p>
+<p><br></p>
+<p>{<br> "name" : "opay-mall-platform-db-binlog-source",<br> "config":<br> =
+{<br> "connector.class": "io.debezium.connector.mysql.MySqlConnector",<br> =
+"database.hostname": "rm-d7oxg2z29xe5wc8slxo.mysql.eu-west-1.rds.aliyuncs.c=
+om",<br> "database.port": "3306",<br> "database.user": "dw_read_only",<br> =
+"database.password": "y^n#^qk3",<br> "database.server.id": "202003283306",<=
+br> "database.server.name": "opay_mall_platform_db",<br> "database.whitelis=
+t": "opay_mall_platform",<br> "table.whitelist": "opay_mall_platform.nidesh=
+op_cart,opay_mall_platform.nideshop_order,opay_mall_platform.nideshop_order=
+_goods,opay_mall_platform.mall_merchant,opay_mall_platform.nideshop_goods,o=
+pay_mall_platform.nideshop_product,opay_mall_platform.nideshop_category",<b=
+r> "event.deserialization.failure.handling.mode": "warn",<br> "transforms":=
+"unwrap,insertuuid",<br> "transforms.unwrap.type":"io.debezium.transforms.E=
+xtractNewRecordState",<br> "transforms.unwrap.operation.header":"true",<br>=
+ "transforms.unwrap.drop.tombstones":"false",<br> "transforms.unwrap.delete=
+.handling.mode":"rewrite",<br> "transforms.unwrap.operation.header":true,<b=
+r> "transforms.unwrap.add.source.fields":"table,version,connector,name,ts_m=
+s,db,server_id,file,pos,row",<br> "transforms.insertuuid.type":"com.github.=
+cjmatta.kafka.connect.smt.InsertUuid$Value",<br> "transforms.insertuuid.uui=
+d.field.name":"uuid",<br> "database.history.kafka.bootstrap.servers": "10.5=
+2.5.208:9092,10.52.5.209:9092,10.52.5.210:9092",<br> "database.history.kafk=
+a.topic": "dbhistory.opay_mall_platform_db",<br> "database.history.kafka.re=
+covery.poll.interval.ms":100000,<br> "database.history.store.only.monitored=
+.tables.ddl":"true",<br> "include.schema.changes": "true",<br> "snapshot.lo=
+cking.mode": "none",<br> "decimal.handling.mode": "double",<br> "include.qu=
+ery":"false",<br> "tombstones.on.delete":"false",<br> "snapshot.mode":"sche=
+ma_only",<br> "database.serverTimezone":"UTC",<br> "database.history.skip.u=
+nparseable.ddl":"true"<br> }<br>}</p>
+<p><br></p>
+<p><br></p>
+<pre>sink =E7=AB=AF=E5=8F=82=E8=80=83=E9=85=8D=E7=BD=AE=EF=BC=9A</pre>
+<p>{<br> "name":"opay-mall-platform-db-binlog-oss-sink",<br> "config": {<br=
+> "oss.parquet.protobuf.schema.class":"test,com.aliyun.oss.connect.kafka.fo=
+rmat.parquet.Parquet$Demo",<br> "connector.class":"com.aliyun.oss.connect.k=
+afka.OSSSinkConnector",<br> "format.class":"com.aliyun.oss.connect.kafka.fo=
+rmat.json.JsonFormat",<br> "flush.size":"100000",<br> "tasks.max":"1",<br> =
+"topics.regex": "opay_mall_platform_db.(.*)",<br> "topics.dir": "otrade_bin=
+log",<br> "storage.class":"com.aliyun.oss.connect.kafka.storage.OSSStorage"=
+,<br> "partitioner.class":"io.confluent.connect.storage.partitioner.TimeBas=
+edPartitioner",<br> "oss.bucket":"opay-datalake",<br> "partition.duration.m=
+s":"10000",<br> "path.format": "'dt=3D'YYYY-MM-dd'/hour=3D'HH",<br> "locale=
+":"en-US",<br> "timezone":"UTC",<br> "rotate.schedule.interval.ms": "900000=
+",<br> "timestamp.field" : "__ts_ms",<br> "timestamp.extractor":"RecordFiel=
+d"<br> }<br>}</p>
+<p><br></p>
+<p><br></p>
+<p>=E9=87=8D=E8=A6=81=E9=85=8D=E7=BD=AE=E9=A1=B9=E8=AF=B4=E6=98=8E</p>
+<p>source =E7=AB=AF=EF=BC=9A</p>
+<ul>
+<li>database.hostname =EF=BC=9A=E6=95=B0=E6=8D=AE=E5=BA=93=E5=9C=B0=E5=9D=
+=80</li>
+<li>database.port =EF=BC=9A=E6=95=B0=E6=8D=AE=E5=BA=93=E7=AB=AF=E5=8F=A3=E3=
+=80=82</li>
+<li>database.user =EF=BC=9A =E6=95=B0=E6=8D=AE=E5=BA=93=E8=B4=A6=E5=8F=B7=
+=E3=80=82</li>
+<li>database.password =EF=BC=9A=E6=95=B0=E6=8D=AE=E5=BA=93=E5=AF=86=E7=A0=
+=81=E3=80=82</li>
+<li>database.server.id =EF=BC=9A =E9=9C=80=E8=A6=81=E4=B8=80=E4=B8=AA=E6=95=
+=B4=E5=9E=8B=E6=95=B0=E5=80=BC=E3=80=82=E4=B8=8D=E9=87=8D=E5=A4=8D=E5=8D=B3=
+=E5=8F=AF=E3=80=82</li>
+<li>database.server.name =EF=BC=9A=E6=AD=A4=E9=85=8D=E7=BD=AE=E8=AE=BE=E7=
+=BD=AE=E4=BB=BB=E5=8A=A1<span style=3D"color: rgb(0,0,0);">connector=E5=90=
+=8D=E7=A7=B0</span>=EF=BC=8C=E5=85=A8=E5=B1=80=E5=94=AF=E4=B8=80=E3=80=82</=
+li>
+<li>database.history.kafka.topic =EF=BC=9A=E6=AD=A4=E9=85=8D=E7=BD=AE=E5=AD=
+=98=E5=82=A8=E9=87=87=E9=9B=86=E8=BF=87=E7=A8=8B=E4=B8=AD=E7=9A=84=E5=85=83=
+=E6=95=B0=E6=8D=AE=EF=BC=8C=E5=BB=BA=E8=AE=AE=E4=BD=BF=E7=94=A8&nbsp;dbhist=
+ory.[database.server.name] =E7=9A=84=E5=91=BD=E5=90=8D=E8=A7=84=E5=88=99=EF=
+=BC=8C=E4=BE=BF=E4=BA=8E=E7=AE=A1=E7=90=86=E3=80=82</li>
+<li>database.whitelist =EF=BC=9A =E8=A6=81=E9=87=87=E9=9B=86=E7=9A=84=E7=9B=
+=AE=E6=A0=87=E5=BA=93=E5=90=8D=E7=A7=B0=E3=80=82</li>
+<li>table.whitelist =EF=BC=9A =E8=A6=81=E9=87=87=E9=9B=86=E7=9A=84=E7=9B=AE=
+=E6=A0=87=E8=A1=A8=E5=90=8D=E3=80=82</li>
+</ul>
+<p><br></p>
+<p>sink =E7=AB=AF=EF=BC=9A</p>
+<ul>
+<li>topics.regex =EF=BC=9A=E9=9C=80=E8=A6=81=E9=87=87=E9=9B=86=E7=9A=84=E8=
+=A1=A8=EF=BC=8C=E5=8F=AF=E4=BB=A5=E9=80=9A=E8=BF=87=E6=AD=A3=E5=88=99=E5=8C=
+=B9=E9=85=8D=E7=9A=84=E6=96=B9=E5=BC=8F=E7=BC=96=E5=86=99=E3=80=82</li>
+<li>topics.dir=EF=BC=9A=E8=90=BD=E5=9C=B0=E6=95=B0=E6=8D=AE=E6=96=87=E4=BB=
+=B6=E5=A4=B9=E7=9B=AE=E6=A0=87=E6=A0=B9=E7=9B=AE=E5=BD=95=E3=80=82</li>
+</ul>
+<p><br></p>
+<p>=E5=85=B6=E4=BB=96=E9=85=8D=E7=BD=AE=E5=8F=AF=E4=BB=A5=E6=B2=BF=E7=94=A8=
+=E6=A8=A1=E6=9D=BF=E5=8F=82=E6=95=B0=E5=8D=B3=E5=8F=AF=E3=80=82</p>
+<p><br></p>
+<h4 id=3D"binlog=E6=95=B0=E6=8D=AE=E9=87=87=E9=9B=86=E4=BD=BF=E7=94=A8=E6=
+=96=87=E6=A1=A3-=E4=BB=BB=E5=8A=A1=E4=B8=8A=E7=BA=BF">=E4=BB=BB=E5=8A=A1=E4=
+=B8=8A=E7=BA=BF</h4>
+<p><br></p>
+<p>=E5=90=AF=E5=8A=A8=E4=BB=BB=E5=8A=A1=E5=91=BD=E4=BB=A4</p>
+<p><span style=3D"color: rgb(0,0,0);">curl -X POST -H "Content-Type:applica=
+tion/json" --data @[=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6]&nbsp;&nbsp;localh=
+ost:8083/connectors</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br></span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">=E5=81=9C=E6=AD=A2=E4=BB=BB=E5=8A=A1=E5=91=BD=E4=
+=BB=A4</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);">curl -X DELETE&nbsp;localhost:8083/connectors/[c=
+onnector=E5=90=8D=E7=A7=B0</span><span style=3D"color: rgb(0,0,0);">]</span=
+></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br>=E6=9F=A5=E7=9C=8B=E4=BB=BB=E5=8A=A1=E7=8A=
+=B6=E6=80=81</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><br></p>
+<p>curl -X GET <span class=3D"nolink">http://localhost:8083/connectors/<spa=
+n style=3D"color: rgb(0,0,0);">[connector=E5=90=8D=E7=A7=B0</span><span sty=
+le=3D"color: rgb(0,0,0);">]</span>/status</span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><span st=
+yle=3D"color: rgb(0,0,0);"><br></span></p>
+<p class=3D"paragraph text-align-type-left pap-line-1 pap-line-rule-auto pa=
+p-spacing-before-0pt pap-spacing-after-0pt pap-hanging-indent-2em"><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2634543_1665754376.1587050202663--
